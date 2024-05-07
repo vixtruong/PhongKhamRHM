@@ -1,0 +1,70 @@
+﻿using Repositories.Entities;
+using Services;
+using System;
+using System.Windows.Forms;
+
+namespace PhongKhamDaKhoa.Group8
+{
+    public partial class DanhSachLichKhamForm : Form
+    {
+        private System.Threading.Timer timer;
+        public string? sdt { get; set; }
+        BacSiService bsService = new BacSiService();
+        LichHenService lhService = new LichHenService();
+        BenhNhanService bnService = new BenhNhanService();
+
+        public DanhSachLichKhamForm()
+        {
+            InitializeComponent();
+            InitializeTimer();
+        }
+
+        private void InitializeTimer()
+        {
+            timer = new System.Threading.Timer(TimerCallback, null, 0, 2000); // 2 giây
+        }
+
+        private void TimerCallback(object state)
+        {
+            LoadDgvLichKham();
+        }
+
+        private void LoadDgvLichKham()
+        {
+            List<Tuple<string, string>> list = new List<Tuple<string, string>>();
+            if (this.sdt != null)
+            {
+                Bacsi? bacsi = bsService.GetByPhone(this.sdt);
+                tenBS.Text = bacsi?.Hoten;
+
+                foreach (var item in lhService.GetAll())
+                {
+                    if (item.MaBs == bacsi.MaBs && item.Ngayhen == new DateOnly(DateTime.Today.Year, DateTime.Today.Month, DateTime.Today.Day))
+                    {
+                        string tenBN = bnService.Get(item.MaBn).Hoten;
+                        list.Add(new Tuple<string, string>(item.MaLh, tenBN));
+                    }
+                }
+
+                this.Invoke(new Action(() =>
+                {
+                    dgvLichKham.DataSource = null;
+                    dgvLichKham.DataSource = list;
+                    dgvLichKham.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+                    dgvLichKham.Columns["Item1"].HeaderText = "Mã";
+                    dgvLichKham.Columns["Item2"].HeaderText = "Bệnh nhân";
+                }));
+            }
+        }
+
+        private void DanhSachLichKhamForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            timer.Dispose();
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}

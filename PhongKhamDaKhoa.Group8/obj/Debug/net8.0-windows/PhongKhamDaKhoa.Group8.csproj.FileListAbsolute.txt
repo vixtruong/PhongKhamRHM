@@ -1,0 +1,813 @@
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.exe
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.dll
+D:\New folder\OneDrive\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\appsettings.json
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.exe
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.deps.json
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.runtimeconfig.json
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.pdb
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.pdb
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.AssemblyReference.cache
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangKyForm.resources
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangNhapForm.resources
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.LeTanForm.resources
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.QuanLyNSForm.resources
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.ThanhToanForm.resources
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.XemLichKhamForm.resources
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.GenerateResource.cache
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfoInputs.cache
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfo.cs
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.CoreCompileInputs.cache
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKha.889E77C5.Up2Date
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\refint\PhongKhamDaKhoa.Group8.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.genruntimeconfig.cache
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\ref\PhongKhamDaKhoa.Group8.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.exe
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.pdb
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.pdb
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.AssemblyReference.cache
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangKyForm.resources
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangNhapForm.resources
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.LeTanForm.resources
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.QuanLyNSForm.resources
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.ThanhToanForm.resources
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.XemLichKhamForm.resources
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.GenerateResource.cache
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfoInputs.cache
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfo.cs
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.CoreCompileInputs.cache
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\refint\PhongKhamDaKhoa.Group8.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\appsettings.json
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.deps.json
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.runtimeconfig.json
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKha.889E77C5.Up2Date
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.genruntimeconfig.cache
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\ref\PhongKhamDaKhoa.Group8.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddLeTanForm.resources
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateLeTanForm.resources
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddBacSiForm.resources
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateBacSiForm.resources
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddPhuTaForm.resources
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdatePhuTaForm.resources
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.Properties.Resources.resources
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.QuenMatKhauForm.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\appsettings.json
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.exe
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.deps.json
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.runtimeconfig.json
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.pdb
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.pdb
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.AssemblyReference.cache
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddBacSiForm.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddLeTanForm.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddPhuTaForm.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangKyForm.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangNhapForm.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.LeTanForm.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.Properties.Resources.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.QuanLyNSForm.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.QuenMatKhauForm.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.ThanhToanForm.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateBacSiForm.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateLeTanForm.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdatePhuTaForm.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.XemLichKhamForm.resources
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.GenerateResource.cache
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfoInputs.cache
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfo.cs
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.CoreCompileInputs.cache
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKha.889E77C5.Up2Date
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\refint\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.genruntimeconfig.cache
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\ref\PhongKhamDaKhoa.Group8.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\appsettings.json
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.exe
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.deps.json
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.runtimeconfig.json
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.pdb
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.pdb
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.AssemblyReference.cache
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddBacSiForm.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddLeTanForm.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddPhuTaForm.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangKyForm.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangNhapForm.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.LeTanForm.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.Properties.Resources.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.QuanLyNSForm.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.QuenMatKhauForm.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.ThanhToanForm.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateBacSiForm.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateLeTanForm.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdatePhuTaForm.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.XemLichKhamForm.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.GenerateResource.cache
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.GeneratedMSBuildEditorConfig.editorconfig
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfoInputs.cache
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfo.cs
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.CoreCompileInputs.cache
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKha.889E77C5.Up2Date
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\refint\PhongKhamDaKhoa.Group8.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.genruntimeconfig.cache
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\ref\PhongKhamDaKhoa.Group8.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKham.RJControls.RJComboBox.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\CustomControls.RJControls.RJTextBox.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.nhap.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.HinhThucThanhToan.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.nhap2.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.nhap3.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.ThemLichLam.resources
+F:\CNPM HK2-2324\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UserControlDay.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\appsettings.json
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.exe
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.deps.json
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.runtimeconfig.json
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.pdb
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.pdb
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.AssemblyReference.cache
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddBacSiForm.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddLeTanForm.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddPhuTaForm.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangKyForm.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangNhapForm.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.HinhThucThanhToan.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.LeTanForm.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.Properties.Resources.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.QuanLyNSForm.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.QuenMatKhauForm.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKham.RJControls.RJComboBox.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\CustomControls.RJControls.RJTextBox.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.ThanhToanForm.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.ThemLichLam.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateBacSiForm.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateLeTanForm.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdatePhuTaForm.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UserControlDay.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.XemLichKhamForm.resources
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.GenerateResource.cache
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfoInputs.cache
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfo.cs
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.CoreCompileInputs.cache
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKha.889E77C5.Up2Date
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\refint\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.genruntimeconfig.cache
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\ref\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\appsettings.json
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.exe
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.deps.json
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.runtimeconfig.json
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\itextsharp.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.pdb
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.pdb
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.AssemblyReference.cache
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddBacSiForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddLeTanForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddPhuTaForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.AddUpdateLichKham.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.AddUpdateLichLamForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddVatLieuForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangKyForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangNhapForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.LeTanForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.NhapKhoForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.Properties.Resources.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.QuanLyKhoForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.QuanLyNSForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.QuenMatKhauForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKham.RJControls.RJComboBox.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\CustomControls.RJControls.RJTextBox.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.ThanhToanForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateBacSiForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateLeTanForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdatePhuTaForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateVatLieuForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.XemLichKhamForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.XepLichLamForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.GenerateResource.cache
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfoInputs.cache
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfo.cs
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.CoreCompileInputs.cache
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKha.889E77C5.Up2Date
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\refint\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.genruntimeconfig.cache
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\ref\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\appsettings.json
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.exe
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.deps.json
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.runtimeconfig.json
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\itextsharp.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.pdb
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.pdb
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.AssemblyReference.cache
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddBacSiForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddLeTanForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddPhuTaForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.AddUpdateLichKham.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.AddUpdateLichLamForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddVatLieuForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.BacSiForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangKyForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangNhapForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.LeTanForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.NhapKhoForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.Properties.Resources.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.QuanLyKhoForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.QuanLyNSForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.QuenMatKhauForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKham.RJControls.RJComboBox.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\CustomControls.RJControls.RJTextBox.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.ThanhToanForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.ToaThuocForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateBacSiForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateLeTanForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdatePhuTaForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateVatLieuForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.XemLichKhamForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.XepLichLamForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.GenerateResource.cache
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfoInputs.cache
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfo.cs
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.CoreCompileInputs.cache
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKha.889E77C5.Up2Date
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\refint\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.genruntimeconfig.cache
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\ref\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\office.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.ThongKeDoanhThuForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.TinhTrangBenhForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.HoSoBenhAnForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.RJControls.RJDatePicker.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddHoSoBenhAnForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateHoSoBenhAnForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.KyThuatForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.VatLieuTieuHaoForm.resources
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.DanhSachLichKhamForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.AssemblyReference.cache
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddBacSiForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddHoSoBenhAnForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddLeTanForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddPhuTaForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.AddUpdateLichKham.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.AddUpdateLichLamForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddVatLieuForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.BacSiForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangKyForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.DangNhapForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.DanhSachLichKhamForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.HoSoBenhAnForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.KyThuatForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.LeTanForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.NhapKhoForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.Properties.Resources.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.QuanLyKhoForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.QuanLyNSForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.QuenMatKhauForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKham.RJControls.RJComboBox.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.RJControls.RJDatePicker.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\CustomControls.RJControls.RJTextBox.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\WinFormsApp4.ThanhToanForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.ThongKeDoanhThuForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.TinhTrangBenhForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.ToaThuocForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateBacSiForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateHoSoBenhAnForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateLeTanForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdatePhuTaForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateVatLieuForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.VatLieuTieuHaoForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.XemLichKhamForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.XepLichLamForm.resources
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.GenerateResource.cache
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.GeneratedMSBuildEditorConfig.editorconfig
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfoInputs.cache
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AssemblyInfo.cs
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.csproj.CoreCompileInputs.cache
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\refint\PhongKhamDaKhoa.Group8.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\appsettings.json
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.exe
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.deps.json
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.runtimeconfig.json
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.pdb
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\itextsharp.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\office.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Services.pdb
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Repositories.pdb
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKha.889E77C5.Up2Date
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.genruntimeconfig.cache
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\ref\PhongKhamDaKhoa.Group8.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\bin\Debug\net8.0-windows\office.dll
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.AddHoSoBenhAnForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.BacSiForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.DanhSachLichKhamForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.HoSoBenhAnForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.KyThuatForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.RJControls.RJDatePicker.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamNhaKhoa.ThongKeDoanhThuForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.TinhTrangBenhForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.ToaThuocForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.UpdateHoSoBenhAnForm.resources
+D:\User\Desktop\PhongKhamDaKhoa\PhongKhamDaKhoa.Group8\obj\Debug\net8.0-windows\PhongKhamDaKhoa.Group8.VatLieuTieuHaoForm.resources

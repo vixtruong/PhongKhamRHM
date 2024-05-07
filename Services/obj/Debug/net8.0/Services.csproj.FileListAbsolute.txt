@@ -1,0 +1,112 @@
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\appsettings.json
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.deps.json
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.pdb
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Repositories.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Repositories.pdb
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\refint\Services.dll
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.pdb
+D:\Desktop\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\ref\Services.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\appsettings.json
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.deps.json
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.pdb
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Repositories.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Repositories.pdb
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\refint\Services.dll
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.pdb
+D:\User\Máy tính\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\ref\Services.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\appsettings.json
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.deps.json
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.pdb
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Repositories.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Repositories.pdb
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\refint\Services.dll
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.pdb
+D:\User\Desktop\CNPM\PhongKhamDaKhoa\Services\obj\Debug\net8.0\ref\Services.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\bin\Debug\net8.0\appsettings.json
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.deps.json
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.pdb
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Repositories.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Repositories.pdb
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\obj\Debug\net8.0\refint\Services.dll
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.pdb
+D:\User\Desktop\CNPM\NewVersion\PhongKhamDaKhoa\Services\obj\Debug\net8.0\ref\Services.dll
+D:\User\Desktop\PhongKhamDaKhoa\Services\bin\Debug\net8.0\appsettings.json
+D:\User\Desktop\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.deps.json
+D:\User\Desktop\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.dll
+D:\User\Desktop\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.pdb
+D:\User\Desktop\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Repositories.dll
+D:\User\Desktop\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Repositories.pdb
+D:\User\Desktop\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\User\Desktop\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\User\Desktop\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\User\Desktop\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\User\Desktop\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\User\Desktop\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.dll
+D:\User\Desktop\PhongKhamDaKhoa\Services\obj\Debug\net8.0\refint\Services.dll
+D:\User\Desktop\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.pdb
+D:\User\Desktop\PhongKhamDaKhoa\Services\obj\Debug\net8.0\ref\Services.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\bin\Debug\net8.0\appsettings.json
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.deps.json
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.pdb
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Repositories.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Repositories.pdb
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\obj\Debug\net8.0\refint\Services.dll
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.pdb
+D:\User\Desktop\CNPM\CK\PhongKhamDaKhoa\Services\obj\Debug\net8.0\ref\Services.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\bin\Debug\net8.0\appsettings.json
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.deps.json
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Services.pdb
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Repositories.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\bin\Debug\net8.0\Repositories.pdb
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\obj\Debug\net8.0\refint\Services.dll
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\obj\Debug\net8.0\Services.pdb
+F:\CNPM HK2-2324\N8\demo\PhongKhamDaKhoa\Services\obj\Debug\net8.0\ref\Services.dll

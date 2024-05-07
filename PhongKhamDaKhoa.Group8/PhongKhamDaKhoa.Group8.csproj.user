@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddBacSiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddHoSoBenhAnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddLeTanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddPhuTaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddUpdateLichKham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddUpdateLichLamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddVatLieuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BacSiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DangKyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DangNhapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DanhSachLichKhamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HoSoBenhAnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KyThuatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LeTanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhapKhoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyKhoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyNSForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuenMatKhauForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RJControls\Calendar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJCircularPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJDatePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="RJControls\RJToggleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ThanhToanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThongKeDoanhThuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TinhTrangBenhForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToaThuocForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateBacSiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateHoSoBenhAnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateLeTanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdatePhuTaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateVatLieuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VatLieuTieuHaoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XemLichKhamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XepLichLamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
