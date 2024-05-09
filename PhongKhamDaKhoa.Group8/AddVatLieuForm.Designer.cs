@@ -50,11 +50,11 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 163);
-            label1.Location = new Point(118, 19);
+            label1.Location = new Point(81, 20);
             label1.Name = "label1";
-            label1.Size = new Size(190, 32);
+            label1.Size = new Size(229, 32);
             label1.TabIndex = 0;
-            label1.Text = "Thêm thông tin";
+            label1.Text = "Thông Tin Vật Liệu";
             label1.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label2
@@ -262,10 +262,12 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Cursor = Cursors.IBeam;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "AddVatLieuForm";
             StartPosition = FormStartPosition.CenterParent;
-            Text = "AddUpdateVatLieu";
+            Text = "Thêm Vật Liệu";
             Load += AddUpdateVatLieu_Load;
+            Resize += Form_Resize;
             panelTitleBar.ResumeLayout(false);
             panelTitleBar.PerformLayout();
             ResumeLayout(false);

@@ -19,6 +19,7 @@ namespace PhongKhamDaKhoa.Group8
         public UpdateVatLieuForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]

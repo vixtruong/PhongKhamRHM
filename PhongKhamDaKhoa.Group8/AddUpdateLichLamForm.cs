@@ -24,6 +24,7 @@ namespace PhongKhamNhaKhoa
         public AddUpdateLichLamForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -147,6 +148,21 @@ namespace PhongKhamNhaKhoa
         private void button_MouseLeave(object sender, EventArgs e)
         {
             btnThoat.BackColor = Color.Transparent;
+        }
+
+        private const int MaxWidth = 500;
+        private const int MaxHeight = 603;
+
+        private void Form_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
         }
     }
 }

@@ -569,13 +569,15 @@
             Controls.Add(panel3);
             Controls.Add(panel2);
             Controls.Add(panel1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
             Name = "BacSiForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "BacSiForm";
+            Text = "Bác Sĩ";
             FormClosing += DanhSachLichKhamForm_FormClosing;
             FormClosed += BacSiForm_FormClosed;
             Load += BacSiForm_Load;
+            Resize += BacSiForm_Resize;
             panelTitleBar.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();

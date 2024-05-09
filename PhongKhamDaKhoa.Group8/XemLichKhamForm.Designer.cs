@@ -465,7 +465,7 @@
             // pictureBox7
             // 
             pictureBox7.Image = (Image)resources.GetObject("pictureBox7.Image");
-            pictureBox7.Location = new Point(1160, 0);
+            pictureBox7.Location = new Point(1152, 0);
             pictureBox7.Margin = new Padding(3, 4, 3, 4);
             pictureBox7.Name = "pictureBox7";
             pictureBox7.Size = new Size(70, 76);
@@ -537,10 +537,10 @@
             btnDelete.FlatStyle = FlatStyle.Flat;
             btnDelete.Font = new Font("Segoe UI Semibold", 9.75F, FontStyle.Bold);
             btnDelete.ForeColor = Color.White;
-            btnDelete.Location = new Point(1130, 659);
+            btnDelete.Location = new Point(1130, 665);
             btnDelete.Margin = new Padding(3, 4, 3, 4);
             btnDelete.Name = "btnDelete";
-            btnDelete.Size = new Size(102, 49);
+            btnDelete.Size = new Size(102, 39);
             btnDelete.TabIndex = 70;
             btnDelete.Text = "Xóa";
             btnDelete.TextColor = Color.White;
@@ -558,10 +558,10 @@
             btnUpdate.FlatStyle = FlatStyle.Flat;
             btnUpdate.Font = new Font("Segoe UI Semibold", 9.75F, FontStyle.Bold);
             btnUpdate.ForeColor = Color.White;
-            btnUpdate.Location = new Point(993, 659);
+            btnUpdate.Location = new Point(994, 665);
             btnUpdate.Margin = new Padding(3, 4, 3, 4);
             btnUpdate.Name = "btnUpdate";
-            btnUpdate.Size = new Size(102, 49);
+            btnUpdate.Size = new Size(102, 39);
             btnUpdate.TabIndex = 71;
             btnUpdate.Text = "Sửa";
             btnUpdate.TextColor = Color.White;
@@ -579,10 +579,10 @@
             btnAdd.FlatStyle = FlatStyle.Flat;
             btnAdd.Font = new Font("Segoe UI Semibold", 9.75F, FontStyle.Bold);
             btnAdd.ForeColor = Color.White;
-            btnAdd.Location = new Point(850, 659);
+            btnAdd.Location = new Point(863, 665);
             btnAdd.Margin = new Padding(3, 4, 3, 4);
             btnAdd.Name = "btnAdd";
-            btnAdd.Size = new Size(102, 49);
+            btnAdd.Size = new Size(102, 39);
             btnAdd.TabIndex = 72;
             btnAdd.Text = "Thêm";
             btnAdd.TextColor = Color.White;
@@ -642,11 +642,13 @@
             Controls.Add(btnPrevDay);
             Controls.Add(dtpUserSelect);
             Controls.Add(groupBox2);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(2, 3, 2, 3);
             Name = "XemLichKhamForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "XemLichKham";
+            Text = "Quản Lý Lịch Khám";
             Load += XemLichKhamForm_Load;
+            Resize += Form_Resize;
             groupBox2.ResumeLayout(false);
             groupBox2.PerformLayout();
             panelTitleBar.ResumeLayout(false);

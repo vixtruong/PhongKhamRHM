@@ -473,13 +473,15 @@
             Controls.Add(btnXepLichLam);
             Controls.Add(btnXemTonKho);
             Controls.Add(btnXepLichKham);
-            FormBorderStyle = FormBorderStyle.FixedToolWindow;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
             Name = "LeTanForm";
             StartPosition = FormStartPosition.CenterScreen;
+            Tag = "";
             Text = "Lễ Tân";
             FormClosed += LeTanForm_FormClosed;
             Load += LeTanForm_Load;
+            Resize += LeTanForm_Resize;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dgvLichKham).EndInit();

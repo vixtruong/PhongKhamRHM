@@ -18,6 +18,7 @@ namespace PhongKhamDaKhoa.Group8
         public AddVatLieuForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -98,6 +99,21 @@ namespace PhongKhamDaKhoa.Group8
         private void button_MouseLeave(object sender, EventArgs e)
         {
             btnThoat.BackColor = Color.Transparent;
+        }
+
+        private const int MaxWidth = 416;
+        private const int MaxHeight = 511;
+
+        private void Form_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
         }
     }
 }

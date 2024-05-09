@@ -22,6 +22,7 @@ namespace PhongKhamDaKhoa.Group8
         public UpdateHoSoBenhAnForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]

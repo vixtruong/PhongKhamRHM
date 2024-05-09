@@ -434,7 +434,7 @@
             // 
             btnSearchLT.Cursor = Cursors.Hand;
             btnSearchLT.Image = (Image)resources.GetObject("btnSearchLT.Image");
-            btnSearchLT.Location = new Point(807, 24);
+            btnSearchLT.Location = new Point(807, 23);
             btnSearchLT.Margin = new Padding(3, 4, 3, 4);
             btnSearchLT.Name = "btnSearchLT";
             btnSearchLT.Size = new Size(51, 48);
@@ -1362,11 +1362,13 @@
             Controls.Add(tabControl);
             Controls.Add(panel3);
             Controls.Add(panelTitleBar);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
             Name = "QuanLyNSForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Quản Lí Thông Tin Nhân Sự";
+            Text = "Quản Lý Thông Tin Nhân Sự";
             Load += QuanLyNSForm_Load;
+            Resize += Form_Resize;
             panelTitleBar.ResumeLayout(false);
             panelTitleBar.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox6).EndInit();

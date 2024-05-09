@@ -29,7 +29,9 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ThanhToanForm));
+            DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
             DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle3 = new DataGridViewCellStyle();
             panelTitleBar = new Panel();
             label7 = new Label();
             label6 = new Label();
@@ -340,10 +342,10 @@
             // label15
             // 
             label15.AutoSize = true;
-            label15.Font = new Font("Segoe UI Black", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label15.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
             label15.Location = new Point(16, 0);
             label15.Name = "label15";
-            label15.Size = new Size(126, 28);
+            label15.Size = new Size(123, 28);
             label15.TabIndex = 25;
             label15.Text = "Khách hàng";
             // 
@@ -529,10 +531,10 @@
             // label16
             // 
             label16.AutoSize = true;
-            label16.Font = new Font("Segoe UI Black", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label16.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
             label16.Location = new Point(16, 0);
             label16.Name = "label16";
-            label16.Size = new Size(97, 28);
+            label16.Size = new Size(94, 28);
             label16.TabIndex = 25;
             label16.Text = "Hóa đơn";
             // 
@@ -658,14 +660,14 @@
             // 
             dgvThuoc.BackgroundColor = SystemColors.ControlLightLight;
             dgvThuoc.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = SystemColors.Window;
-            dataGridViewCellStyle2.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            dataGridViewCellStyle2.ForeColor = SystemColors.ControlText;
-            dataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = DataGridViewTriState.False;
-            dgvThuoc.DefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle1.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = SystemColors.Window;
+            dataGridViewCellStyle1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            dataGridViewCellStyle1.ForeColor = SystemColors.ControlText;
+            dataGridViewCellStyle1.SelectionBackColor = SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = DataGridViewTriState.False;
+            dgvThuoc.DefaultCellStyle = dataGridViewCellStyle1;
             dgvThuoc.Location = new Point(10, 432);
             dgvThuoc.Name = "dgvThuoc";
             dgvThuoc.RowHeadersVisible = false;
@@ -677,8 +679,24 @@
             // 
             dgvKT.BackgroundColor = SystemColors.ControlLightLight;
             dgvKT.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = SystemColors.Window;
+            dataGridViewCellStyle2.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            dataGridViewCellStyle2.ForeColor = SystemColors.ControlText;
+            dataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = DataGridViewTriState.False;
+            dgvKT.DefaultCellStyle = dataGridViewCellStyle2;
             dgvKT.Location = new Point(10, 151);
             dgvKT.Name = "dgvKT";
+            dataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = SystemColors.Control;
+            dataGridViewCellStyle3.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            dataGridViewCellStyle3.ForeColor = SystemColors.WindowText;
+            dataGridViewCellStyle3.SelectionBackColor = SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = DataGridViewTriState.True;
+            dgvKT.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
             dgvKT.RowHeadersVisible = false;
             dgvKT.RowHeadersWidth = 51;
             dgvKT.Size = new Size(697, 228);
@@ -864,11 +882,13 @@
             Controls.Add(panel1);
             Controls.Add(panel3);
             Controls.Add(panelTitleBar);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
             Name = "ThanhToanForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Thanh Toán";
             Load += ThanhToanForm_Load;
+            Resize += Form_Resize;
             panelTitleBar.ResumeLayout(false);
             panelTitleBar.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();

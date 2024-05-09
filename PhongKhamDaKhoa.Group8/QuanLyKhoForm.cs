@@ -25,6 +25,7 @@ namespace PhongKhamDaKhoa.Group8
         public QuanLyKhoForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -110,9 +111,17 @@ namespace PhongKhamDaKhoa.Group8
                 if (deleteResult == DialogResult.No)
                     return;
 
-                thuocService.DeleteThuoc(id);
-                var newList = thuocService.GetAll();
-                LoadListThuoc(newList);
+                try
+                {
+                    thuocService.DeleteThuoc(id);
+                    var newList = thuocService.GetAll();
+                    LoadListThuoc(newList);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Thuốc có liên quan tới dữ liệu của phòng khám! Không thể xóa!", "Lỗi",
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
 
             if (vp == "Vật liệu")
@@ -126,9 +135,17 @@ namespace PhongKhamDaKhoa.Group8
                 if (deleteResult == DialogResult.No)
                     return;
 
-                vlService.Delete(id);
-                var newList = vlService.GetAll();
-                LoadListVatLieu(newList);
+                try
+                {
+                    vlService.Delete(id);
+                    var newList = vlService.GetAll();
+                    LoadListVatLieu(newList);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Vật liệu có liên quan tới dữ liệu của phòng khám! Không thể xóa!", "Lỗi",
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
 
@@ -230,6 +247,21 @@ namespace PhongKhamDaKhoa.Group8
                     }
                 }
                 LoadListVatLieu(list);
+            }
+        }
+
+        private const int MaxWidth = 784;
+        private const int MaxHeight = 700;
+
+        private void Form_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
             }
         }
     }

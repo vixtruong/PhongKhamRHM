@@ -18,6 +18,7 @@ namespace PhongKhamDaKhoa.Group8
         public AddPhuTaForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -113,6 +114,21 @@ namespace PhongKhamDaKhoa.Group8
         private void button_MouseLeave(object sender, EventArgs e)
         {
             btnThoat.BackColor = Color.Transparent;
+        }
+
+        private const int MaxWidth = 420;
+        private const int MaxHeight = 666;
+
+        private void AddPhuTaForm_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
         }
     }
 }

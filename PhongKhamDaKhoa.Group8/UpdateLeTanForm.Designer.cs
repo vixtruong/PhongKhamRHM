@@ -43,6 +43,7 @@
             label3 = new Label();
             btnThoat = new Button();
             panelTitleBar = new Panel();
+            lblTitle = new Label();
             panelTitleBar.SuspendLayout();
             SuspendLayout();
             // 
@@ -58,7 +59,7 @@
             btnSaveLT.FlatStyle = FlatStyle.Flat;
             btnSaveLT.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 163);
             btnSaveLT.ForeColor = Color.Black;
-            btnSaveLT.Location = new Point(135, 545);
+            btnSaveLT.Location = new Point(167, 562);
             btnSaveLT.Margin = new Padding(3, 4, 3, 4);
             btnSaveLT.Name = "btnSaveLT";
             btnSaveLT.Size = new Size(125, 41);
@@ -76,7 +77,7 @@
             txtPhoneLT.BorderRadius = 8;
             txtPhoneLT.BorderSize = 1;
             txtPhoneLT.Cursor = Cursors.IBeam;
-            txtPhoneLT.Location = new Point(49, 377);
+            txtPhoneLT.Location = new Point(81, 394);
             txtPhoneLT.Margin = new Padding(3, 4, 3, 4);
             txtPhoneLT.Multiline = false;
             txtPhoneLT.Name = "txtPhoneLT";
@@ -97,7 +98,7 @@
             txtNameLT.BorderRadius = 8;
             txtNameLT.BorderSize = 1;
             txtNameLT.Cursor = Cursors.IBeam;
-            txtNameLT.Location = new Point(50, 85);
+            txtNameLT.Location = new Point(82, 102);
             txtNameLT.Margin = new Padding(3, 4, 3, 4);
             txtNameLT.Multiline = false;
             txtNameLT.Name = "txtNameLT";
@@ -114,7 +115,7 @@
             // 
             chkFemaleLT.AutoSize = true;
             chkFemaleLT.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            chkFemaleLT.Location = new Point(190, 296);
+            chkFemaleLT.Location = new Point(222, 313);
             chkFemaleLT.Margin = new Padding(3, 4, 3, 4);
             chkFemaleLT.Name = "chkFemaleLT";
             chkFemaleLT.Size = new Size(61, 32);
@@ -127,7 +128,7 @@
             // 
             chkMaleLT.AutoSize = true;
             chkMaleLT.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            chkMaleLT.Location = new Point(50, 296);
+            chkMaleLT.Location = new Point(82, 313);
             chkMaleLT.Margin = new Padding(3, 4, 3, 4);
             chkMaleLT.Name = "chkMaleLT";
             chkMaleLT.Size = new Size(76, 32);
@@ -139,7 +140,7 @@
             // dtpDateWorkingLT
             // 
             dtpDateWorkingLT.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            dtpDateWorkingLT.Location = new Point(50, 479);
+            dtpDateWorkingLT.Location = new Point(82, 496);
             dtpDateWorkingLT.Margin = new Padding(3, 4, 3, 4);
             dtpDateWorkingLT.Name = "dtpDateWorkingLT";
             dtpDateWorkingLT.Size = new Size(306, 32);
@@ -148,7 +149,7 @@
             // dtpBirthdayLT
             // 
             dtpBirthdayLT.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            dtpBirthdayLT.Location = new Point(50, 191);
+            dtpBirthdayLT.Location = new Point(82, 208);
             dtpBirthdayLT.Margin = new Padding(3, 4, 3, 4);
             dtpBirthdayLT.Name = "dtpBirthdayLT";
             dtpBirthdayLT.Size = new Size(306, 32);
@@ -158,7 +159,7 @@
             // 
             label12.AutoSize = true;
             label12.Font = new Font("Segoe UI", 12F);
-            label12.Location = new Point(39, 345);
+            label12.Location = new Point(71, 362);
             label12.Name = "label12";
             label12.Size = new Size(132, 28);
             label12.TabIndex = 31;
@@ -168,7 +169,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 12F);
-            label1.Location = new Point(39, 441);
+            label1.Location = new Point(71, 458);
             label1.Name = "label1";
             label1.Size = new Size(176, 28);
             label1.TabIndex = 32;
@@ -178,7 +179,7 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 12F);
-            label4.Location = new Point(39, 256);
+            label4.Location = new Point(71, 273);
             label4.Name = "label4";
             label4.Size = new Size(91, 28);
             label4.TabIndex = 33;
@@ -188,7 +189,7 @@
             // 
             label7.AutoSize = true;
             label7.Font = new Font("Segoe UI", 12F);
-            label7.Location = new Point(39, 148);
+            label7.Location = new Point(71, 165);
             label7.Name = "label7";
             label7.Size = new Size(103, 28);
             label7.TabIndex = 34;
@@ -198,7 +199,7 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 12F);
-            label3.Location = new Point(39, 48);
+            label3.Location = new Point(71, 65);
             label3.Name = "label3";
             label3.Size = new Size(100, 28);
             label3.TabIndex = 35;
@@ -210,7 +211,7 @@
             btnThoat.FlatAppearance.BorderSize = 0;
             btnThoat.FlatStyle = FlatStyle.Flat;
             btnThoat.Image = (Image)resources.GetObject("btnThoat.Image");
-            btnThoat.Location = new Point(342, 9);
+            btnThoat.Location = new Point(421, 7);
             btnThoat.Margin = new Padding(3, 4, 3, 4);
             btnThoat.Name = "btnThoat";
             btnThoat.Size = new Size(41, 43);
@@ -220,20 +221,33 @@
             // panelTitleBar
             // 
             panelTitleBar.BackColor = Color.Transparent;
+            panelTitleBar.Controls.Add(lblTitle);
             panelTitleBar.Controls.Add(btnThoat);
             panelTitleBar.Dock = DockStyle.Top;
             panelTitleBar.Location = new Point(0, 0);
             panelTitleBar.Margin = new Padding(3, 4, 3, 4);
             panelTitleBar.Name = "panelTitleBar";
-            panelTitleBar.Size = new Size(393, 61);
+            panelTitleBar.Size = new Size(470, 61);
             panelTitleBar.TabIndex = 43;
+            // 
+            // lblTitle
+            // 
+            lblTitle.Anchor = AnchorStyles.Top;
+            lblTitle.AutoSize = true;
+            lblTitle.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            lblTitle.Location = new Point(131, 14);
+            lblTitle.Margin = new Padding(2, 0, 2, 0);
+            lblTitle.Name = "lblTitle";
+            lblTitle.Size = new Size(209, 32);
+            lblTitle.TabIndex = 14;
+            lblTitle.Text = "Thông Tin Lễ Tân";
             // 
             // UpdateLeTanForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlLightLight;
-            ClientSize = new Size(393, 619);
+            ClientSize = new Size(470, 628);
             Controls.Add(btnSaveLT);
             Controls.Add(txtPhoneLT);
             Controls.Add(txtNameLT);
@@ -247,11 +261,13 @@
             Controls.Add(label7);
             Controls.Add(label3);
             Controls.Add(panelTitleBar);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "UpdateLeTanForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Cập Nhật Lễ Tân";
             Load += UpdateLeTanForm_Load;
             panelTitleBar.ResumeLayout(false);
+            panelTitleBar.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -272,5 +288,6 @@
         private Label label3;
         private Button btnThoat;
         private Panel panelTitleBar;
+        private Label lblTitle;
     }
 }

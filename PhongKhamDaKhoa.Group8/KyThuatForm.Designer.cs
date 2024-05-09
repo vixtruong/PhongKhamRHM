@@ -603,10 +603,12 @@
             Controls.Add(panel5);
             Controls.Add(panel4);
             Controls.Add(panelTitleBar);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "KyThuatForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "KyThuatForm";
+            Text = "Kỹ Thuật";
             Load += KyThuatForm_Load;
+            Resize += Form_Resize;
             panel4.ResumeLayout(false);
             panel4.PerformLayout();
             panelTitleBar.ResumeLayout(false);

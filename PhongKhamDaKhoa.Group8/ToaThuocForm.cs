@@ -28,6 +28,7 @@ namespace PhongKhamDaKhoa.Group8
         public ToaThuocForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -211,6 +212,21 @@ namespace PhongKhamDaKhoa.Group8
             }
 
             MessageBox.Show("Tạo toa thuốc thành công!", "Successfully", MessageBoxButtons.OK);
+        }
+
+        private const int MaxWidth = 904;
+        private const int MaxHeight = 839;
+
+        private void Form_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
         }
     }
 }

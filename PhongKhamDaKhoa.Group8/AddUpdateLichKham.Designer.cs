@@ -359,12 +359,14 @@
             Controls.Add(label1);
             Controls.Add(dtpLichHen);
             Controls.Add(panelTitleBar);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(2, 3, 2, 3);
             Name = "AddUpdateLichKham";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Thông Tin Lịch Khám";
             FormClosed += AddUpdateLichKham_FormClosed;
             Load += AddUpdateLichKham_Load;
+            Resize += Form_Resize;
             panelTitleBar.ResumeLayout(false);
             panelTitleBar.PerformLayout();
             ResumeLayout(false);

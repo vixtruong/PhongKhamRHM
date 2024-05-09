@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\updatevatlieuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\updatevatlieuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\kythuatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\kythuatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\updatevatlieuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\updatevatlieuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\toathuocform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\toathuocform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\phongkhamdakhoa.group8\\letanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\letanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\letanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\letanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\phongkhamdakhoa.group8\\dangnhapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\dangnhapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\vatlieutieuhaoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\vatlieutieuhaoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,62 +39,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UpdateVatLieuForm.cs",
-              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\UpdateVatLieuForm.cs",
-              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\UpdateVatLieuForm.cs",
-              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\UpdateVatLieuForm.cs",
-              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\UpdateVatLieuForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "KyThuatForm.cs [Design]",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\KyThuatForm.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\KyThuatForm.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\KyThuatForm.cs [Design]",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\KyThuatForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T08:07:19.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateVatLieuForm.cs [Design]",
-              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\UpdateVatLieuForm.cs",
-              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\UpdateVatLieuForm.cs",
-              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\UpdateVatLieuForm.cs [Design]",
-              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\UpdateVatLieuForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T08:07:17.575Z",
+              "WhenOpened": "2024-05-09T09:56:28.716Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DangNhapForm.cs [Design]",
-              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\DangNhapForm.cs",
-              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\DangNhapForm.cs",
-              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\DangNhapForm.cs [Design]",
-              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\DangNhapForm.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "ToaThuocForm.cs [Design]",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\ToaThuocForm.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\ToaThuocForm.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\ToaThuocForm.cs [Design]",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\ToaThuocForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T07:57:48.228Z"
+              "WhenOpened": "2024-05-09T09:56:22.983Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LeTanForm.cs",
-              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\LeTanForm.cs",
-              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\LeTanForm.cs",
-              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\LeTanForm.cs",
-              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\LeTanForm.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAJAAAA",
+              "Title": "VatLieuTieuHaoForm.cs [Design]",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\VatLieuTieuHaoForm.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\VatLieuTieuHaoForm.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\VatLieuTieuHaoForm.cs [Design]",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\VatLieuTieuHaoForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T07:59:25.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LeTanForm.cs [Design]",
-              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\LeTanForm.cs",
-              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\LeTanForm.cs",
-              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\LeTanForm.cs [Design]",
-              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\LeTanForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T07:58:44.868Z",
+              "WhenOpened": "2024-05-09T09:56:18.442Z",
               "EditorCaption": " [Design]"
             }
           ]

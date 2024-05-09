@@ -23,6 +23,7 @@ namespace PhongKhamDaKhoa.Group8
         public UpdateBacSiForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]

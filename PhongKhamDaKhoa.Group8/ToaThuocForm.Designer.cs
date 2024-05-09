@@ -605,11 +605,13 @@
             Controls.Add(panel3);
             Controls.Add(panelTitleBar);
             Controls.Add(panel1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
             Name = "ToaThuocForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Toa Thuốc";
             Load += ToaThuocForm_Load;
+            Resize += Form_Resize;
             panelTitleBar.ResumeLayout(false);
             panelTitleBar.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();

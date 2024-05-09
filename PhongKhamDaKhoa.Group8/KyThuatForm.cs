@@ -27,6 +27,7 @@ namespace PhongKhamDaKhoa.Group8
         public KyThuatForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -216,6 +217,21 @@ namespace PhongKhamDaKhoa.Group8
                 ctpkbService.Add(ctpkb);
             }
             MessageBox.Show("Thêm dịch vụ thành công!", "Successfully", MessageBoxButtons.OK);
+        }
+
+        private const int MaxWidth = 905;
+        private const int MaxHeight = 869;
+
+        private void Form_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
         }
     }
 }

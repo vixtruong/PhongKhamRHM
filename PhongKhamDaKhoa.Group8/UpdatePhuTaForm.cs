@@ -18,6 +18,7 @@ namespace PhongKhamDaKhoa.Group8
         public UpdatePhuTaForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]

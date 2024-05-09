@@ -22,7 +22,6 @@ namespace WinFormsApp4
         public LeTanForm()
         {
             InitializeComponent();
-            this.Text = string.Empty;
             this.ControlBox = false;
             this.MaximizedBounds = Screen.FromHandle(this.Handle).WorkingArea;
         }
@@ -118,6 +117,21 @@ namespace WinFormsApp4
         {
             ThongKeDoanhThuForm form = new ThongKeDoanhThuForm();
             form.Show();
+        }
+
+        private const int MaxWidth = 889;
+        private const int MaxHeight = 624;
+
+        private void LeTanForm_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
         }
     }
 }

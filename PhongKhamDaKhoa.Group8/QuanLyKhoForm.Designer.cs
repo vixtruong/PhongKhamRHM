@@ -39,11 +39,17 @@
             label1 = new Label();
             btnThoat = new Button();
             panelTitleBar = new Panel();
+            pictureBox6 = new PictureBox();
+            pictureBox3 = new PictureBox();
+            label7 = new Label();
+            label6 = new Label();
             cbLoaiVP = new ComboBox();
             btnSearchLT = new Button();
             txtTimkiem = new CustomControls.RJControls.RJTextBox();
             ((System.ComponentModel.ISupportInitialize)dgvVP).BeginInit();
             panelTitleBar.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox6).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
             SuspendLayout();
             // 
             // btnXoa
@@ -57,7 +63,7 @@
             btnXoa.FlatAppearance.BorderSize = 0;
             btnXoa.FlatStyle = FlatStyle.Flat;
             btnXoa.ForeColor = Color.White;
-            btnXoa.Location = new Point(642, 531);
+            btnXoa.Location = new Point(642, 588);
             btnXoa.Margin = new Padding(3, 4, 3, 4);
             btnXoa.Name = "btnXoa";
             btnXoa.Size = new Size(101, 39);
@@ -78,7 +84,7 @@
             btnSua.FlatAppearance.BorderSize = 0;
             btnSua.FlatStyle = FlatStyle.Flat;
             btnSua.ForeColor = Color.White;
-            btnSua.Location = new Point(537, 531);
+            btnSua.Location = new Point(537, 588);
             btnSua.Margin = new Padding(3, 4, 3, 4);
             btnSua.Name = "btnSua";
             btnSua.Size = new Size(101, 39);
@@ -99,7 +105,7 @@
             dgvVP.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             dgvVP.EnableHeadersVisualStyles = false;
             dgvVP.GridColor = Color.White;
-            dgvVP.Location = new Point(21, 135);
+            dgvVP.Location = new Point(21, 192);
             dgvVP.Margin = new Padding(3, 4, 3, 4);
             dgvVP.MultiSelect = false;
             dgvVP.Name = "dgvVP";
@@ -118,7 +124,7 @@
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label3.ForeColor = Color.Black;
-            label3.Location = new Point(290, 43);
+            label3.Location = new Point(290, 100);
             label3.Name = "label3";
             label3.Size = new Size(186, 28);
             label3.TabIndex = 24;
@@ -130,7 +136,7 @@
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label2.ForeColor = Color.Black;
-            label2.Location = new Point(18, 43);
+            label2.Location = new Point(18, 100);
             label2.Name = "label2";
             label2.Size = new Size(145, 28);
             label2.TabIndex = 25;
@@ -147,7 +153,7 @@
             btnSan.FlatAppearance.BorderSize = 0;
             btnSan.FlatStyle = FlatStyle.Flat;
             btnSan.ForeColor = Color.White;
-            btnSan.Location = new Point(128, 533);
+            btnSan.Location = new Point(128, 590);
             btnSan.Margin = new Padding(3, 4, 3, 4);
             btnSan.Name = "btnSan";
             btnSan.Size = new Size(103, 39);
@@ -168,7 +174,7 @@
             btnChua.FlatAppearance.BorderSize = 0;
             btnChua.FlatStyle = FlatStyle.Flat;
             btnChua.ForeColor = Color.White;
-            btnChua.Location = new Point(237, 533);
+            btnChua.Location = new Point(237, 590);
             btnChua.Margin = new Padding(3, 4, 3, 4);
             btnChua.Name = "btnChua";
             btnChua.Size = new Size(101, 39);
@@ -184,7 +190,7 @@
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
             label1.ForeColor = Color.Black;
-            label1.Location = new Point(19, 537);
+            label1.Location = new Point(19, 594);
             label1.Name = "label1";
             label1.Size = new Size(107, 28);
             label1.TabIndex = 33;
@@ -197,7 +203,7 @@
             btnThoat.FlatAppearance.BorderSize = 0;
             btnThoat.FlatStyle = FlatStyle.Flat;
             btnThoat.Image = (Image)resources.GetObject("btnThoat.Image");
-            btnThoat.Location = new Point(715, 8);
+            btnThoat.Location = new Point(709, 20);
             btnThoat.Margin = new Padding(3, 4, 3, 4);
             btnThoat.Name = "btnThoat";
             btnThoat.Size = new Size(41, 43);
@@ -208,13 +214,62 @@
             // panelTitleBar
             // 
             panelTitleBar.BackColor = Color.Transparent;
+            panelTitleBar.Controls.Add(pictureBox6);
+            panelTitleBar.Controls.Add(pictureBox3);
+            panelTitleBar.Controls.Add(label7);
+            panelTitleBar.Controls.Add(label6);
             panelTitleBar.Controls.Add(btnThoat);
             panelTitleBar.Dock = DockStyle.Top;
             panelTitleBar.Location = new Point(0, 0);
             panelTitleBar.Margin = new Padding(3, 4, 3, 4);
             panelTitleBar.Name = "panelTitleBar";
-            panelTitleBar.Size = new Size(766, 61);
+            panelTitleBar.Size = new Size(766, 84);
             panelTitleBar.TabIndex = 58;
+            // 
+            // pictureBox6
+            // 
+            pictureBox6.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            pictureBox6.Image = (Image)resources.GetObject("pictureBox6.Image");
+            pictureBox6.Location = new Point(622, 4);
+            pictureBox6.Margin = new Padding(3, 4, 3, 4);
+            pictureBox6.Name = "pictureBox6";
+            pictureBox6.Size = new Size(70, 76);
+            pictureBox6.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox6.TabIndex = 74;
+            pictureBox6.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            pictureBox3.Image = (Image)resources.GetObject("pictureBox3.Image");
+            pictureBox3.Location = new Point(3, 4);
+            pictureBox3.Margin = new Padding(3, 4, 3, 4);
+            pictureBox3.Name = "pictureBox3";
+            pictureBox3.Size = new Size(80, 76);
+            pictureBox3.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox3.TabIndex = 6;
+            pictureBox3.TabStop = false;
+            // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 163);
+            label7.ForeColor = Color.FromArgb(27, 117, 188);
+            label7.Location = new Point(101, 42);
+            label7.Name = "label7";
+            label7.Size = new Size(146, 23);
+            label7.TabIndex = 8;
+            label7.Text = "RĂNG HÀM MẶT";
+            // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.Font = new Font("Segoe UI", 12.75F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 163);
+            label6.ForeColor = Color.FromArgb(27, 117, 188);
+            label6.Location = new Point(90, 12);
+            label6.Name = "label6";
+            label6.Size = new Size(166, 30);
+            label6.TabIndex = 7;
+            label6.Text = "PHÒNG KHÁM";
             // 
             // cbLoaiVP
             // 
@@ -222,7 +277,7 @@
             cbLoaiVP.AutoCompleteSource = AutoCompleteSource.ListItems;
             cbLoaiVP.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
             cbLoaiVP.FormattingEnabled = true;
-            cbLoaiVP.Location = new Point(21, 77);
+            cbLoaiVP.Location = new Point(21, 134);
             cbLoaiVP.Margin = new Padding(3, 4, 3, 4);
             cbLoaiVP.Name = "cbLoaiVP";
             cbLoaiVP.Size = new Size(262, 36);
@@ -233,7 +288,7 @@
             // 
             btnSearchLT.Cursor = Cursors.Hand;
             btnSearchLT.Image = (Image)resources.GetObject("btnSearchLT.Image");
-            btnSearchLT.Location = new Point(698, 73);
+            btnSearchLT.Location = new Point(698, 130);
             btnSearchLT.Margin = new Padding(3, 4, 3, 4);
             btnSearchLT.Name = "btnSearchLT";
             btnSearchLT.Size = new Size(45, 42);
@@ -250,7 +305,7 @@
             txtTimkiem.BorderSize = 1;
             txtTimkiem.Cursor = Cursors.IBeam;
             txtTimkiem.Font = new Font("Segoe UI", 11F);
-            txtTimkiem.Location = new Point(307, 74);
+            txtTimkiem.Location = new Point(307, 131);
             txtTimkiem.Multiline = false;
             txtTimkiem.Name = "txtTimkiem";
             txtTimkiem.Padding = new Padding(10, 7, 10, 7);
@@ -267,7 +322,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlLightLight;
-            ClientSize = new Size(766, 605);
+            ClientSize = new Size(766, 653);
             Controls.Add(txtTimkiem);
             Controls.Add(btnSearchLT);
             Controls.Add(cbLoaiVP);
@@ -280,12 +335,17 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(panelTitleBar);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "QuanLyKhoForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Quản Lý Tồn Kho";
             Load += QuanLyKhoForm_Load;
+            Resize += Form_Resize;
             ((System.ComponentModel.ISupportInitialize)dgvVP).EndInit();
             panelTitleBar.ResumeLayout(false);
+            panelTitleBar.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox6).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -305,5 +365,9 @@
         private ComboBox cbLoaiVP;
         private Button btnSearchLT;
         private CustomControls.RJControls.RJTextBox txtTimkiem;
+        private PictureBox pictureBox3;
+        private Label label7;
+        private Label label6;
+        private PictureBox pictureBox6;
     }
 }

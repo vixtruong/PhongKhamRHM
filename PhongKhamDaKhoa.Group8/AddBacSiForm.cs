@@ -20,6 +20,7 @@ namespace PhongKhamDaKhoa.Group8
         public AddBacSiForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         private BacSiService _service = new BacSiService();
@@ -123,6 +124,21 @@ namespace PhongKhamDaKhoa.Group8
         private void button_MouseLeave(object sender, EventArgs e)
         {
             btnThoat.BackColor = Color.Transparent;
+        }
+
+        private const int MaxWidth = 441;
+        private const int MaxHeight = 756;
+
+        private void AddBacSiForm_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
         }
     }
 }

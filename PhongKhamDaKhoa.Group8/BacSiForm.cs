@@ -27,6 +27,7 @@ namespace PhongKhamDaKhoa.Group8
         {
             InitializeComponent();
             InitializeTimer();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -170,6 +171,21 @@ namespace PhongKhamDaKhoa.Group8
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private const int MaxWidth = 894;
+        private const int MaxHeight = 646;
+
+        private void BacSiForm_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
         }
     }
 }

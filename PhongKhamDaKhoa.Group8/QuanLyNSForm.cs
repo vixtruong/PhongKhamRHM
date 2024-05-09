@@ -19,7 +19,6 @@ namespace WinFormsApp4
         public QuanLyNSForm()
         {
             InitializeComponent();
-            this.Text = string.Empty;
             this.ControlBox = false;
             this.MaximizedBounds = Screen.FromHandle(this.Handle).WorkingArea;
         }
@@ -159,10 +158,17 @@ namespace WinFormsApp4
                 if (deleteResult == DialogResult.No)
                     return;
 
-                _ltService.DeleteLeTan(id);
-
-                var result = _ltService.GetAll();
-                RefreshDgvListLT(result);
+                try
+                {
+                    _ltService.DeleteLeTan(id);
+                    var result = _ltService.GetAll();
+                    RefreshDgvListLT(result);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Lễ tân có liên quan tới dữ liệu của phòng khám! Không thể xóa!", "Lỗi",
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
 
@@ -288,10 +294,18 @@ namespace WinFormsApp4
                 if (deleteResult == DialogResult.No)
                     return;
 
-                _bsService.DeleteBacSi(id);
+                try
+                {
+                    _bsService.DeleteBacSi(id);
 
-                var result = _bsService.GetAll();
-                RefreshDgvListBS(result);
+                    var result = _bsService.GetAll();
+                    RefreshDgvListBS(result);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Bác sĩ có liên quan tới dữ liệu của phòng khám! Không thể xóa!", "Lỗi",
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
 
@@ -412,10 +426,18 @@ namespace WinFormsApp4
                 if (deleteResult == DialogResult.No)
                     return;
 
-                _ptService.DeletePhuTa(id);
+                try
+                {
+                    _ptService.DeletePhuTa(id);
 
-                var result = _ptService.GetAll();
-                RefreshDgvListPT(result);
+                    var result = _ptService.GetAll();
+                    RefreshDgvListPT(result);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Phụ tá có liên quan tới dữ liệu của phòng khám! Không thể xóa!", "Lỗi",
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
 
@@ -498,6 +520,21 @@ namespace WinFormsApp4
         private void txt_KeyPress(object sender, KeyPressEventArgs e)
         {
             e.Handled = true;
+        }
+
+        private const int MaxWidth = 1244;
+        private const int MaxHeight = 796;
+
+        private void Form_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
         }
     }
 }

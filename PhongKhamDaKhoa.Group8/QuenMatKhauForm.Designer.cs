@@ -531,10 +531,12 @@
             ClientSize = new Size(751, 657);
             Controls.Add(panel1);
             Controls.Add(panel2);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "QuenMatKhauForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Quên mật khẩu";
+            Text = "Quên Mật Khẩu";
             Load += QuenMatKhauForm_Load;
+            Resize += Form_Resize;
             panel2.ResumeLayout(false);
             panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)rjCircularPictureBox2).EndInit();

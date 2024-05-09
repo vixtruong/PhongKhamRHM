@@ -37,6 +37,7 @@
             btnLuu = new PhongKham.RJControls.RJButton();
             btnThoat = new Button();
             panelTitleBar = new Panel();
+            lblTitle = new Label();
             txtTinhTrang = new RichTextBox();
             panelTitleBar.SuspendLayout();
             SuspendLayout();
@@ -49,7 +50,7 @@
             txtMaBN.BorderRadius = 8;
             txtMaBN.BorderSize = 1;
             txtMaBN.Cursor = Cursors.IBeam;
-            txtMaBN.Location = new Point(172, 44);
+            txtMaBN.Location = new Point(172, 76);
             txtMaBN.Multiline = false;
             txtMaBN.Name = "txtMaBN";
             txtMaBN.Padding = new Padding(10, 7, 10, 7);
@@ -65,7 +66,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label1.Location = new Point(15, 45);
+            label1.Location = new Point(15, 77);
             label1.Name = "label1";
             label1.Size = new Size(150, 28);
             label1.TabIndex = 1;
@@ -75,7 +76,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label2.Location = new Point(15, 171);
+            label2.Location = new Point(15, 203);
             label2.Name = "label2";
             label2.Size = new Size(111, 28);
             label2.TabIndex = 3;
@@ -85,7 +86,7 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label4.Location = new Point(15, 117);
+            label4.Location = new Point(15, 149);
             label4.Name = "label4";
             label4.Size = new Size(121, 28);
             label4.TabIndex = 6;
@@ -96,7 +97,7 @@
             dtpNgayKham.BorderColor = Color.FromArgb(27, 117, 188);
             dtpNgayKham.BorderSize = 1;
             dtpNgayKham.Font = new Font("Segoe UI", 9.5F);
-            dtpNgayKham.Location = new Point(172, 107);
+            dtpNgayKham.Location = new Point(172, 139);
             dtpNgayKham.MinimumSize = new Size(4, 35);
             dtpNgayKham.Name = "dtpNgayKham";
             dtpNgayKham.Size = new Size(237, 35);
@@ -115,7 +116,7 @@
             btnLuu.FlatAppearance.BorderSize = 0;
             btnLuu.FlatStyle = FlatStyle.Flat;
             btnLuu.ForeColor = Color.Black;
-            btnLuu.Location = new Point(230, 361);
+            btnLuu.Location = new Point(230, 393);
             btnLuu.Name = "btnLuu";
             btnLuu.Size = new Size(107, 44);
             btnLuu.TabIndex = 9;
@@ -141,6 +142,7 @@
             // panelTitleBar
             // 
             panelTitleBar.BackColor = Color.Transparent;
+            panelTitleBar.Controls.Add(lblTitle);
             panelTitleBar.Controls.Add(btnThoat);
             panelTitleBar.Dock = DockStyle.Top;
             panelTitleBar.Location = new Point(0, 0);
@@ -151,10 +153,22 @@
             panelTitleBar.MouseEnter += button_MouseEnter;
             panelTitleBar.MouseLeave += button_MouseLeave;
             // 
+            // lblTitle
+            // 
+            lblTitle.Anchor = AnchorStyles.Top;
+            lblTitle.AutoSize = true;
+            lblTitle.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            lblTitle.Location = new Point(105, 14);
+            lblTitle.Margin = new Padding(2, 0, 2, 0);
+            lblTitle.Name = "lblTitle";
+            lblTitle.Size = new Size(233, 32);
+            lblTitle.TabIndex = 13;
+            lblTitle.Text = "Thông Tin Bệnh Án";
+            // 
             // txtTinhTrang
             // 
             txtTinhTrang.Cursor = Cursors.IBeam;
-            txtTinhTrang.Location = new Point(173, 171);
+            txtTinhTrang.Location = new Point(173, 203);
             txtTinhTrang.Name = "txtTinhTrang";
             txtTinhTrang.Size = new Size(237, 163);
             txtTinhTrang.TabIndex = 8;
@@ -165,7 +179,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlLightLight;
-            ClientSize = new Size(450, 420);
+            ClientSize = new Size(450, 455);
             Controls.Add(txtTinhTrang);
             Controls.Add(dtpNgayKham);
             Controls.Add(label4);
@@ -174,10 +188,13 @@
             Controls.Add(txtMaBN);
             Controls.Add(panelTitleBar);
             Controls.Add(btnLuu);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "AddHoSoBenhAnForm";
             StartPosition = FormStartPosition.CenterParent;
-            Text = "Thông Tin Bệnh Án";
+            Text = "Thêm Bệnh Án";
+            Resize += AddHoSoBenhAnForm_Resize;
             panelTitleBar.ResumeLayout(false);
+            panelTitleBar.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -193,5 +210,6 @@
         private Button btnThoat;
         private Panel panelTitleBar;
         private RichTextBox txtTinhTrang;
+        private Label lblTitle;
     }
 }

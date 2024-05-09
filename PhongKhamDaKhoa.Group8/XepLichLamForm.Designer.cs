@@ -751,11 +751,13 @@
             Controls.Add(groupBox2);
             Controls.Add(label21);
             Cursor = Cursors.Hand;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(2, 3, 2, 3);
             Name = "XepLichLamForm";
-            StartPosition = FormStartPosition.CenterParent;
-            Text = "Xem Lịch Khám";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Quản Lý Lịch Làm Việc";
             Load += XepLichLamForm_Load;
+            Resize += Form_Resize;
             ((System.ComponentModel.ISupportInitialize)dgvDSLichLam).EndInit();
             panelTitleBar.ResumeLayout(false);
             panelTitleBar.PerformLayout();

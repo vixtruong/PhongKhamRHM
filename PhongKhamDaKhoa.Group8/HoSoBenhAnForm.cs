@@ -23,6 +23,7 @@ namespace PhongKhamDaKhoa.Group8
         public HoSoBenhAnForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -179,8 +180,16 @@ namespace PhongKhamDaKhoa.Group8
                     if (deleteResult == DialogResult.No)
                         return;
 
-                    hsService.Delete(ba.MaHs);
-                    LoadDgvListHS(hsService.GetAll());
+                    try
+                    {
+                        hsService.Delete(ba.MaHs);
+                        LoadDgvListHS(hsService.GetAll());
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Bệnh án có liên quan tới dữ liệu của phòng khám! Không thể xóa!", "Lỗi",
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
                 }
             }
         }
@@ -190,6 +199,21 @@ namespace PhongKhamDaKhoa.Group8
             TinhTrangBenhForm form = new TinhTrangBenhForm();
             form.text = txtTinhtrang.Text;
             form.ShowDialog();
+        }
+
+        private const int MaxWidth = 1096;
+        private const int MaxHeight = 746;
+
+        private void Form_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
         }
     }
 }

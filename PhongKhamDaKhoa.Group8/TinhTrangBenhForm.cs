@@ -16,6 +16,7 @@ namespace PhongKhamDaKhoa.Group8
         public TinhTrangBenhForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         public string text { get; set; }

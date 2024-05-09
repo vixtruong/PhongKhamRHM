@@ -122,5 +122,19 @@ namespace WinFormsApp4
             Application.Exit();
         }
 
+        private const int MaxWidth = 776;
+        private const int MaxHeight = 642;
+
+        private void DangNhapForm_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
+        }
     }
 }

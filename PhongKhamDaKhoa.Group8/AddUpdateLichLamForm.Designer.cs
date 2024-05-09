@@ -52,7 +52,7 @@
             // 
             lblTitle.AutoSize = true;
             lblTitle.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 163);
-            lblTitle.Location = new Point(137, 12);
+            lblTitle.Location = new Point(133, 13);
             lblTitle.Margin = new Padding(2, 0, 2, 0);
             lblTitle.Name = "lblTitle";
             lblTitle.Size = new Size(235, 32);
@@ -281,11 +281,13 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(dtpNgayLamViec);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(2, 3, 2, 3);
             Name = "AddUpdateLichLamForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Thông Tin Lịch Làm Việc";
             Load += AddUpdateLichLamForm_Load;
+            Resize += Form_Resize;
             panelTitleBar.ResumeLayout(false);
             panelTitleBar.PerformLayout();
             ResumeLayout(false);

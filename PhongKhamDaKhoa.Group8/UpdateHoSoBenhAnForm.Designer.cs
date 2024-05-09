@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(UpdateHoSoBenhAnForm));
             txtTinhTrang = new RichTextBox();
             btnLuu = new PhongKham.RJControls.RJButton();
             SuspendLayout();
@@ -69,9 +70,10 @@
             ClientSize = new Size(400, 295);
             Controls.Add(btnLuu);
             Controls.Add(txtTinhTrang);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "UpdateHoSoBenhAnForm";
             StartPosition = FormStartPosition.CenterParent;
-            Text = "Thông Tin Bệnh Án";
+            Text = "Sửa Bệnh Án";
             Load += UpdateHoSoBenhAnForm_Load;
             ResumeLayout(false);
         }

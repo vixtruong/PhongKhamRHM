@@ -267,10 +267,12 @@
             Controls.Add(button1);
             Controls.Add(pictureBox2);
             Controls.Add(button2);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "DanhSachLichKhamForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "DanhSachLichKhamForm";
+            Text = "Danh Sách Lịch Khám";
             FormClosing += DanhSachLichKhamForm_FormClosing;
+            Resize += Form_Resize;
             panelTitleBar.ResumeLayout(false);
             panelTitleBar.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

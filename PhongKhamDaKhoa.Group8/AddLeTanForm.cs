@@ -19,6 +19,7 @@ namespace PhongKhamDaKhoa.Group8
         public AddLeTanForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -43,7 +44,7 @@ namespace PhongKhamDaKhoa.Group8
             DateOnly dayWorking = new DateOnly(dtpDateWorkingLT.Value.Year, dtpDateWorkingLT.Value.Month, dtpDateWorkingLT.Value.Day);
             string phoneNumber = txtPhoneLT.Texts;
             string gender = chkMaleLT.Checked ? "Nam" : "Nữ";
-            
+
             if (name == "")
             {
                 MessageBox.Show("Vui lòng nhập họ tên!", "Thêm Lễ tân", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -81,7 +82,7 @@ namespace PhongKhamDaKhoa.Group8
                 };
             }
 
-            _service.AddLeTan( letan );
+            _service.AddLeTan(letan);
 
             this.Close();
         }
@@ -96,7 +97,8 @@ namespace PhongKhamDaKhoa.Group8
 
         private void chkFemaleLT_CheckedChanged(object sender, EventArgs e)
         {
-            if (chkFemaleLT.Checked) {
+            if (chkFemaleLT.Checked)
+            {
                 chkMaleLT.Checked = false;
             }
         }
@@ -113,6 +115,21 @@ namespace PhongKhamDaKhoa.Group8
         private void button_MouseLeave(object sender, EventArgs e)
         {
             btnThoat.BackColor = Color.Transparent;
+        }
+
+        private const int MaxWidth = 428;
+        private const int MaxHeight = 679;
+
+        private void AddLeTanForm_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
         }
     }
 }

@@ -253,6 +253,7 @@
             txtUsername.TabIndex = 1;
             txtUsername.Texts = "";
             txtUsername.UnderlinedStyle = false;
+            txtUsername.KeyPress += txtUsername_KeyPress;
             // 
             // label4
             // 
@@ -616,11 +617,13 @@
             ClientSize = new Size(782, 728);
             Controls.Add(panel2);
             Controls.Add(panel1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
             Name = "DangKyForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Đăng kí";
+            Text = "Đăng Kí";
             Load += DangKyForm_Load;
+            Resize += Form_Resize;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             panelTitleBar.ResumeLayout(false);

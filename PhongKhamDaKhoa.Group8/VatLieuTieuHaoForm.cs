@@ -27,6 +27,7 @@ namespace PhongKhamDaKhoa.Group8
         public VatLieuTieuHaoForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -221,6 +222,21 @@ namespace PhongKhamDaKhoa.Group8
             }
 
             MessageBox.Show("Thêm thông tin thành công!", "Successfully", MessageBoxButtons.OK);
+        }
+
+        private const int MaxWidth = 905;
+        private const int MaxHeight = 890;
+
+        private void Form_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
         }
     }
 }

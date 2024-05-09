@@ -47,12 +47,12 @@
             label1.BackColor = Color.Transparent;
             label1.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 163);
             label1.ForeColor = SystemColors.ActiveCaptionText;
-            label1.Location = new Point(173, 13);
+            label1.Location = new Point(161, 13);
             label1.Margin = new Padding(2, 0, 2, 0);
             label1.Name = "label1";
-            label1.Size = new Size(130, 32);
+            label1.Size = new Size(123, 32);
             label1.TabIndex = 0;
-            label1.Text = "Thông Tin";
+            label1.Text = "Thống Kê";
             // 
             // dtpNgayKetThuc
             // 
@@ -180,10 +180,12 @@
             Controls.Add(label3);
             Controls.Add(dtpNgayBatDau);
             Controls.Add(label2);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(2, 3, 2, 3);
             Name = "ThongKeDoanhThuForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Thông Kê Doanh Thu";
+            Text = "Thống Kê";
+            Resize += Form_Resize;
             panelTitleBar.ResumeLayout(false);
             panelTitleBar.PerformLayout();
             ResumeLayout(false);

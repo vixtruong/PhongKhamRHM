@@ -614,10 +614,12 @@
             Controls.Add(panel5);
             Controls.Add(panel4);
             Controls.Add(panelTitleBar);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "VatLieuTieuHaoForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "VatLieuTieuHaoForm";
+            Text = "Vật Liệu Tiêu Hao";
             Load += VatLieuTieuHaoForm_Load;
+            Resize += Form_Resize;
             panelTitleBar.ResumeLayout(false);
             panelTitleBar.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();

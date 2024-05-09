@@ -233,5 +233,20 @@ namespace WinFormsApp4
         {
             this.Close();
         }
+
+        private const int MaxWidth = 800;
+        private const int MaxHeight = 775;
+
+        private void Form_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
+        }
     }
 }

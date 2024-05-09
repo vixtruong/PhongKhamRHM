@@ -27,6 +27,7 @@ namespace PhongKhamNhaKhoa
         public XemLichKhamForm()
         {
             InitializeComponent();
+            this.ControlBox = false;
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
@@ -187,10 +188,18 @@ namespace PhongKhamNhaKhoa
             var result = MessageBox.Show("Bạn có muốn xóa lịch hẹn này không?", "Question", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (result.ToString() == "Yes")
             {
-                _LHService.Delete(txtMaLH.Texts);
-                MessageBox.Show("Xóa lịch hẹn thành công", "Successfully", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                loadDataToGridView();
-                resetInputField();
+                try
+                {
+                    _LHService.Delete(txtMaLH.Texts);
+                    MessageBox.Show("Xóa lịch hẹn thành công", "Successfully", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    loadDataToGridView();
+                    resetInputField();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Có liên quan tới dữ liệu của phòng khám! Không thể xóa!", "Lỗi",
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
 
@@ -336,6 +345,21 @@ namespace PhongKhamNhaKhoa
         private void btnThoat_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private const int MaxWidth = 1301;
+        private const int MaxHeight = 768;
+
+        private void Form_Resize(object sender, EventArgs e)
+        {
+            if (this.Width > MaxWidth)
+            {
+                this.Width = MaxWidth;
+            }
+            if (this.Height > MaxHeight)
+            {
+                this.Height = MaxHeight;
+            }
         }
     }
 }

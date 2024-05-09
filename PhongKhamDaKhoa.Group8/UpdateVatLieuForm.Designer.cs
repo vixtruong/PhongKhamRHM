@@ -41,6 +41,7 @@
             label2 = new Label();
             btnThoat = new Button();
             panelTitleBar = new Panel();
+            lblTitle = new Label();
             cbLoai = new ComboBox();
             panelTitleBar.SuspendLayout();
             SuspendLayout();
@@ -52,7 +53,7 @@
             txtGia.BorderFocusColor = Color.HotPink;
             txtGia.BorderRadius = 8;
             txtGia.BorderSize = 1;
-            txtGia.Location = new Point(138, 292);
+            txtGia.Location = new Point(173, 325);
             txtGia.Multiline = false;
             txtGia.Name = "txtGia";
             txtGia.Padding = new Padding(10, 7, 10, 7);
@@ -71,7 +72,7 @@
             txtDvt.BorderFocusColor = Color.HotPink;
             txtDvt.BorderRadius = 8;
             txtDvt.BorderSize = 1;
-            txtDvt.Location = new Point(138, 235);
+            txtDvt.Location = new Point(173, 268);
             txtDvt.Multiline = false;
             txtDvt.Name = "txtDvt";
             txtDvt.Padding = new Padding(10, 7, 10, 7);
@@ -90,7 +91,7 @@
             txtSoluong.BorderFocusColor = Color.HotPink;
             txtSoluong.BorderRadius = 8;
             txtSoluong.BorderSize = 1;
-            txtSoluong.Location = new Point(138, 176);
+            txtSoluong.Location = new Point(173, 209);
             txtSoluong.Multiline = false;
             txtSoluong.Name = "txtSoluong";
             txtSoluong.Padding = new Padding(10, 7, 10, 7);
@@ -109,7 +110,7 @@
             txtName.BorderFocusColor = Color.HotPink;
             txtName.BorderRadius = 8;
             txtName.BorderSize = 1;
-            txtName.Location = new Point(138, 120);
+            txtName.Location = new Point(173, 153);
             txtName.Multiline = false;
             txtName.Name = "txtName";
             txtName.Padding = new Padding(10, 7, 10, 7);
@@ -133,7 +134,7 @@
             btnLuu.FlatStyle = FlatStyle.Flat;
             btnLuu.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
             btnLuu.ForeColor = Color.Black;
-            btnLuu.Location = new Point(138, 353);
+            btnLuu.Location = new Point(173, 386);
             btnLuu.Name = "btnLuu";
             btnLuu.Size = new Size(120, 39);
             btnLuu.TabIndex = 23;
@@ -146,7 +147,7 @@
             // 
             label6.AutoSize = true;
             label6.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label6.Location = new Point(21, 56);
+            label6.Location = new Point(48, 89);
             label6.Name = "label6";
             label6.Size = new Size(54, 28);
             label6.TabIndex = 22;
@@ -156,7 +157,7 @@
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label5.Location = new Point(21, 295);
+            label5.Location = new Point(48, 328);
             label5.Name = "label5";
             label5.Size = new Size(46, 28);
             label5.TabIndex = 21;
@@ -166,7 +167,7 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label4.Location = new Point(21, 236);
+            label4.Location = new Point(48, 269);
             label4.Name = "label4";
             label4.Size = new Size(118, 28);
             label4.TabIndex = 20;
@@ -176,7 +177,7 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label3.Location = new Point(21, 176);
+            label3.Location = new Point(48, 209);
             label3.Name = "label3";
             label3.Size = new Size(99, 28);
             label3.TabIndex = 19;
@@ -186,7 +187,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label2.Location = new Point(21, 120);
+            label2.Location = new Point(48, 153);
             label2.Name = "label2";
             label2.Size = new Size(49, 28);
             label2.TabIndex = 18;
@@ -198,7 +199,7 @@
             btnThoat.FlatAppearance.BorderSize = 0;
             btnThoat.FlatStyle = FlatStyle.Flat;
             btnThoat.Image = (Image)resources.GetObject("btnThoat.Image");
-            btnThoat.Location = new Point(378, 4);
+            btnThoat.Location = new Point(438, 9);
             btnThoat.Margin = new Padding(3, 4, 3, 4);
             btnThoat.Name = "btnThoat";
             btnThoat.Size = new Size(41, 43);
@@ -209,15 +210,28 @@
             // panelTitleBar
             // 
             panelTitleBar.BackColor = Color.Transparent;
+            panelTitleBar.Controls.Add(lblTitle);
             panelTitleBar.Controls.Add(btnThoat);
             panelTitleBar.Dock = DockStyle.Top;
             panelTitleBar.Location = new Point(0, 0);
             panelTitleBar.Margin = new Padding(3, 4, 3, 4);
             panelTitleBar.Name = "panelTitleBar";
-            panelTitleBar.Size = new Size(423, 61);
+            panelTitleBar.Size = new Size(491, 61);
             panelTitleBar.TabIndex = 57;
             panelTitleBar.MouseEnter += button_MouseEnter;
             panelTitleBar.MouseLeave += button_MouseLeave;
+            // 
+            // lblTitle
+            // 
+            lblTitle.Anchor = AnchorStyles.Top;
+            lblTitle.AutoSize = true;
+            lblTitle.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            lblTitle.Location = new Point(136, 14);
+            lblTitle.Margin = new Padding(2, 0, 2, 0);
+            lblTitle.Name = "lblTitle";
+            lblTitle.Size = new Size(229, 32);
+            lblTitle.TabIndex = 14;
+            lblTitle.Text = "Thông Tin Vật Liệu";
             // 
             // cbLoai
             // 
@@ -225,7 +239,7 @@
             cbLoai.AutoCompleteSource = AutoCompleteSource.ListItems;
             cbLoai.Font = new Font("Segoe UI", 11F);
             cbLoai.FormattingEnabled = true;
-            cbLoai.Location = new Point(138, 59);
+            cbLoai.Location = new Point(173, 92);
             cbLoai.Margin = new Padding(3, 4, 3, 4);
             cbLoai.Name = "cbLoai";
             cbLoai.Size = new Size(250, 33);
@@ -236,7 +250,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlLightLight;
-            ClientSize = new Size(423, 427);
+            ClientSize = new Size(491, 469);
             Controls.Add(cbLoai);
             Controls.Add(txtGia);
             Controls.Add(txtDvt);
@@ -249,11 +263,13 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(panelTitleBar);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "UpdateVatLieuForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Cập Nhật Vật Liệu";
             Load += UpdateVatLieuForm_Load;
             panelTitleBar.ResumeLayout(false);
+            panelTitleBar.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -273,5 +289,6 @@
         private Button btnThoat;
         private Panel panelTitleBar;
         private ComboBox cbLoai;
+        private Label lblTitle;
     }
 }

@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TinhTrangBenhForm));
             contextMenuStrip1 = new ContextMenuStrip(components);
             rtxtTinhtrang = new RichTextBox();
             SuspendLayout();
@@ -55,6 +56,7 @@
             BackColor = SystemColors.ControlLightLight;
             ClientSize = new Size(534, 273);
             Controls.Add(rtxtTinhtrang);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "TinhTrangBenhForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Tình Trạng Bệnh";
