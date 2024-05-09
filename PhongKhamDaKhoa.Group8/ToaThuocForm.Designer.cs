@@ -609,6 +609,7 @@
             Controls.Add(panel1);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
+            MaximizeBox = false;
             Name = "ToaThuocForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Toa Thuốc";

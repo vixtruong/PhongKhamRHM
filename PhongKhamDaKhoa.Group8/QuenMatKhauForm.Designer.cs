@@ -532,6 +532,7 @@
             Controls.Add(panel1);
             Controls.Add(panel2);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "QuenMatKhauForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Quên Mật Khẩu";

@@ -46,6 +46,8 @@
             label9 = new Label();
             label4 = new Label();
             panel5 = new Panel();
+            btnXoa = new PhongKham.RJControls.RJButton();
+            btnThem = new PhongKham.RJControls.RJButton();
             cbVatlieu = new ComboBox();
             cbKhoa = new ComboBox();
             label13 = new Label();
@@ -68,8 +70,6 @@
             label11 = new Label();
             pictureBox6 = new PictureBox();
             pictureBox10 = new PictureBox();
-            btnXoa = new PhongKham.RJControls.RJButton();
-            btnThem = new PhongKham.RJControls.RJButton();
             panelTitleBar.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
@@ -297,6 +297,50 @@
             panel5.Name = "panel5";
             panel5.Size = new Size(886, 643);
             panel5.TabIndex = 53;
+            // 
+            // btnXoa
+            // 
+            btnXoa.BackColor = Color.FromArgb(234, 79, 82);
+            btnXoa.BackgroundColor = Color.FromArgb(234, 79, 82);
+            btnXoa.BorderColor = Color.LightGreen;
+            btnXoa.BorderRadius = 10;
+            btnXoa.BorderSize = 0;
+            btnXoa.Cursor = Cursors.Hand;
+            btnXoa.FlatAppearance.BorderSize = 0;
+            btnXoa.FlatStyle = FlatStyle.Flat;
+            btnXoa.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
+            btnXoa.ForeColor = Color.White;
+            btnXoa.Location = new Point(768, 62);
+            btnXoa.Margin = new Padding(3, 4, 3, 4);
+            btnXoa.Name = "btnXoa";
+            btnXoa.Size = new Size(101, 39);
+            btnXoa.TabIndex = 55;
+            btnXoa.Text = "Xóa";
+            btnXoa.TextColor = Color.White;
+            btnXoa.UseVisualStyleBackColor = false;
+            btnXoa.Click += btnXoa_Click;
+            // 
+            // btnThem
+            // 
+            btnThem.BackColor = Color.FromArgb(114, 162, 247);
+            btnThem.BackgroundColor = Color.FromArgb(114, 162, 247);
+            btnThem.BorderColor = Color.LemonChiffon;
+            btnThem.BorderRadius = 10;
+            btnThem.BorderSize = 0;
+            btnThem.Cursor = Cursors.Hand;
+            btnThem.FlatAppearance.BorderSize = 0;
+            btnThem.FlatStyle = FlatStyle.Flat;
+            btnThem.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
+            btnThem.ForeColor = Color.White;
+            btnThem.Location = new Point(660, 62);
+            btnThem.Margin = new Padding(3, 4, 3, 4);
+            btnThem.Name = "btnThem";
+            btnThem.Size = new Size(101, 39);
+            btnThem.TabIndex = 56;
+            btnThem.Text = "Thêm";
+            btnThem.TextColor = Color.White;
+            btnThem.UseVisualStyleBackColor = false;
+            btnThem.Click += btnThem_Click;
             // 
             // cbVatlieu
             // 
@@ -571,50 +615,6 @@
             pictureBox10.TabIndex = 39;
             pictureBox10.TabStop = false;
             // 
-            // btnXoa
-            // 
-            btnXoa.BackColor = Color.FromArgb(234, 79, 82);
-            btnXoa.BackgroundColor = Color.FromArgb(234, 79, 82);
-            btnXoa.BorderColor = Color.LightGreen;
-            btnXoa.BorderRadius = 10;
-            btnXoa.BorderSize = 0;
-            btnXoa.Cursor = Cursors.Hand;
-            btnXoa.FlatAppearance.BorderSize = 0;
-            btnXoa.FlatStyle = FlatStyle.Flat;
-            btnXoa.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
-            btnXoa.ForeColor = Color.White;
-            btnXoa.Location = new Point(768, 62);
-            btnXoa.Margin = new Padding(3, 4, 3, 4);
-            btnXoa.Name = "btnXoa";
-            btnXoa.Size = new Size(101, 39);
-            btnXoa.TabIndex = 55;
-            btnXoa.Text = "Xóa";
-            btnXoa.TextColor = Color.White;
-            btnXoa.UseVisualStyleBackColor = false;
-            btnXoa.Click += btnXoa_Click;
-            // 
-            // btnThem
-            // 
-            btnThem.BackColor = Color.FromArgb(114, 162, 247);
-            btnThem.BackgroundColor = Color.FromArgb(114, 162, 247);
-            btnThem.BorderColor = Color.LemonChiffon;
-            btnThem.BorderRadius = 10;
-            btnThem.BorderSize = 0;
-            btnThem.Cursor = Cursors.Hand;
-            btnThem.FlatAppearance.BorderSize = 0;
-            btnThem.FlatStyle = FlatStyle.Flat;
-            btnThem.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
-            btnThem.ForeColor = Color.White;
-            btnThem.Location = new Point(660, 62);
-            btnThem.Margin = new Padding(3, 4, 3, 4);
-            btnThem.Name = "btnThem";
-            btnThem.Size = new Size(101, 39);
-            btnThem.TabIndex = 56;
-            btnThem.Text = "Thêm";
-            btnThem.TextColor = Color.White;
-            btnThem.UseVisualStyleBackColor = false;
-            btnThem.Click += btnThem_Click;
-            // 
             // VatLieuTieuHaoForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -625,6 +625,7 @@
             Controls.Add(panel4);
             Controls.Add(panelTitleBar);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "VatLieuTieuHaoForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Vật Liệu Tiêu Hao";

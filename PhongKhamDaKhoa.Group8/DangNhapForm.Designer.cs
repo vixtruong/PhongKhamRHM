@@ -479,6 +479,7 @@
             Controls.Add(panel2);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
+            MaximizeBox = false;
             Name = "DangNhapForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Đăng Nhập";

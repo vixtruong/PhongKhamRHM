@@ -129,13 +129,13 @@ namespace PhongKhamDaKhoa.Group8
         private const int MaxWidth = 441;
         private const int MaxHeight = 756;
 
-        private void AddBacSiForm_Resize(object sender, EventArgs e)
+        private void Form_Resize(object sender, EventArgs e)
         {
-            if (this.Width > MaxWidth)
+            if (this.Width > MaxWidth || this.Width < MaxWidth)
             {
                 this.Width = MaxWidth;
             }
-            if (this.Height > MaxHeight)
+            if (this.Height > MaxHeight || this.Height < MaxHeight)
             {
                 this.Height = MaxHeight;
             }

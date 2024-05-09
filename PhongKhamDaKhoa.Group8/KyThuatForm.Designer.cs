@@ -612,6 +612,7 @@
             Controls.Add(panel4);
             Controls.Add(panelTitleBar);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "KyThuatForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Kỹ Thuật";

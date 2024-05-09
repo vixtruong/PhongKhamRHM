@@ -966,6 +966,7 @@
             Controls.Add(grbInfoLT);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
+            MaximizeBox = false;
             Name = "HoSoBenhAnForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Quản Lý Hồ Sơ Bệnh Án";

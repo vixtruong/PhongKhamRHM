@@ -884,6 +884,7 @@
             Controls.Add(panelTitleBar);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
+            MaximizeBox = false;
             Name = "ThanhToanForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Thanh Toán";

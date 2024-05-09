@@ -264,6 +264,7 @@
             Controls.Add(label2);
             Controls.Add(panelTitleBar);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "UpdateVatLieuForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Cập Nhật Vật Liệu";

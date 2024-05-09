@@ -57,6 +57,7 @@
             ClientSize = new Size(534, 273);
             Controls.Add(rtxtTinhtrang);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "TinhTrangBenhForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Tình Trạng Bệnh";

@@ -475,6 +475,7 @@
             Controls.Add(btnXepLichKham);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
+            MaximizeBox = false;
             Name = "LeTanForm";
             StartPosition = FormStartPosition.CenterScreen;
             Tag = "";

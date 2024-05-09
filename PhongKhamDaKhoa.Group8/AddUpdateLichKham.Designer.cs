@@ -361,6 +361,7 @@
             Controls.Add(panelTitleBar);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(2, 3, 2, 3);
+            MaximizeBox = false;
             Name = "AddUpdateLichKham";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Thông Tin Lịch Khám";

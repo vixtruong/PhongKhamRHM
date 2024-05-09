@@ -263,6 +263,7 @@
             Controls.Add(label2);
             Cursor = Cursors.IBeam;
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "AddVatLieuForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Thêm Vật Liệu";

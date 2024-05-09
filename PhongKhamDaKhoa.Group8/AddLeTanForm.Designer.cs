@@ -274,6 +274,7 @@
             Controls.Add(label3);
             Controls.Add(panelTitleBar);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "AddLeTanForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Thêm Lễ Tân";

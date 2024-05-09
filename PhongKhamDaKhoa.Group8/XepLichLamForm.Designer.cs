@@ -758,6 +758,7 @@
             Cursor = Cursors.Hand;
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(2, 3, 2, 3);
+            MaximizeBox = false;
             Name = "XepLichLamForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Quản Lý Lịch Làm Việc";

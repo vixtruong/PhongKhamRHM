@@ -1487,6 +1487,7 @@
             Controls.Add(panelTitleBar);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
+            MaximizeBox = false;
             Name = "QuanLyNSForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Quản Lý Thông Tin Nhân Sự";

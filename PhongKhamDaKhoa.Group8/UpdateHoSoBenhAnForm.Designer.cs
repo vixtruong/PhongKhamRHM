@@ -71,6 +71,7 @@
             Controls.Add(btnLuu);
             Controls.Add(txtTinhTrang);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "UpdateHoSoBenhAnForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Sửa Bệnh Án";

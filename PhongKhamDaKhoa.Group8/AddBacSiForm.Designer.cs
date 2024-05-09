@@ -301,10 +301,11 @@
             Controls.Add(label3);
             Controls.Add(panelTitleBar);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "AddBacSiForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Thêm Bác Sĩ";
-            Resize += AddBacSiForm_Resize;
+            Resize += Form_Resize;
             panelTitleBar.ResumeLayout(false);
             panelTitleBar.PerformLayout();
             ResumeLayout(false);

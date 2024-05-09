@@ -651,6 +651,7 @@
             Controls.Add(groupBox2);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(2, 3, 2, 3);
+            MaximizeBox = false;
             Name = "XemLichKhamForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Quản Lý Lịch Khám";

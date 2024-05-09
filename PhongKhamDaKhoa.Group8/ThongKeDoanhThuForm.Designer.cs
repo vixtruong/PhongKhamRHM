@@ -182,6 +182,7 @@
             Controls.Add(label2);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(2, 3, 2, 3);
+            MaximizeBox = false;
             Name = "ThongKeDoanhThuForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Thống Kê";

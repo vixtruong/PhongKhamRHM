@@ -268,6 +268,7 @@
             Controls.Add(pictureBox2);
             Controls.Add(button2);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "DanhSachLichKhamForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Danh Sách Lịch Khám";

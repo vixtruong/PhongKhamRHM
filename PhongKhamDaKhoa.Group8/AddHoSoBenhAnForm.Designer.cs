@@ -116,7 +116,7 @@
             btnLuu.FlatAppearance.BorderSize = 0;
             btnLuu.FlatStyle = FlatStyle.Flat;
             btnLuu.ForeColor = Color.Black;
-            btnLuu.Location = new Point(230, 371);
+            btnLuu.Location = new Point(231, 361);
             btnLuu.Name = "btnLuu";
             btnLuu.Size = new Size(107, 44);
             btnLuu.TabIndex = 9;
@@ -189,6 +189,7 @@
             Controls.Add(panelTitleBar);
             Controls.Add(btnLuu);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "AddHoSoBenhAnForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Thêm Bệnh Án";

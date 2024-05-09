@@ -283,6 +283,7 @@
             Controls.Add(dtpNgayLamViec);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(2, 3, 2, 3);
+            MaximizeBox = false;
             Name = "AddUpdateLichLamForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Thông Tin Lịch Làm Việc";

@@ -264,6 +264,7 @@
             Controls.Add(panelTitleBar);
             Cursor = Cursors.IBeam;
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "AddPhuTaForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Thêm Phụ Tá";

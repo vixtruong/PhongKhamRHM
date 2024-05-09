@@ -46,6 +46,7 @@
             pictureBox5 = new PictureBox();
             panel2 = new Panel();
             panel1 = new Panel();
+            btnReload = new PhongKham.RJControls.RJButton();
             btnXong = new PhongKham.RJControls.RJButton();
             tenBS = new Label();
             label10 = new Label();
@@ -61,7 +62,6 @@
             btnHoSoBenhAn = new PhongKham.RJControls.RJButton();
             btnKyThuat = new PhongKham.RJControls.RJButton();
             btnMhLK = new PhongKham.RJControls.RJButton();
-            btnReload = new PhongKham.RJControls.RJButton();
             panelTitleBar.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
@@ -297,6 +297,27 @@
             panel1.Size = new Size(259, 599);
             panel1.TabIndex = 29;
             panel1.Paint += panel1_Paint;
+            // 
+            // btnReload
+            // 
+            btnReload.BackColor = Color.Transparent;
+            btnReload.BackgroundColor = Color.Transparent;
+            btnReload.BorderColor = Color.FromArgb(27, 117, 188);
+            btnReload.BorderRadius = 10;
+            btnReload.BorderSize = 1;
+            btnReload.FlatAppearance.BorderSize = 0;
+            btnReload.FlatStyle = FlatStyle.Flat;
+            btnReload.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            btnReload.ForeColor = Color.Black;
+            btnReload.Location = new Point(12, 441);
+            btnReload.Margin = new Padding(3, 4, 3, 4);
+            btnReload.Name = "btnReload";
+            btnReload.Size = new Size(80, 35);
+            btnReload.TabIndex = 44;
+            btnReload.Text = "Tải lại";
+            btnReload.TextColor = Color.Black;
+            btnReload.UseVisualStyleBackColor = false;
+            btnReload.Click += btnReload_Click;
             // 
             // btnXong
             // 
@@ -555,27 +576,6 @@
             btnMhLK.UseVisualStyleBackColor = false;
             btnMhLK.Click += btnMhLK_Click;
             // 
-            // btnReload
-            // 
-            btnReload.BackColor = Color.Transparent;
-            btnReload.BackgroundColor = Color.Transparent;
-            btnReload.BorderColor = Color.FromArgb(27, 117, 188);
-            btnReload.BorderRadius = 10;
-            btnReload.BorderSize = 1;
-            btnReload.FlatAppearance.BorderSize = 0;
-            btnReload.FlatStyle = FlatStyle.Flat;
-            btnReload.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            btnReload.ForeColor = Color.Black;
-            btnReload.Location = new Point(12, 441);
-            btnReload.Margin = new Padding(3, 4, 3, 4);
-            btnReload.Name = "btnReload";
-            btnReload.Size = new Size(80, 35);
-            btnReload.TabIndex = 44;
-            btnReload.Text = "Tải lại";
-            btnReload.TextColor = Color.Black;
-            btnReload.UseVisualStyleBackColor = false;
-            btnReload.Click += btnReload_Click;
-            // 
             // BacSiForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -594,6 +594,7 @@
             Controls.Add(panel1);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
+            MaximizeBox = false;
             Name = "BacSiForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Bác Sĩ";

@@ -233,11 +233,11 @@ namespace PhongKhamNhaKhoa
 
         private void Form_Resize(object sender, EventArgs e)
         {
-            if (this.Width > MaxWidth)
+            if (this.Width > MaxWidth || this.Width < MaxWidth)
             {
                 this.Width = MaxWidth;
             }
-            if (this.Height > MaxHeight)
+            if (this.Height > MaxHeight || this.Height < MaxHeight)
             {
                 this.Height = MaxHeight;
             }

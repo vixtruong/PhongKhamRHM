@@ -262,6 +262,7 @@
             Controls.Add(label3);
             Controls.Add(panelTitleBar);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "UpdatePhuTaForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Cập Nhật Phụ Tá";
