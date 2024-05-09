@@ -604,6 +604,7 @@
             Controls.Add(panel4);
             Controls.Add(panelTitleBar);
             Name = "KyThuatForm";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "KyThuatForm";
             Load += KyThuatForm_Load;
             panel4.ResumeLayout(false);

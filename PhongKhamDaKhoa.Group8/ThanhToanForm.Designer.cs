@@ -378,6 +378,7 @@
             // cbGiamgia
             // 
             cbGiamgia.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            cbGiamgia.AutoCompleteSource = AutoCompleteSource.ListItems;
             cbGiamgia.BackColor = Color.WhiteSmoke;
             cbGiamgia.BorderColor = Color.FromArgb(27, 117, 188);
             cbGiamgia.BorderSize = 1;
@@ -387,7 +388,7 @@
             cbGiamgia.IconColor = Color.FromArgb(27, 117, 188);
             cbGiamgia.ListBackColor = Color.FromArgb(230, 228, 245);
             cbGiamgia.ListTextColor = Color.DimGray;
-            cbGiamgia.Location = new Point(204, 228);
+            cbGiamgia.Location = new Point(204, 231);
             cbGiamgia.Margin = new Padding(3, 4, 3, 4);
             cbGiamgia.MinimumSize = new Size(229, 40);
             cbGiamgia.Name = "cbGiamgia";

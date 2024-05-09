@@ -30,6 +30,12 @@ namespace WinFormsApp4
         [DllImport("user32.DLL", EntryPoint = "SendMessage")]
         private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
 
+        private void Form_MouseDown(object sender, MouseEventArgs e)
+        {
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
+        }
+
         private LeTanService _ltService = new LeTanService();
         private BacSiService _bsService = new BacSiService();
         private PhuTaService _ptService = new PhuTaService();
@@ -47,26 +53,12 @@ namespace WinFormsApp4
         private void QuanLyNSForm_Load(object sender, EventArgs e)
         {
             //Letan
-            btnAddLT.Enabled = true;
-            btnUpdateLT.Enabled = true;
-            btnDeleteLT.Enabled = true;
-
             List<Letan> ltList = _ltService.GetAll();
             RefreshDgvListLT(ltList);
 
             //Bacsi
-
-            btnAddBS.Enabled = true;
-            btnUpdateBS.Enabled = true;
-            btnDeleteBS.Enabled = true;
-
             List<Bacsi> bsList = _bsService.GetAll();
             RefreshDgvListBS(bsList);
-
-            //Phuta
-            btnAddPT.Enabled = true;
-            btnUpdatePT.Enabled = true;
-            btnDeletePT.Enabled = true;
 
             List<Phuta> ptList = _ptService.GetAll();
             RefreshDgvListPT(ptList);
@@ -77,7 +69,7 @@ namespace WinFormsApp4
         {
             dgvListLT.DataSource = null;
             dgvListLT.DataSource = result;
-            dgvListBS.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dgvListLT.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgvListLT.Columns["Malt"].HeaderText = "ID";
             dgvListLT.Columns["Hoten"].HeaderText = "Họ tên";
             dgvListLT.Columns["Ngaysinh"].HeaderText = "Ngày sinh";
@@ -332,6 +324,7 @@ namespace WinFormsApp4
         {
             dgvListPT.DataSource = null;
             dgvListPT.DataSource = result;
+            dgvListPT.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgvListPT.Columns["Mapt"].HeaderText = "ID";
             dgvListPT.Columns["Hoten"].HeaderText = "Họ tên";
             dgvListPT.Columns["Ngaysinh"].HeaderText = "Ngày sinh";
@@ -339,8 +332,6 @@ namespace WinFormsApp4
             dgvListPT.Columns["Sdt"].HeaderText = "Số điện thoại";
             dgvListPT.Columns["Gioitinh"].HeaderText = "Giới tính";
             dgvListPT.Columns["Calamviecs"].Visible = false;
-
-
         }
 
         private void btnAddPT_Click(object sender, EventArgs e)

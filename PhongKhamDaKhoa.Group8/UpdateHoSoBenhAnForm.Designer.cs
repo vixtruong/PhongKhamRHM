@@ -35,10 +35,9 @@
             // txtTinhTrang
             // 
             txtTinhTrang.Cursor = Cursors.IBeam;
-            txtTinhTrang.Location = new Point(10, 9);
-            txtTinhTrang.Margin = new Padding(3, 2, 3, 2);
+            txtTinhTrang.Location = new Point(11, 12);
             txtTinhTrang.Name = "txtTinhTrang";
-            txtTinhTrang.Size = new Size(330, 162);
+            txtTinhTrang.Size = new Size(377, 215);
             txtTinhTrang.TabIndex = 0;
             txtTinhTrang.Text = "";
             // 
@@ -53,10 +52,9 @@
             btnLuu.FlatAppearance.BorderSize = 0;
             btnLuu.FlatStyle = FlatStyle.Flat;
             btnLuu.ForeColor = Color.Black;
-            btnLuu.Location = new Point(122, 179);
-            btnLuu.Margin = new Padding(3, 2, 3, 2);
+            btnLuu.Location = new Point(139, 239);
             btnLuu.Name = "btnLuu";
-            btnLuu.Size = new Size(99, 33);
+            btnLuu.Size = new Size(113, 44);
             btnLuu.TabIndex = 1;
             btnLuu.Text = "Lưu";
             btnLuu.TextColor = Color.Black;
@@ -65,15 +63,14 @@
             // 
             // UpdateHoSoBenhAnForm
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlLightLight;
-            ClientSize = new Size(350, 221);
+            ClientSize = new Size(400, 295);
             Controls.Add(btnLuu);
             Controls.Add(txtTinhTrang);
-            Margin = new Padding(3, 2, 3, 2);
             Name = "UpdateHoSoBenhAnForm";
-            StartPosition = FormStartPosition.CenterScreen;
+            StartPosition = FormStartPosition.CenterParent;
             Text = "Thông Tin Bệnh Án";
             Load += UpdateHoSoBenhAnForm_Load;
             ResumeLayout(false);

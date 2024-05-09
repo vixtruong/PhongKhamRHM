@@ -313,7 +313,7 @@
             panel3.Controls.Add(label7);
             panel3.Controls.Add(pictureBox3);
             panel3.Controls.Add(label1);
-            panel3.Location = new Point(7, 15);
+            panel3.Location = new Point(7, 2);
             panel3.Margin = new Padding(3, 4, 3, 4);
             panel3.Name = "panel3";
             panel3.Size = new Size(325, 153);

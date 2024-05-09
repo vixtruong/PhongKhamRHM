@@ -61,6 +61,8 @@
             // 
             // cbKhoa
             // 
+            cbKhoa.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            cbKhoa.AutoCompleteSource = AutoCompleteSource.ListItems;
             cbKhoa.Font = new Font("Segoe UI", 10.8F);
             cbKhoa.FormattingEnabled = true;
             cbKhoa.Location = new Point(202, 225);
@@ -93,6 +95,8 @@
             // 
             // cboTenBS
             // 
+            cboTenBS.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            cboTenBS.AutoCompleteSource = AutoCompleteSource.ListItems;
             cboTenBS.Font = new Font("Segoe UI", 10.8F);
             cboTenBS.FormattingEnabled = true;
             cboTenBS.Location = new Point(202, 297);

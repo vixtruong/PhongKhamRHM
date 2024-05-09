@@ -248,7 +248,7 @@
             Controls.Add(label3);
             Controls.Add(panelTitleBar);
             Name = "UpdatePhuTaForm";
-            StartPosition = FormStartPosition.CenterScreen;
+            StartPosition = FormStartPosition.CenterParent;
             Text = "Cập nhật Phụ tá";
             Load += UpdatePhuTaForm_Load;
             panelTitleBar.ResumeLayout(false);

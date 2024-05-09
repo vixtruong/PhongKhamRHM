@@ -14,6 +14,7 @@ using Services;
 using Repositories.Entities;
 using Microsoft.Identity.Client.NativeInterop;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
+using System.Runtime.InteropServices;
 
 namespace PhongKhamDaKhoa.Group8
 {
@@ -28,6 +29,18 @@ namespace PhongKhamDaKhoa.Group8
         public QuenMatKhauForm()
         {
             InitializeComponent();
+        }
+
+        [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
+        private extern static void ReleaseCapture();
+
+        [DllImport("user32.DLL", EntryPoint = "SendMessage")]
+        private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
+
+        private void Form_MouseDown(object sender, MouseEventArgs e)
+        {
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
         }
 
         private void QuenMatKhauForm_Load(object sender, EventArgs e)

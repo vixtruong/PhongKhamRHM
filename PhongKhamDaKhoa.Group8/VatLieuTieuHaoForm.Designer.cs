@@ -615,6 +615,7 @@
             Controls.Add(panel4);
             Controls.Add(panelTitleBar);
             Name = "VatLieuTieuHaoForm";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "VatLieuTieuHaoForm";
             Load += VatLieuTieuHaoForm_Load;
             panelTitleBar.ResumeLayout(false);

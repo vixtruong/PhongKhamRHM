@@ -44,29 +44,32 @@
             // label2
             // 
             label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
             label2.Location = new Point(26, 65);
             label2.Name = "label2";
-            label2.Size = new Size(37, 20);
+            label2.Size = new Size(45, 23);
             label2.TabIndex = 1;
-            label2.Text = "Loại";
+            label2.Text = "Loại:";
             // 
             // label3
             // 
             label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
             label3.Location = new Point(26, 123);
             label3.Name = "label3";
-            label3.Size = new Size(77, 20);
+            label3.Size = new Size(94, 23);
             label3.TabIndex = 2;
-            label3.Text = "Danh sách";
+            label3.Text = "Danh sách:";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(26, 185);
+            label4.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
+            label4.Location = new Point(26, 183);
             label4.Name = "label4";
-            label4.Size = new Size(69, 20);
+            label4.Size = new Size(83, 23);
             label4.TabIndex = 5;
-            label4.Text = "Số lượng";
+            label4.Text = "Số lượng:";
             // 
             // txtSoluong
             // 
@@ -110,21 +113,25 @@
             // cbLoai
             // 
             cbLoai.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            cbLoai.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cbLoai.Font = new Font("Segoe UI", 11F);
             cbLoai.FormattingEnabled = true;
-            cbLoai.Location = new Point(126, 61);
+            cbLoai.Location = new Point(126, 58);
             cbLoai.Margin = new Padding(3, 4, 3, 4);
             cbLoai.Name = "cbLoai";
-            cbLoai.Size = new Size(250, 28);
+            cbLoai.Size = new Size(250, 33);
             cbLoai.TabIndex = 9;
             // 
             // cbDanhsach
             // 
             cbDanhsach.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            cbDanhsach.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cbDanhsach.Font = new Font("Segoe UI", 11F);
             cbDanhsach.FormattingEnabled = true;
-            cbDanhsach.Location = new Point(126, 123);
+            cbDanhsach.Location = new Point(126, 120);
             cbDanhsach.Margin = new Padding(3, 4, 3, 4);
             cbDanhsach.Name = "cbDanhsach";
-            cbDanhsach.Size = new Size(250, 28);
+            cbDanhsach.Size = new Size(250, 33);
             cbDanhsach.TabIndex = 10;
             // 
             // btnThoat
@@ -139,6 +146,7 @@
             btnThoat.Size = new Size(41, 43);
             btnThoat.TabIndex = 0;
             btnThoat.UseVisualStyleBackColor = true;
+            btnThoat.Click += btnThoat_Click;
             // 
             // panelTitleBar
             // 
@@ -166,6 +174,7 @@
             Controls.Add(label2);
             Controls.Add(panelTitleBar);
             Name = "NhapKhoForm";
+            StartPosition = FormStartPosition.CenterParent;
             Text = "Thông Tin Nhập Kho";
             Load += NhapKhoForm_Load;
             panelTitleBar.ResumeLayout(false);

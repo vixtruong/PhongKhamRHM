@@ -268,6 +268,7 @@
             Controls.Add(pictureBox2);
             Controls.Add(button2);
             Name = "DanhSachLichKhamForm";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "DanhSachLichKhamForm";
             FormClosing += DanhSachLichKhamForm_FormClosing;
             panelTitleBar.ResumeLayout(false);

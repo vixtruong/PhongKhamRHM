@@ -12,14 +12,14 @@ namespace Services
     {
         ThuocRepo _repo = new ThuocRepo();
 
-        public List<Thuoc> GetAll() { return _repo.GetAll(); }
+        public List<Thuoc>? GetAll() { return _repo.GetAll(); }
 
-        public Thuoc GetThuoc(string id)
+        public Thuoc? GetThuoc(string id)
         {
             return _repo.Get(id);
         }
 
-        public Thuoc GetByName(string name)
+        public Thuoc? GetByName(string name)
         {
             return _repo.GetByName(name);
         }

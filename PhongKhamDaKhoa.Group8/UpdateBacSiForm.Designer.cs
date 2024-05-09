@@ -286,6 +286,7 @@
             Controls.Add(label3);
             Controls.Add(panelTitleBar);
             Name = "UpdateBacSiForm";
+            StartPosition = FormStartPosition.CenterParent;
             Text = "Cập Nhật Bác Sĩ";
             Load += UpdateBacSiForm_Load;
             panelTitleBar.ResumeLayout(false);

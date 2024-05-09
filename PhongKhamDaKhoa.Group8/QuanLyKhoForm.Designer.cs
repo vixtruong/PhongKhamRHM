@@ -34,7 +34,6 @@
             dgvVP = new DataGridView();
             label3 = new Label();
             label2 = new Label();
-            txtTimkiem = new CustomControls.RJControls.RJTextBox();
             btnSan = new PhongKham.RJControls.RJButton();
             btnChua = new PhongKham.RJControls.RJButton();
             label1 = new Label();
@@ -42,6 +41,7 @@
             panelTitleBar = new Panel();
             cbLoaiVP = new ComboBox();
             btnSearchLT = new Button();
+            txtTimkiem = new CustomControls.RJControls.RJTextBox();
             ((System.ComponentModel.ISupportInitialize)dgvVP).BeginInit();
             panelTitleBar.SuspendLayout();
             SuspendLayout();
@@ -136,30 +136,6 @@
             label2.TabIndex = 25;
             label2.Text = "Loại vật phẩm:";
             // 
-            // txtTimkiem
-            // 
-            txtTimkiem.Anchor = AnchorStyles.Top;
-            txtTimkiem.BackColor = SystemColors.ControlLightLight;
-            txtTimkiem.BorderColor = Color.Gray;
-            txtTimkiem.BorderFocusColor = Color.HotPink;
-            txtTimkiem.BorderRadius = 3;
-            txtTimkiem.BorderSize = 1;
-            txtTimkiem.Cursor = Cursors.IBeam;
-            txtTimkiem.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            txtTimkiem.ForeColor = Color.Black;
-            txtTimkiem.Location = new Point(295, 75);
-            txtTimkiem.Margin = new Padding(3, 4, 3, 4);
-            txtTimkiem.Multiline = true;
-            txtTimkiem.Name = "txtTimkiem";
-            txtTimkiem.Padding = new Padding(11, 9, 11, 9);
-            txtTimkiem.PasswordChar = false;
-            txtTimkiem.PlaceholderColor = Color.White;
-            txtTimkiem.PlaceholderText = "";
-            txtTimkiem.Size = new Size(397, 40);
-            txtTimkiem.TabIndex = 31;
-            txtTimkiem.Texts = "";
-            txtTimkiem.UnderlinedStyle = false;
-            // 
             // btnSan
             // 
             btnSan.BackColor = Color.DarkSlateGray;
@@ -242,6 +218,8 @@
             // 
             // cbLoaiVP
             // 
+            cbLoaiVP.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            cbLoaiVP.AutoCompleteSource = AutoCompleteSource.ListItems;
             cbLoaiVP.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
             cbLoaiVP.FormattingEnabled = true;
             cbLoaiVP.Location = new Point(21, 77);
@@ -255,13 +233,34 @@
             // 
             btnSearchLT.Cursor = Cursors.Hand;
             btnSearchLT.Image = (Image)resources.GetObject("btnSearchLT.Image");
-            btnSearchLT.Location = new Point(698, 72);
+            btnSearchLT.Location = new Point(698, 73);
             btnSearchLT.Margin = new Padding(3, 4, 3, 4);
             btnSearchLT.Name = "btnSearchLT";
-            btnSearchLT.Size = new Size(51, 48);
+            btnSearchLT.Size = new Size(45, 42);
             btnSearchLT.TabIndex = 60;
             btnSearchLT.UseVisualStyleBackColor = true;
             btnSearchLT.Click += btnSearchLT_Click;
+            // 
+            // txtTimkiem
+            // 
+            txtTimkiem.BackColor = SystemColors.Window;
+            txtTimkiem.BorderColor = Color.FromArgb(27, 117, 188);
+            txtTimkiem.BorderFocusColor = Color.HotPink;
+            txtTimkiem.BorderRadius = 8;
+            txtTimkiem.BorderSize = 1;
+            txtTimkiem.Cursor = Cursors.IBeam;
+            txtTimkiem.Font = new Font("Segoe UI", 11F);
+            txtTimkiem.Location = new Point(307, 74);
+            txtTimkiem.Multiline = false;
+            txtTimkiem.Name = "txtTimkiem";
+            txtTimkiem.Padding = new Padding(10, 7, 10, 7);
+            txtTimkiem.PasswordChar = false;
+            txtTimkiem.PlaceholderColor = Color.DarkGray;
+            txtTimkiem.PlaceholderText = "";
+            txtTimkiem.Size = new Size(385, 40);
+            txtTimkiem.TabIndex = 61;
+            txtTimkiem.Texts = "";
+            txtTimkiem.UnderlinedStyle = false;
             // 
             // QuanLyKhoForm
             // 
@@ -269,11 +268,11 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlLightLight;
             ClientSize = new Size(766, 605);
+            Controls.Add(txtTimkiem);
             Controls.Add(btnSearchLT);
             Controls.Add(cbLoaiVP);
             Controls.Add(label1);
             Controls.Add(btnChua);
-            Controls.Add(txtTimkiem);
             Controls.Add(btnXoa);
             Controls.Add(btnSua);
             Controls.Add(btnSan);
@@ -282,6 +281,7 @@
             Controls.Add(label2);
             Controls.Add(panelTitleBar);
             Name = "QuanLyKhoForm";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Quản Lý Tồn Kho";
             Load += QuanLyKhoForm_Load;
             ((System.ComponentModel.ISupportInitialize)dgvVP).EndInit();
@@ -297,7 +297,6 @@
         private DataGridView dgvVP;
         private Label label3;
         private Label label2;
-        private CustomControls.RJControls.RJTextBox txtTimkiem;
         private PhongKham.RJControls.RJButton btnSan;
         private PhongKham.RJControls.RJButton btnChua;
         private Label label1;
@@ -305,5 +304,6 @@
         private Panel panelTitleBar;
         private ComboBox cbLoaiVP;
         private Button btnSearchLT;
+        private CustomControls.RJControls.RJTextBox txtTimkiem;
     }
 }

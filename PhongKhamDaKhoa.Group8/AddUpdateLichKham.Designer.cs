@@ -57,11 +57,12 @@
             cbKhoa.Anchor = AnchorStyles.Top;
             cbKhoa.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
             cbKhoa.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cbKhoa.Font = new Font("Segoe UI", 11F);
             cbKhoa.FormattingEnabled = true;
             cbKhoa.Location = new Point(205, 376);
             cbKhoa.Margin = new Padding(2, 3, 2, 3);
             cbKhoa.Name = "cbKhoa";
-            cbKhoa.Size = new Size(228, 28);
+            cbKhoa.Size = new Size(229, 33);
             cbKhoa.TabIndex = 24;
             cbKhoa.SelectedValueChanged += cbKhoa_SelectedValueChanged;
             // 
@@ -82,32 +83,35 @@
             cboTenBS.Anchor = AnchorStyles.Top;
             cboTenBS.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
             cboTenBS.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cboTenBS.Font = new Font("Segoe UI", 11F);
             cboTenBS.FormattingEnabled = true;
             cboTenBS.Location = new Point(205, 444);
             cboTenBS.Margin = new Padding(2, 3, 2, 3);
             cboTenBS.Name = "cboTenBS";
-            cboTenBS.Size = new Size(228, 28);
+            cboTenBS.Size = new Size(229, 33);
             cboTenBS.TabIndex = 19;
             // 
             // cboLoaiBN
             // 
             cboLoaiBN.Anchor = AnchorStyles.Top;
+            cboLoaiBN.Font = new Font("Segoe UI", 11F);
             cboLoaiBN.FormattingEnabled = true;
             cboLoaiBN.Location = new Point(205, 313);
             cboLoaiBN.Margin = new Padding(2, 3, 2, 3);
             cboLoaiBN.Name = "cboLoaiBN";
-            cboLoaiBN.Size = new Size(228, 28);
+            cboLoaiBN.Size = new Size(229, 33);
             cboLoaiBN.TabIndex = 17;
             // 
             // dtpNgaySinhBN
             // 
             dtpNgaySinhBN.Anchor = AnchorStyles.Top;
             dtpNgaySinhBN.CustomFormat = "dd/MM/yyyy";
+            dtpNgaySinhBN.Font = new Font("Segoe UI", 11F);
             dtpNgaySinhBN.Format = DateTimePickerFormat.Custom;
             dtpNgaySinhBN.Location = new Point(205, 189);
             dtpNgaySinhBN.Margin = new Padding(2, 3, 2, 3);
             dtpNgaySinhBN.Name = "dtpNgaySinhBN";
-            dtpNgaySinhBN.Size = new Size(228, 27);
+            dtpNgaySinhBN.Size = new Size(229, 32);
             dtpNgaySinhBN.TabIndex = 13;
             // 
             // label7
@@ -198,10 +202,11 @@
             // 
             dtpLichHen.Anchor = AnchorStyles.Top;
             dtpLichHen.CustomFormat = "dd/MM/yyyy ";
+            dtpLichHen.Font = new Font("Segoe UI", 11F);
             dtpLichHen.Location = new Point(205, 71);
             dtpLichHen.Margin = new Padding(2, 3, 2, 3);
             dtpLichHen.Name = "dtpLichHen";
-            dtpLichHen.Size = new Size(228, 27);
+            dtpLichHen.Size = new Size(229, 32);
             dtpLichHen.TabIndex = 10;
             dtpLichHen.ValueChanged += dtpLichHen_ValueChanged;
             // 

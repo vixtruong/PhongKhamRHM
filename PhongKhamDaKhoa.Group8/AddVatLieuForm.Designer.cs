@@ -205,11 +205,14 @@
             // 
             // cbLoai
             // 
+            cbLoai.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            cbLoai.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cbLoai.Font = new Font("Segoe UI", 11F);
             cbLoai.FormattingEnabled = true;
             cbLoai.Location = new Point(144, 77);
             cbLoai.Margin = new Padding(3, 4, 3, 4);
             cbLoai.Name = "cbLoai";
-            cbLoai.Size = new Size(215, 28);
+            cbLoai.Size = new Size(215, 33);
             cbLoai.TabIndex = 18;
             // 
             // btnThoat
@@ -260,6 +263,7 @@
             Controls.Add(label2);
             Cursor = Cursors.IBeam;
             Name = "AddVatLieuForm";
+            StartPosition = FormStartPosition.CenterParent;
             Text = "AddUpdateVatLieu";
             Load += AddUpdateVatLieu_Load;
             panelTitleBar.ResumeLayout(false);

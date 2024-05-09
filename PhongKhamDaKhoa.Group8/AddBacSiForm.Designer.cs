@@ -60,9 +60,10 @@
             btnSaveBS.FlatStyle = FlatStyle.Flat;
             btnSaveBS.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 163);
             btnSaveBS.ForeColor = Color.Black;
-            btnSaveBS.Location = new Point(129, 474);
+            btnSaveBS.Location = new Point(147, 632);
+            btnSaveBS.Margin = new Padding(3, 4, 3, 4);
             btnSaveBS.Name = "btnSaveBS";
-            btnSaveBS.Size = new Size(109, 31);
+            btnSaveBS.Size = new Size(125, 41);
             btnSaveBS.TabIndex = 42;
             btnSaveBS.Text = "Lưu";
             btnSaveBS.TextColor = Color.Black;
@@ -77,14 +78,15 @@
             txtPhoneBS.BorderRadius = 10;
             txtPhoneBS.BorderSize = 1;
             txtPhoneBS.Cursor = Cursors.IBeam;
-            txtPhoneBS.Location = new Point(53, 340);
+            txtPhoneBS.Location = new Point(61, 453);
+            txtPhoneBS.Margin = new Padding(3, 4, 3, 4);
             txtPhoneBS.Multiline = false;
             txtPhoneBS.Name = "txtPhoneBS";
-            txtPhoneBS.Padding = new Padding(10, 7, 10, 7);
+            txtPhoneBS.Padding = new Padding(11, 9, 11, 9);
             txtPhoneBS.PasswordChar = false;
             txtPhoneBS.PlaceholderColor = Color.DarkGray;
             txtPhoneBS.PlaceholderText = "";
-            txtPhoneBS.Size = new Size(267, 31);
+            txtPhoneBS.Size = new Size(305, 40);
             txtPhoneBS.TabIndex = 40;
             txtPhoneBS.Texts = "";
             txtPhoneBS.UnderlinedStyle = false;
@@ -97,14 +99,15 @@
             txtNameBS.BorderRadius = 10;
             txtNameBS.BorderSize = 1;
             txtNameBS.Cursor = Cursors.IBeam;
-            txtNameBS.Location = new Point(53, 50);
+            txtNameBS.Location = new Point(61, 67);
+            txtNameBS.Margin = new Padding(3, 4, 3, 4);
             txtNameBS.Multiline = false;
             txtNameBS.Name = "txtNameBS";
-            txtNameBS.Padding = new Padding(10, 7, 10, 7);
+            txtNameBS.Padding = new Padding(11, 9, 11, 9);
             txtNameBS.PasswordChar = false;
             txtNameBS.PlaceholderColor = Color.DarkGray;
             txtNameBS.PlaceholderText = "";
-            txtNameBS.Size = new Size(267, 31);
+            txtNameBS.Size = new Size(305, 40);
             txtNameBS.TabIndex = 41;
             txtNameBS.Texts = "";
             txtNameBS.UnderlinedStyle = false;
@@ -113,9 +116,10 @@
             // 
             chkFemaleBS.AutoSize = true;
             chkFemaleBS.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            chkFemaleBS.Location = new Point(177, 279);
+            chkFemaleBS.Location = new Point(202, 372);
+            chkFemaleBS.Margin = new Padding(3, 4, 3, 4);
             chkFemaleBS.Name = "chkFemaleBS";
-            chkFemaleBS.Size = new Size(50, 25);
+            chkFemaleBS.Size = new Size(61, 32);
             chkFemaleBS.TabIndex = 38;
             chkFemaleBS.Text = "Nữ";
             chkFemaleBS.UseVisualStyleBackColor = true;
@@ -125,9 +129,10 @@
             // 
             chkMaleBS.AutoSize = true;
             chkMaleBS.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            chkMaleBS.Location = new Point(54, 279);
+            chkMaleBS.Location = new Point(62, 372);
+            chkMaleBS.Margin = new Padding(3, 4, 3, 4);
             chkMaleBS.Name = "chkMaleBS";
-            chkMaleBS.Size = new Size(63, 25);
+            chkMaleBS.Size = new Size(76, 32);
             chkMaleBS.TabIndex = 39;
             chkMaleBS.Text = "Nam";
             chkMaleBS.UseVisualStyleBackColor = true;
@@ -136,26 +141,28 @@
             // dtpDateWorkingBS
             // 
             dtpDateWorkingBS.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            dtpDateWorkingBS.Location = new Point(54, 416);
+            dtpDateWorkingBS.Location = new Point(62, 555);
+            dtpDateWorkingBS.Margin = new Padding(3, 4, 3, 4);
             dtpDateWorkingBS.Name = "dtpDateWorkingBS";
-            dtpDateWorkingBS.Size = new Size(266, 27);
+            dtpDateWorkingBS.Size = new Size(303, 32);
             dtpDateWorkingBS.TabIndex = 36;
             // 
             // dtpBirthdayBS
             // 
             dtpBirthdayBS.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 163);
-            dtpBirthdayBS.Location = new Point(54, 200);
+            dtpBirthdayBS.Location = new Point(62, 267);
+            dtpBirthdayBS.Margin = new Padding(3, 4, 3, 4);
             dtpBirthdayBS.Name = "dtpBirthdayBS";
-            dtpBirthdayBS.Size = new Size(266, 27);
+            dtpBirthdayBS.Size = new Size(303, 32);
             dtpBirthdayBS.TabIndex = 37;
             // 
             // label12
             // 
             label12.AutoSize = true;
             label12.Font = new Font("Segoe UI", 12F);
-            label12.Location = new Point(45, 316);
+            label12.Location = new Point(51, 421);
             label12.Name = "label12";
-            label12.Size = new Size(104, 21);
+            label12.Size = new Size(132, 28);
             label12.TabIndex = 31;
             label12.Text = "Số điện thoại:";
             // 
@@ -163,9 +170,9 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 12F);
-            label1.Location = new Point(45, 388);
+            label1.Location = new Point(51, 517);
             label1.Name = "label1";
-            label1.Size = new Size(140, 21);
+            label1.Size = new Size(176, 28);
             label1.TabIndex = 32;
             label1.Text = "Ngày vào làm việc:";
             // 
@@ -173,9 +180,9 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 12F);
-            label4.Location = new Point(45, 249);
+            label4.Location = new Point(51, 332);
             label4.Name = "label4";
-            label4.Size = new Size(73, 21);
+            label4.Size = new Size(91, 28);
             label4.TabIndex = 33;
             label4.Text = "Giới tính:";
             // 
@@ -183,9 +190,9 @@
             // 
             label7.AutoSize = true;
             label7.Font = new Font("Segoe UI", 12F);
-            label7.Location = new Point(45, 168);
+            label7.Location = new Point(51, 224);
             label7.Name = "label7";
-            label7.Size = new Size(83, 21);
+            label7.Size = new Size(103, 28);
             label7.TabIndex = 34;
             label7.Text = "Ngày sinh:";
             // 
@@ -193,9 +200,9 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 12F);
-            label3.Location = new Point(45, 22);
+            label3.Location = new Point(51, 29);
             label3.Name = "label3";
-            label3.Size = new Size(79, 21);
+            label3.Size = new Size(100, 28);
             label3.TabIndex = 35;
             label3.Text = "Họ và tên:";
             // 
@@ -204,9 +211,10 @@
             btnThoat.FlatAppearance.BorderSize = 0;
             btnThoat.FlatStyle = FlatStyle.Flat;
             btnThoat.Image = (Image)resources.GetObject("btnThoat.Image");
-            btnThoat.Location = new Point(326, 5);
+            btnThoat.Location = new Point(373, 7);
+            btnThoat.Margin = new Padding(3, 4, 3, 4);
             btnThoat.Name = "btnThoat";
-            btnThoat.Size = new Size(36, 32);
+            btnThoat.Size = new Size(41, 43);
             btnThoat.TabIndex = 0;
             btnThoat.UseVisualStyleBackColor = true;
             btnThoat.Click += btnThoat_Click;
@@ -217,8 +225,9 @@
             panelTitleBar.Controls.Add(btnThoat);
             panelTitleBar.Dock = DockStyle.Top;
             panelTitleBar.Location = new Point(0, 0);
+            panelTitleBar.Margin = new Padding(3, 4, 3, 4);
             panelTitleBar.Name = "panelTitleBar";
-            panelTitleBar.Size = new Size(370, 46);
+            panelTitleBar.Size = new Size(423, 61);
             panelTitleBar.TabIndex = 43;
             panelTitleBar.MouseEnter += button_MouseEnter;
             panelTitleBar.MouseLeave += button_MouseLeave;
@@ -231,14 +240,15 @@
             txtKhoa.BorderRadius = 10;
             txtKhoa.BorderSize = 1;
             txtKhoa.Cursor = Cursors.IBeam;
-            txtKhoa.Location = new Point(54, 119);
+            txtKhoa.Location = new Point(62, 159);
+            txtKhoa.Margin = new Padding(3, 4, 3, 4);
             txtKhoa.Multiline = false;
             txtKhoa.Name = "txtKhoa";
-            txtKhoa.Padding = new Padding(10, 7, 10, 7);
+            txtKhoa.Padding = new Padding(11, 9, 11, 9);
             txtKhoa.PasswordChar = false;
             txtKhoa.PlaceholderColor = Color.DarkGray;
             txtKhoa.PlaceholderText = "";
-            txtKhoa.Size = new Size(267, 31);
+            txtKhoa.Size = new Size(305, 40);
             txtKhoa.TabIndex = 45;
             txtKhoa.Texts = "";
             txtKhoa.UnderlinedStyle = false;
@@ -247,17 +257,17 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 12F);
-            label2.Location = new Point(47, 95);
+            label2.Location = new Point(54, 127);
             label2.Name = "label2";
-            label2.Size = new Size(48, 21);
+            label2.Size = new Size(61, 28);
             label2.TabIndex = 44;
             label2.Text = "Khoa:";
             // 
             // AddBacSiForm
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(370, 532);
+            ClientSize = new Size(423, 709);
             Controls.Add(txtKhoa);
             Controls.Add(label2);
             Controls.Add(btnSaveBS);
@@ -273,9 +283,8 @@
             Controls.Add(label7);
             Controls.Add(label3);
             Controls.Add(panelTitleBar);
-            Margin = new Padding(3, 2, 3, 2);
             Name = "AddBacSiForm";
-            StartPosition = FormStartPosition.CenterScreen;
+            StartPosition = FormStartPosition.CenterParent;
             Text = "Thông Tin Bác Sĩ";
             panelTitleBar.ResumeLayout(false);
             ResumeLayout(false);

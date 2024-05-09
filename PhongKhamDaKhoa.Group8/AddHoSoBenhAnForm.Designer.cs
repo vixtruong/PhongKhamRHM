@@ -175,7 +175,7 @@
             Controls.Add(panelTitleBar);
             Controls.Add(btnLuu);
             Name = "AddHoSoBenhAnForm";
-            StartPosition = FormStartPosition.CenterScreen;
+            StartPosition = FormStartPosition.CenterParent;
             Text = "Thông Tin Bệnh Án";
             panelTitleBar.ResumeLayout(false);
             ResumeLayout(false);

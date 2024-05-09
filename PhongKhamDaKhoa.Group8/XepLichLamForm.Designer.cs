@@ -224,6 +224,7 @@
             btnThoat.TabIndex = 6;
             btnThoat.TextAlign = ContentAlignment.MiddleRight;
             btnThoat.UseVisualStyleBackColor = false;
+            btnThoat.Click += btnThoat_Click;
             // 
             // panel3
             // 
@@ -421,7 +422,7 @@
             // 
             dtpNgayLamViec.CustomFormat = "dd/MM/yyyy ";
             dtpNgayLamViec.Enabled = false;
-            dtpNgayLamViec.Location = new Point(159, 120);
+            dtpNgayLamViec.Location = new Point(159, 117);
             dtpNgayLamViec.Margin = new Padding(2, 3, 2, 3);
             dtpNgayLamViec.Name = "dtpNgayLamViec";
             dtpNgayLamViec.Size = new Size(249, 32);
@@ -431,7 +432,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label1.Location = new Point(15, 123);
+            label1.Location = new Point(15, 116);
             label1.Margin = new Padding(2, 0, 2, 0);
             label1.Name = "label1";
             label1.Size = new Size(144, 28);
@@ -442,7 +443,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label2.Location = new Point(15, 275);
+            label2.Location = new Point(15, 250);
             label2.Margin = new Padding(2, 0, 2, 0);
             label2.Name = "label2";
             label2.Size = new Size(106, 28);
@@ -453,7 +454,7 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label4.Location = new Point(15, 344);
+            label4.Location = new Point(15, 319);
             label4.Margin = new Padding(2, 0, 2, 0);
             label4.Name = "label4";
             label4.Size = new Size(114, 28);
@@ -464,7 +465,7 @@
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label5.Location = new Point(15, 417);
+            label5.Location = new Point(15, 392);
             label5.Margin = new Padding(2, 0, 2, 0);
             label5.Name = "label5";
             label5.Size = new Size(78, 28);
@@ -475,7 +476,7 @@
             // 
             label8.AutoSize = true;
             label8.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label8.Location = new Point(15, 40);
+            label8.Location = new Point(15, 51);
             label8.Margin = new Padding(2, 0, 2, 0);
             label8.Name = "label8";
             label8.Size = new Size(121, 28);
@@ -486,7 +487,7 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label3.Location = new Point(16, 199);
+            label3.Location = new Point(16, 183);
             label3.Margin = new Padding(2, 0, 2, 0);
             label3.Name = "label3";
             label3.Size = new Size(63, 28);
@@ -524,7 +525,7 @@
             txtCaLam.BorderRadius = 8;
             txtCaLam.BorderSize = 1;
             txtCaLam.Cursor = Cursors.IBeam;
-            txtCaLam.Location = new Point(159, 409);
+            txtCaLam.Location = new Point(159, 388);
             txtCaLam.Multiline = false;
             txtCaLam.Name = "txtCaLam";
             txtCaLam.Padding = new Padding(10, 7, 10, 7);
@@ -544,7 +545,7 @@
             txtTenPT.BorderRadius = 8;
             txtTenPT.BorderSize = 1;
             txtTenPT.Cursor = Cursors.IBeam;
-            txtTenPT.Location = new Point(159, 339);
+            txtTenPT.Location = new Point(159, 317);
             txtTenPT.Multiline = false;
             txtTenPT.Name = "txtTenPT";
             txtTenPT.Padding = new Padding(10, 7, 10, 7);
@@ -564,7 +565,7 @@
             txtTenBS.BorderRadius = 8;
             txtTenBS.BorderSize = 1;
             txtTenBS.Cursor = Cursors.IBeam;
-            txtTenBS.Location = new Point(159, 269);
+            txtTenBS.Location = new Point(159, 245);
             txtTenBS.Multiline = false;
             txtTenBS.Name = "txtTenBS";
             txtTenBS.Padding = new Padding(10, 7, 10, 7);
@@ -584,7 +585,7 @@
             txtKhoa.BorderRadius = 8;
             txtKhoa.BorderSize = 1;
             txtKhoa.Cursor = Cursors.IBeam;
-            txtKhoa.Location = new Point(159, 192);
+            txtKhoa.Location = new Point(159, 179);
             txtKhoa.Multiline = false;
             txtKhoa.Name = "txtKhoa";
             txtKhoa.Padding = new Padding(10, 7, 10, 7);
@@ -604,7 +605,7 @@
             txtMaLL.BorderRadius = 8;
             txtMaLL.BorderSize = 1;
             txtMaLL.Cursor = Cursors.IBeam;
-            txtMaLL.Location = new Point(159, 33);
+            txtMaLL.Location = new Point(159, 49);
             txtMaLL.Multiline = false;
             txtMaLL.Name = "txtMaLL";
             txtMaLL.Padding = new Padding(10, 7, 10, 7);

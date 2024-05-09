@@ -146,7 +146,7 @@
             // 
             label6.AutoSize = true;
             label6.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label6.Location = new Point(26, 56);
+            label6.Location = new Point(21, 56);
             label6.Name = "label6";
             label6.Size = new Size(54, 28);
             label6.TabIndex = 22;
@@ -156,7 +156,7 @@
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label5.Location = new Point(26, 295);
+            label5.Location = new Point(21, 295);
             label5.Name = "label5";
             label5.Size = new Size(46, 28);
             label5.TabIndex = 21;
@@ -166,7 +166,7 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label4.Location = new Point(26, 236);
+            label4.Location = new Point(21, 236);
             label4.Name = "label4";
             label4.Size = new Size(118, 28);
             label4.TabIndex = 20;
@@ -176,7 +176,7 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label3.Location = new Point(26, 176);
+            label3.Location = new Point(21, 176);
             label3.Name = "label3";
             label3.Size = new Size(99, 28);
             label3.TabIndex = 19;
@@ -186,7 +186,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label2.Location = new Point(26, 120);
+            label2.Location = new Point(21, 120);
             label2.Name = "label2";
             label2.Size = new Size(49, 28);
             label2.TabIndex = 18;
@@ -221,12 +221,14 @@
             // 
             // cbLoai
             // 
-            cbLoai.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            cbLoai.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+            cbLoai.AutoCompleteSource = AutoCompleteSource.ListItems;
+            cbLoai.Font = new Font("Segoe UI", 11F);
             cbLoai.FormattingEnabled = true;
             cbLoai.Location = new Point(138, 59);
             cbLoai.Margin = new Padding(3, 4, 3, 4);
             cbLoai.Name = "cbLoai";
-            cbLoai.Size = new Size(250, 36);
+            cbLoai.Size = new Size(250, 33);
             cbLoai.TabIndex = 58;
             // 
             // UpdateVatLieuForm
@@ -248,6 +250,7 @@
             Controls.Add(label2);
             Controls.Add(panelTitleBar);
             Name = "UpdateVatLieuForm";
+            StartPosition = FormStartPosition.CenterParent;
             Text = "Cập Nhật Vật Liệu";
             Load += UpdateVatLieuForm_Load;
             panelTitleBar.ResumeLayout(false);

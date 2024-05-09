@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\User\\Desktop\\PhongKhamDaKhoa\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\letanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\letanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\dangnhapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\dangnhapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\letanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\letanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,43 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhapForm.cs [Design]",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\DangNhapForm.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\DangNhapForm.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\DangNhapForm.cs [Design]",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\DangNhapForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:57:48.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeTanForm.cs",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\LeTanForm.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\LeTanForm.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\LeTanForm.cs",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\LeTanForm.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:59:25.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeTanForm.cs [Design]",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\LeTanForm.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\LeTanForm.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\LeTanForm.cs [Design]",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\LeTanForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:58:44.868Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

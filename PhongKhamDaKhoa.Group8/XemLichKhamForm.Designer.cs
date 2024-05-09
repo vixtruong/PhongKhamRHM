@@ -514,6 +514,7 @@
             btnThoat.TabIndex = 6;
             btnThoat.TextAlign = ContentAlignment.MiddleRight;
             btnThoat.UseVisualStyleBackColor = false;
+            btnThoat.Click += btnThoat_Click;
             // 
             // label12
             // 
@@ -643,7 +644,7 @@
             Controls.Add(groupBox2);
             Margin = new Padding(2, 3, 2, 3);
             Name = "XemLichKhamForm";
-            StartPosition = FormStartPosition.CenterParent;
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "XemLichKham";
             Load += XemLichKhamForm_Load;
             groupBox2.ResumeLayout(false);

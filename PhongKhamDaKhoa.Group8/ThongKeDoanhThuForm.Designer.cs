@@ -47,50 +47,50 @@
             label1.BackColor = Color.Transparent;
             label1.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 163);
             label1.ForeColor = SystemColors.ActiveCaptionText;
-            label1.Location = new Point(151, 10);
+            label1.Location = new Point(173, 13);
             label1.Margin = new Padding(2, 0, 2, 0);
             label1.Name = "label1";
-            label1.Size = new Size(103, 25);
+            label1.Size = new Size(130, 32);
             label1.TabIndex = 0;
             label1.Text = "Thông Tin";
             // 
             // dtpNgayKetThuc
             // 
             dtpNgayKetThuc.CustomFormat = "dd/MM/yyyy";
-            dtpNgayKetThuc.Location = new Point(156, 105);
-            dtpNgayKetThuc.Margin = new Padding(2);
+            dtpNgayKetThuc.Location = new Point(178, 140);
+            dtpNgayKetThuc.Margin = new Padding(2, 3, 2, 3);
             dtpNgayKetThuc.Name = "dtpNgayKetThuc";
-            dtpNgayKetThuc.Size = new Size(210, 23);
+            dtpNgayKetThuc.Size = new Size(239, 27);
             dtpNgayKetThuc.TabIndex = 3;
             // 
             // label3
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label3.Location = new Point(22, 105);
+            label3.Location = new Point(25, 140);
             label3.Margin = new Padding(2, 0, 2, 0);
             label3.Name = "label3";
-            label3.Size = new Size(115, 21);
+            label3.Size = new Size(145, 28);
             label3.TabIndex = 2;
             label3.Text = "Ngày kết thúc:";
             // 
             // dtpNgayBatDau
             // 
             dtpNgayBatDau.CustomFormat = "dd/MM/yyyy";
-            dtpNgayBatDau.Location = new Point(156, 58);
-            dtpNgayBatDau.Margin = new Padding(2);
+            dtpNgayBatDau.Location = new Point(178, 77);
+            dtpNgayBatDau.Margin = new Padding(2, 3, 2, 3);
             dtpNgayBatDau.Name = "dtpNgayBatDau";
-            dtpNgayBatDau.Size = new Size(210, 23);
+            dtpNgayBatDau.Size = new Size(239, 27);
             dtpNgayBatDau.TabIndex = 1;
             // 
             // label2
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label2.Location = new Point(22, 59);
+            label2.Location = new Point(25, 79);
             label2.Margin = new Padding(2, 0, 2, 0);
             label2.Name = "label2";
-            label2.Size = new Size(111, 21);
+            label2.Size = new Size(139, 28);
             label2.TabIndex = 0;
             label2.Text = "Ngày bắt đầu:";
             // 
@@ -107,9 +107,10 @@
             btnExportExcel.ForeColor = Color.Black;
             btnExportExcel.Image = (Image)resources.GetObject("btnExportExcel.Image");
             btnExportExcel.ImageAlign = ContentAlignment.TopCenter;
-            btnExportExcel.Location = new Point(33, 157);
+            btnExportExcel.Location = new Point(38, 209);
+            btnExportExcel.Margin = new Padding(3, 4, 3, 4);
             btnExportExcel.Name = "btnExportExcel";
-            btnExportExcel.Size = new Size(153, 137);
+            btnExportExcel.Size = new Size(175, 183);
             btnExportExcel.TabIndex = 5;
             btnExportExcel.Text = "Xuất file Excel";
             btnExportExcel.TextAlign = ContentAlignment.BottomCenter;
@@ -123,9 +124,10 @@
             btnThoat.FlatAppearance.BorderSize = 0;
             btnThoat.FlatStyle = FlatStyle.Flat;
             btnThoat.Image = (Image)resources.GetObject("btnThoat.Image");
-            btnThoat.Location = new Point(347, 8);
+            btnThoat.Location = new Point(397, 11);
+            btnThoat.Margin = new Padding(3, 4, 3, 4);
             btnThoat.Name = "btnThoat";
-            btnThoat.Size = new Size(36, 32);
+            btnThoat.Size = new Size(41, 43);
             btnThoat.TabIndex = 0;
             btnThoat.UseVisualStyleBackColor = true;
             btnThoat.Click += btnThoat_Click;
@@ -137,8 +139,9 @@
             panelTitleBar.Controls.Add(label1);
             panelTitleBar.Dock = DockStyle.Top;
             panelTitleBar.Location = new Point(0, 0);
+            panelTitleBar.Margin = new Padding(3, 4, 3, 4);
             panelTitleBar.Name = "panelTitleBar";
-            panelTitleBar.Size = new Size(391, 46);
+            panelTitleBar.Size = new Size(447, 61);
             panelTitleBar.TabIndex = 58;
             // 
             // btnXuatBieuDo
@@ -153,9 +156,10 @@
             btnXuatBieuDo.FlatStyle = FlatStyle.Flat;
             btnXuatBieuDo.ForeColor = Color.Black;
             btnXuatBieuDo.Image = (Image)resources.GetObject("btnXuatBieuDo.Image");
-            btnXuatBieuDo.Location = new Point(194, 157);
+            btnXuatBieuDo.Location = new Point(222, 209);
+            btnXuatBieuDo.Margin = new Padding(3, 4, 3, 4);
             btnXuatBieuDo.Name = "btnXuatBieuDo";
-            btnXuatBieuDo.Size = new Size(154, 137);
+            btnXuatBieuDo.Size = new Size(176, 183);
             btnXuatBieuDo.TabIndex = 59;
             btnXuatBieuDo.Text = "Xuất biểu đồ doanh thu";
             btnXuatBieuDo.TextAlign = ContentAlignment.BottomCenter;
@@ -165,10 +169,10 @@
             // 
             // ThongKeDoanhThuForm
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlLightLight;
-            ClientSize = new Size(391, 335);
+            ClientSize = new Size(447, 447);
             Controls.Add(btnXuatBieuDo);
             Controls.Add(panelTitleBar);
             Controls.Add(btnExportExcel);
@@ -176,8 +180,9 @@
             Controls.Add(label3);
             Controls.Add(dtpNgayBatDau);
             Controls.Add(label2);
-            Margin = new Padding(2);
+            Margin = new Padding(2, 3, 2, 3);
             Name = "ThongKeDoanhThuForm";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Thông Kê Doanh Thu";
             panelTitleBar.ResumeLayout(false);
             panelTitleBar.PerformLayout();

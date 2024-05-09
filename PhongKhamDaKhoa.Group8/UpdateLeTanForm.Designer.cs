@@ -248,7 +248,7 @@
             Controls.Add(label3);
             Controls.Add(panelTitleBar);
             Name = "UpdateLeTanForm";
-            StartPosition = FormStartPosition.CenterScreen;
+            StartPosition = FormStartPosition.CenterParent;
             Text = "Cập Nhật Lễ Tân";
             Load += UpdateLeTanForm_Load;
             panelTitleBar.ResumeLayout(false);

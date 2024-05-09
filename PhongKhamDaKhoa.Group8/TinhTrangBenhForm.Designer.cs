@@ -30,8 +30,7 @@
         {
             components = new System.ComponentModel.Container();
             contextMenuStrip1 = new ContextMenuStrip(components);
-            richTextBox1 = new RichTextBox();
-            btnUpdateLT = new PhongKham.RJControls.RJButton();
+            rtxtTinhtrang = new RichTextBox();
             SuspendLayout();
             // 
             // contextMenuStrip1
@@ -40,54 +39,32 @@
             contextMenuStrip1.Name = "contextMenuStrip1";
             contextMenuStrip1.Size = new Size(61, 4);
             // 
-            // richTextBox1
+            // rtxtTinhtrang
             // 
-            richTextBox1.BorderStyle = BorderStyle.FixedSingle;
-            richTextBox1.Location = new Point(10, 9);
-            richTextBox1.Margin = new Padding(3, 2, 3, 2);
-            richTextBox1.Name = "richTextBox1";
-            richTextBox1.Size = new Size(445, 187);
-            richTextBox1.TabIndex = 1;
-            richTextBox1.Text = "";
-            // 
-            // btnUpdateLT
-            // 
-            btnUpdateLT.BackColor = Color.Transparent;
-            btnUpdateLT.BackgroundColor = Color.Transparent;
-            btnUpdateLT.BorderColor = Color.FromArgb(27, 117, 188);
-            btnUpdateLT.BorderRadius = 10;
-            btnUpdateLT.BorderSize = 1;
-            btnUpdateLT.FlatAppearance.BorderSize = 0;
-            btnUpdateLT.FlatStyle = FlatStyle.Flat;
-            btnUpdateLT.Font = new Font("Segoe UI", 9.75F);
-            btnUpdateLT.ForeColor = Color.Black;
-            btnUpdateLT.Location = new Point(181, 202);
-            btnUpdateLT.Name = "btnUpdateLT";
-            btnUpdateLT.Size = new Size(97, 29);
-            btnUpdateLT.TabIndex = 59;
-            btnUpdateLT.Text = "Lưu";
-            btnUpdateLT.TextColor = Color.Black;
-            btnUpdateLT.UseVisualStyleBackColor = false;
-            btnUpdateLT.Click += btnUpdateLT_Click;
+            rtxtTinhtrang.BorderStyle = BorderStyle.FixedSingle;
+            rtxtTinhtrang.Location = new Point(11, 12);
+            rtxtTinhtrang.Name = "rtxtTinhtrang";
+            rtxtTinhtrang.Size = new Size(508, 248);
+            rtxtTinhtrang.TabIndex = 1;
+            rtxtTinhtrang.Text = "";
             // 
             // TinhTrangBenhForm
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlLightLight;
-            ClientSize = new Size(467, 242);
-            Controls.Add(btnUpdateLT);
-            Controls.Add(richTextBox1);
-            Margin = new Padding(3, 2, 3, 2);
+            ClientSize = new Size(534, 273);
+            Controls.Add(rtxtTinhtrang);
             Name = "TinhTrangBenhForm";
+            StartPosition = FormStartPosition.CenterParent;
             Text = "Tình Trạng Bệnh";
+            Load += TinhTrangBenhForm_Load;
             ResumeLayout(false);
         }
 
         #endregion
 
         private ContextMenuStrip contextMenuStrip1;
-        private RichTextBox richTextBox1;
-        private PhongKham.RJControls.RJButton btnUpdateLT;
+        private RichTextBox rtxtTinhtrang;
     }
 }
