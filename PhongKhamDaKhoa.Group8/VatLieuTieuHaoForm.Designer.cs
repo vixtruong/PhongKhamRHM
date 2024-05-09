@@ -49,9 +49,7 @@
             cbVatlieu = new ComboBox();
             cbKhoa = new ComboBox();
             label13 = new Label();
-            btnXoa = new FontAwesome.Sharp.IconButton();
             btnUpdateLT = new PhongKham.RJControls.RJButton();
-            btnThem = new FontAwesome.Sharp.IconButton();
             dgvListVL = new DataGridView();
             nudSoluong = new NumericUpDown();
             label5 = new Label();
@@ -70,6 +68,8 @@
             label11 = new Label();
             pictureBox6 = new PictureBox();
             pictureBox10 = new PictureBox();
+            btnXoa = new PhongKham.RJControls.RJButton();
+            btnThem = new PhongKham.RJControls.RJButton();
             panelTitleBar.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
@@ -90,7 +90,7 @@
             // 
             // panelTitleBar
             // 
-            panelTitleBar.BackColor = SystemColors.ControlLight;
+            panelTitleBar.BackColor = Color.WhiteSmoke;
             panelTitleBar.Controls.Add(btnThoat);
             panelTitleBar.Controls.Add(pictureBox4);
             panelTitleBar.Controls.Add(label7);
@@ -227,6 +227,7 @@
             // 
             // panel4
             // 
+            panel4.BackColor = Color.White;
             panel4.Controls.Add(cbPKB);
             panel4.Controls.Add(lbTenBS);
             panel4.Controls.Add(label9);
@@ -251,41 +252,42 @@
             // lbTenBS
             // 
             lbTenBS.AutoSize = true;
-            lbTenBS.Font = new Font("Segoe UI", 12F);
+            lbTenBS.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             lbTenBS.Location = new Point(510, 29);
             lbTenBS.Name = "lbTenBS";
-            lbTenBS.Size = new Size(96, 28);
+            lbTenBS.Size = new Size(101, 28);
             lbTenBS.TabIndex = 44;
             lbTenBS.Text = "Họ và tên";
             // 
             // label9
             // 
             label9.AutoSize = true;
-            label9.Font = new Font("Segoe UI", 12F);
+            label9.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label9.Location = new Point(474, 29);
             label9.Name = "label9";
-            label9.Size = new Size(38, 28);
+            label9.Size = new Size(40, 28);
             label9.TabIndex = 43;
             label9.Text = "BS:";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Font = new Font("Segoe UI", 12F);
+            label4.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label4.Location = new Point(33, 29);
             label4.Name = "label4";
-            label4.Size = new Size(50, 28);
+            label4.Size = new Size(53, 28);
             label4.TabIndex = 25;
             label4.Text = "PKB:";
             // 
             // panel5
             // 
+            panel5.BackColor = Color.White;
+            panel5.Controls.Add(btnXoa);
+            panel5.Controls.Add(btnThem);
             panel5.Controls.Add(cbVatlieu);
             panel5.Controls.Add(cbKhoa);
             panel5.Controls.Add(label13);
-            panel5.Controls.Add(btnXoa);
             panel5.Controls.Add(btnUpdateLT);
-            panel5.Controls.Add(btnThem);
             panel5.Controls.Add(dgvListVL);
             panel5.Controls.Add(nudSoluong);
             panel5.Controls.Add(label5);
@@ -322,31 +324,13 @@
             // label13
             // 
             label13.AutoSize = true;
-            label13.Font = new Font("Segoe UI", 12F);
+            label13.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label13.Location = new Point(33, 67);
             label13.Name = "label13";
-            label13.Size = new Size(81, 28);
+            label13.Size = new Size(86, 28);
             label13.TabIndex = 59;
             label13.Text = "Vật liệu:";
             label13.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // btnXoa
-            // 
-            btnXoa.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnXoa.IconChar = FontAwesome.Sharp.IconChar.MinusSquare;
-            btnXoa.IconColor = Color.FromArgb(183, 51, 49);
-            btnXoa.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            btnXoa.IconSize = 24;
-            btnXoa.ImageAlign = ContentAlignment.MiddleLeft;
-            btnXoa.Location = new Point(760, 61);
-            btnXoa.Margin = new Padding(3, 4, 3, 4);
-            btnXoa.Name = "btnXoa";
-            btnXoa.Size = new Size(93, 41);
-            btnXoa.TabIndex = 44;
-            btnXoa.Text = "    Xóa";
-            btnXoa.TextAlign = ContentAlignment.TopCenter;
-            btnXoa.UseVisualStyleBackColor = true;
-            btnXoa.Click += btnXoa_Click;
             // 
             // btnUpdateLT
             // 
@@ -368,24 +352,6 @@
             btnUpdateLT.TextColor = Color.White;
             btnUpdateLT.UseVisualStyleBackColor = false;
             btnUpdateLT.Click += btnUpdateLT_Click;
-            // 
-            // btnThem
-            // 
-            btnThem.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnThem.IconChar = FontAwesome.Sharp.IconChar.PlusSquare;
-            btnThem.IconColor = Color.FromArgb(0, 170, 0);
-            btnThem.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            btnThem.IconSize = 24;
-            btnThem.ImageAlign = ContentAlignment.MiddleLeft;
-            btnThem.Location = new Point(661, 61);
-            btnThem.Margin = new Padding(3, 4, 3, 4);
-            btnThem.Name = "btnThem";
-            btnThem.Size = new Size(93, 41);
-            btnThem.TabIndex = 44;
-            btnThem.Text = "Thêm";
-            btnThem.TextAlign = ContentAlignment.TopRight;
-            btnThem.UseVisualStyleBackColor = true;
-            btnThem.Click += btnThem_Click;
             // 
             // dgvListVL
             // 
@@ -411,20 +377,20 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Font = new Font("Segoe UI", 12F);
+            label5.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label5.Location = new Point(474, 67);
             label5.Name = "label5";
-            label5.Size = new Size(100, 28);
+            label5.Size = new Size(104, 28);
             label5.TabIndex = 23;
             label5.Text = "Số Lượng:";
             // 
             // label12
             // 
             label12.AutoSize = true;
-            label12.Font = new Font("Segoe UI", 12F);
+            label12.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label12.Location = new Point(33, 5);
             label12.Name = "label12";
-            label12.Size = new Size(61, 28);
+            label12.Size = new Size(63, 28);
             label12.TabIndex = 14;
             label12.Text = "Khoa:";
             label12.TextAlign = ContentAlignment.MiddleCenter;
@@ -491,7 +457,7 @@
             // 
             // panel3
             // 
-            panel3.BackColor = SystemColors.ControlLight;
+            panel3.BackColor = Color.WhiteSmoke;
             panel3.Controls.Add(label1);
             panel3.Controls.Add(label19);
             panel3.Controls.Add(pictureBox8);
@@ -605,6 +571,50 @@
             pictureBox10.TabIndex = 39;
             pictureBox10.TabStop = false;
             // 
+            // btnXoa
+            // 
+            btnXoa.BackColor = Color.FromArgb(234, 79, 82);
+            btnXoa.BackgroundColor = Color.FromArgb(234, 79, 82);
+            btnXoa.BorderColor = Color.LightGreen;
+            btnXoa.BorderRadius = 10;
+            btnXoa.BorderSize = 0;
+            btnXoa.Cursor = Cursors.Hand;
+            btnXoa.FlatAppearance.BorderSize = 0;
+            btnXoa.FlatStyle = FlatStyle.Flat;
+            btnXoa.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
+            btnXoa.ForeColor = Color.White;
+            btnXoa.Location = new Point(768, 62);
+            btnXoa.Margin = new Padding(3, 4, 3, 4);
+            btnXoa.Name = "btnXoa";
+            btnXoa.Size = new Size(101, 39);
+            btnXoa.TabIndex = 55;
+            btnXoa.Text = "Xóa";
+            btnXoa.TextColor = Color.White;
+            btnXoa.UseVisualStyleBackColor = false;
+            btnXoa.Click += btnXoa_Click;
+            // 
+            // btnThem
+            // 
+            btnThem.BackColor = Color.FromArgb(114, 162, 247);
+            btnThem.BackgroundColor = Color.FromArgb(114, 162, 247);
+            btnThem.BorderColor = Color.LemonChiffon;
+            btnThem.BorderRadius = 10;
+            btnThem.BorderSize = 0;
+            btnThem.Cursor = Cursors.Hand;
+            btnThem.FlatAppearance.BorderSize = 0;
+            btnThem.FlatStyle = FlatStyle.Flat;
+            btnThem.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
+            btnThem.ForeColor = Color.White;
+            btnThem.Location = new Point(660, 62);
+            btnThem.Margin = new Padding(3, 4, 3, 4);
+            btnThem.Name = "btnThem";
+            btnThem.Size = new Size(101, 39);
+            btnThem.TabIndex = 56;
+            btnThem.Text = "Thêm";
+            btnThem.TextColor = Color.White;
+            btnThem.UseVisualStyleBackColor = false;
+            btnThem.Click += btnThem_Click;
+            // 
             // VatLieuTieuHaoForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -665,9 +675,7 @@
         private ComboBox cbVatlieu;
         private ComboBox cbKhoa;
         private Label label13;
-        private FontAwesome.Sharp.IconButton btnXoa;
         private PhongKham.RJControls.RJButton btnUpdateLT;
-        private FontAwesome.Sharp.IconButton btnThem;
         private DataGridView dgvListVL;
         private NumericUpDown nudSoluong;
         private Label label5;
@@ -686,5 +694,7 @@
         private Label label11;
         private PictureBox pictureBox6;
         private PictureBox pictureBox10;
+        private PhongKham.RJControls.RJButton btnXoa;
+        private PhongKham.RJControls.RJButton btnThem;
     }
 }

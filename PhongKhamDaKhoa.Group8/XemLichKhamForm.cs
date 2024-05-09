@@ -347,6 +347,11 @@ namespace PhongKhamNhaKhoa
             this.Close();
         }
 
+        private void txt_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = true;
+        }
+
         private const int MaxWidth = 1301;
         private const int MaxHeight = 768;
 

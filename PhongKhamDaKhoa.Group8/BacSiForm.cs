@@ -21,12 +21,10 @@ namespace PhongKhamDaKhoa.Group8
         BacSiService bsService = new BacSiService();
         LichHenService lhService = new LichHenService();
         BenhNhanService bnService = new BenhNhanService();
-        private System.Threading.Timer timer;
 
         public BacSiForm()
         {
             InitializeComponent();
-            InitializeTimer();
             this.ControlBox = false;
         }
 
@@ -57,7 +55,7 @@ namespace PhongKhamDaKhoa.Group8
 
                 foreach (var item in lhService.GetAll())
                 {
-                    if (item.MaBs == bacsi.MaBs && item.Ngayhen == new DateOnly(DateTime.Today.Year, DateTime.Today.Month, DateTime.Today.Day))
+                    if (item.MaBs == bacsi?.MaBs && item.Ngayhen == new DateOnly(DateTime.Today.Year, DateTime.Today.Month, DateTime.Today.Day))
                     {
                         string tenBN = bnService.Get(item.MaBn).Hoten;
                         list.Add(new Tuple<string, string>(item.MaLh, tenBN));
@@ -149,25 +147,6 @@ namespace PhongKhamDaKhoa.Group8
             form.Show();
         }
 
-        //Cập nhật lại dgv
-        private void InitializeTimer()
-        {
-            // Khởi tạo Timer và cấu hình
-            timer = new System.Threading.Timer(TimerCallback, null, 0, 2000); // 2 giây
-        }
-
-        private void TimerCallback(object state)
-        {
-            // Thực hiện hành động cần thiết khi Timer chạy
-            LoadDgvLichKham();
-        }
-
-        private void DanhSachLichKhamForm_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            // Dừng Timer khi form đóng lại để tránh lỗi
-            timer.Dispose();
-        }
-
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
@@ -186,6 +165,11 @@ namespace PhongKhamDaKhoa.Group8
             {
                 this.Height = MaxHeight;
             }
+        }
+
+        private void btnReload_Click(object sender, EventArgs e)
+        {
+            LoadDgvLichKham();
         }
     }
 }

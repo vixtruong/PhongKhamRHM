@@ -94,7 +94,7 @@
             // 
             // panel1
             // 
-            panel1.BackColor = SystemColors.Control;
+            panel1.BackColor = Color.WhiteSmoke;
             panel1.Controls.Add(dtpNgayKham);
             panel1.Controls.Add(label3);
             panel1.Controls.Add(line);
@@ -238,7 +238,7 @@
             // 
             // panel3
             // 
-            panel3.BackColor = SystemColors.Control;
+            panel3.BackColor = Color.WhiteSmoke;
             panel3.Controls.Add(label7);
             panel3.Controls.Add(label6);
             panel3.Controls.Add(pictureBox3);

@@ -76,7 +76,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label2.Location = new Point(15, 203);
+            label2.Location = new Point(15, 181);
             label2.Name = "label2";
             label2.Size = new Size(111, 28);
             label2.TabIndex = 3;
@@ -86,7 +86,7 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
-            label4.Location = new Point(15, 149);
+            label4.Location = new Point(15, 127);
             label4.Name = "label4";
             label4.Size = new Size(121, 28);
             label4.TabIndex = 6;
@@ -97,7 +97,7 @@
             dtpNgayKham.BorderColor = Color.FromArgb(27, 117, 188);
             dtpNgayKham.BorderSize = 1;
             dtpNgayKham.Font = new Font("Segoe UI", 9.5F);
-            dtpNgayKham.Location = new Point(172, 139);
+            dtpNgayKham.Location = new Point(172, 129);
             dtpNgayKham.MinimumSize = new Size(4, 35);
             dtpNgayKham.Name = "dtpNgayKham";
             dtpNgayKham.Size = new Size(237, 35);
@@ -116,7 +116,7 @@
             btnLuu.FlatAppearance.BorderSize = 0;
             btnLuu.FlatStyle = FlatStyle.Flat;
             btnLuu.ForeColor = Color.Black;
-            btnLuu.Location = new Point(230, 393);
+            btnLuu.Location = new Point(230, 371);
             btnLuu.Name = "btnLuu";
             btnLuu.Size = new Size(107, 44);
             btnLuu.TabIndex = 9;
@@ -141,7 +141,7 @@
             // 
             // panelTitleBar
             // 
-            panelTitleBar.BackColor = Color.Transparent;
+            panelTitleBar.BackColor = Color.WhiteSmoke;
             panelTitleBar.Controls.Add(lblTitle);
             panelTitleBar.Controls.Add(btnThoat);
             panelTitleBar.Dock = DockStyle.Top;
@@ -168,7 +168,7 @@
             // txtTinhTrang
             // 
             txtTinhTrang.Cursor = Cursors.IBeam;
-            txtTinhTrang.Location = new Point(173, 203);
+            txtTinhTrang.Location = new Point(173, 181);
             txtTinhTrang.Name = "txtTinhTrang";
             txtTinhTrang.Size = new Size(237, 163);
             txtTinhTrang.TabIndex = 8;
@@ -179,7 +179,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlLightLight;
-            ClientSize = new Size(450, 455);
+            ClientSize = new Size(450, 427);
             Controls.Add(txtTinhTrang);
             Controls.Add(dtpNgayKham);
             Controls.Add(label4);

@@ -212,7 +212,7 @@
             // 
             // panelTitleBar
             // 
-            panelTitleBar.BackColor = Color.Transparent;
+            panelTitleBar.BackColor = Color.WhiteSmoke;
             panelTitleBar.Controls.Add(btnThoat);
             panelTitleBar.Controls.Add(lblTitle);
             panelTitleBar.Dock = DockStyle.Top;
@@ -325,10 +325,10 @@
             btnSave.FlatStyle = FlatStyle.Flat;
             btnSave.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 163);
             btnSave.ForeColor = Color.Black;
-            btnSave.Location = new Point(205, 569);
+            btnSave.Location = new Point(205, 565);
             btnSave.Margin = new Padding(3, 4, 3, 4);
             btnSave.Name = "btnSave";
-            btnSave.Size = new Size(112, 38);
+            btnSave.Size = new Size(112, 41);
             btnSave.TabIndex = 47;
             btnSave.Text = "Lưu";
             btnSave.TextColor = Color.Black;

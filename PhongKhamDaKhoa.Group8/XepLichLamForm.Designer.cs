@@ -536,6 +536,7 @@
             txtCaLam.TabIndex = 48;
             txtCaLam.Texts = "";
             txtCaLam.UnderlinedStyle = false;
+            txtCaLam.KeyPress += txt_KeyPress;
             // 
             // txtTenPT
             // 
@@ -556,6 +557,7 @@
             txtTenPT.TabIndex = 48;
             txtTenPT.Texts = "";
             txtTenPT.UnderlinedStyle = false;
+            txtTenPT.KeyPress += txt_KeyPress;
             // 
             // txtTenBS
             // 
@@ -576,6 +578,7 @@
             txtTenBS.TabIndex = 48;
             txtTenBS.Texts = "";
             txtTenBS.UnderlinedStyle = false;
+            txtTenBS.KeyPress += txt_KeyPress;
             // 
             // txtKhoa
             // 
@@ -596,6 +599,7 @@
             txtKhoa.TabIndex = 48;
             txtKhoa.Texts = "";
             txtKhoa.UnderlinedStyle = false;
+            txtKhoa.KeyPress += txt_KeyPress;
             // 
             // txtMaLL
             // 
@@ -616,6 +620,7 @@
             txtMaLL.TabIndex = 48;
             txtMaLL.Texts = "";
             txtMaLL.UnderlinedStyle = false;
+            txtMaLL.KeyPress += txt_KeyPress;
             // 
             // label6
             // 
@@ -678,7 +683,7 @@
             btnDelete.BorderSize = 0;
             btnDelete.FlatAppearance.BorderSize = 0;
             btnDelete.FlatStyle = FlatStyle.Flat;
-            btnDelete.Font = new Font("Segoe UI", 9.75F);
+            btnDelete.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
             btnDelete.ForeColor = Color.White;
             btnDelete.Location = new Point(1029, 588);
             btnDelete.Margin = new Padding(3, 4, 3, 4);
@@ -699,7 +704,7 @@
             btnUpdate.BorderSize = 0;
             btnUpdate.FlatAppearance.BorderSize = 0;
             btnUpdate.FlatStyle = FlatStyle.Flat;
-            btnUpdate.Font = new Font("Segoe UI", 9.75F);
+            btnUpdate.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
             btnUpdate.ForeColor = Color.White;
             btnUpdate.Location = new Point(903, 588);
             btnUpdate.Margin = new Padding(3, 4, 3, 4);
@@ -720,7 +725,7 @@
             btnAdd.BorderSize = 0;
             btnAdd.FlatAppearance.BorderSize = 0;
             btnAdd.FlatStyle = FlatStyle.Flat;
-            btnAdd.Font = new Font("Segoe UI", 9.75F);
+            btnAdd.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
             btnAdd.ForeColor = Color.White;
             btnAdd.Location = new Point(775, 588);
             btnAdd.Margin = new Padding(3, 4, 3, 4);

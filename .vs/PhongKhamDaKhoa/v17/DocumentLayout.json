@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\kythuatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\kythuatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\addhosobenhanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\addhosobenhanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\toathuocform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\toathuocform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\hosobenhanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\hosobenhanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\vatlieutieuhaoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\vatlieutieuhaoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\hosobenhanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\hosobenhanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F61532C-8F12-42A8-B45B-6EA88C91D91A}|Services\\Services.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\services\\hosobenhanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F61532C-8F12-42A8-B45B-6EA88C91D91A}|Services\\Services.csproj|solutionrelative:services\\hosobenhanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\bacsiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\bacsiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\bacsiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\bacsiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\bacsiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\bacsiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BF437C-820A-42FA-A368-6362B23BFCD2}|Repositories\\Repositories.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\repositories\\lichhenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BF437C-820A-42FA-A368-6362B23BFCD2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\lichhenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F61532C-8F12-42A8-B45B-6EA88C91D91A}|Services\\Services.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\services\\lichhenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F61532C-8F12-42A8-B45B-6EA88C91D91A}|Services\\Services.csproj|solutionrelative:services\\lichhenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\xeplichlamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\xeplichlamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\xeplichlamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\xeplichlamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|d:\\user\\desktop\\cnpm\\ck\\final\\phongkhamdakhoa\\phongkhamdakhoa.group8\\xemlichkhamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA27A471-6012-4A59-B6F4-D062864BCCBA}|PhongKhamDaKhoa.Group8\\PhongKhamDaKhoa.Group8.csproj|solutionrelative:phongkhamdakhoa.group8\\xemlichkhamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,37 +75,152 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "KyThuatForm.cs [Design]",
-              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\KyThuatForm.cs",
-              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\KyThuatForm.cs",
-              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\KyThuatForm.cs [Design]",
-              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\KyThuatForm.cs [Design]",
+              "Title": "AddHoSoBenhAnForm.cs [Design]",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\AddHoSoBenhAnForm.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\AddHoSoBenhAnForm.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\AddHoSoBenhAnForm.cs [Design]",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\AddHoSoBenhAnForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T09:56:28.716Z",
+              "WhenOpened": "2024-05-09T10:42:49.877Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoSoBenhAnService.cs",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\Services\\HoSoBenhAnService.cs",
+              "RelativeDocumentMoniker": "Services\\HoSoBenhAnService.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\Services\\HoSoBenhAnService.cs",
+              "RelativeToolTip": "Services\\HoSoBenhAnService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:38:58.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ToaThuocForm.cs [Design]",
-              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\ToaThuocForm.cs",
-              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\ToaThuocForm.cs",
-              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\ToaThuocForm.cs [Design]",
-              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\ToaThuocForm.cs [Design]",
+              "Title": "HoSoBenhAnForm.cs",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\HoSoBenhAnForm.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\HoSoBenhAnForm.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\HoSoBenhAnForm.cs",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\HoSoBenhAnForm.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T09:56:22.983Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-09T10:37:26.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "VatLieuTieuHaoForm.cs [Design]",
-              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\VatLieuTieuHaoForm.cs",
-              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\VatLieuTieuHaoForm.cs",
-              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\VatLieuTieuHaoForm.cs [Design]",
-              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\VatLieuTieuHaoForm.cs [Design]",
+              "Title": "HoSoBenhAnForm.cs [Design]",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\HoSoBenhAnForm.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\HoSoBenhAnForm.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\HoSoBenhAnForm.cs [Design]",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\HoSoBenhAnForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T09:56:18.442Z",
+              "WhenOpened": "2024-05-09T10:36:32.286Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BacSiForm.cs [Design]",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\BacSiForm.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\BacSiForm.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\BacSiForm.cs [Design]",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\BacSiForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:33:24.203Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BacSiForm.Designer.cs",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\BacSiForm.Designer.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\BacSiForm.Designer.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\BacSiForm.Designer.cs",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\BacSiForm.Designer.cs",
+              "ViewState": "AQIAAEQCAAAAAAAAAAAQwFYCAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:33:10.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LichHenRepo.cs",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\Repositories\\LichHenRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\LichHenRepo.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\Repositories\\LichHenRepo.cs",
+              "RelativeToolTip": "Repositories\\LichHenRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:31:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LichHenService.cs",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\Services\\LichHenService.cs",
+              "RelativeDocumentMoniker": "Services\\LichHenService.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\Services\\LichHenService.cs",
+              "RelativeToolTip": "Services\\LichHenService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:30:29.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BacSiForm.cs",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\BacSiForm.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\BacSiForm.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\BacSiForm.cs",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\BacSiForm.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:29:35.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "XepLichLamForm.cs",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\XepLichLamForm.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\XepLichLamForm.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\XepLichLamForm.cs",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\XepLichLamForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:27:34.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XepLichLamForm.cs [Design]",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\XepLichLamForm.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\XepLichLamForm.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\XepLichLamForm.cs [Design]",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\XepLichLamForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:27:30.947Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XemLichKhamForm.cs [Design]",
+              "DocumentMoniker": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\XemLichKhamForm.cs",
+              "RelativeDocumentMoniker": "PhongKhamDaKhoa.Group8\\XemLichKhamForm.cs",
+              "ToolTip": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\PhongKhamDaKhoa.Group8\\XemLichKhamForm.cs [Design]",
+              "RelativeToolTip": "PhongKhamDaKhoa.Group8\\XemLichKhamForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:26:48.353Z",
               "EditorCaption": " [Design]"
             }
           ]

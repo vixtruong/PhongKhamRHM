@@ -96,50 +96,50 @@
             // label12
             // 
             label12.AutoSize = true;
-            label12.Font = new Font("Segoe UI", 12F);
+            label12.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label12.Location = new Point(83, 473);
             label12.Name = "label12";
-            label12.Size = new Size(132, 28);
+            label12.Size = new Size(138, 28);
             label12.TabIndex = 5;
             label12.Text = "Số điện thoại:";
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 12F);
+            label1.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label1.Location = new Point(83, 569);
             label1.Name = "label1";
-            label1.Size = new Size(176, 28);
+            label1.Size = new Size(182, 28);
             label1.TabIndex = 7;
             label1.Text = "Ngày vào làm việc:";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Font = new Font("Segoe UI", 12F);
+            label4.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label4.Location = new Point(83, 383);
             label4.Name = "label4";
-            label4.Size = new Size(91, 28);
+            label4.Size = new Size(95, 28);
             label4.TabIndex = 8;
             label4.Text = "Giới tính:";
             // 
             // label7
             // 
             label7.AutoSize = true;
-            label7.Font = new Font("Segoe UI", 12F);
+            label7.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label7.Location = new Point(83, 275);
             label7.Name = "label7";
-            label7.Size = new Size(103, 28);
+            label7.Size = new Size(108, 28);
             label7.TabIndex = 9;
             label7.Text = "Ngày sinh:";
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Font = new Font("Segoe UI", 12F);
+            label3.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label3.Location = new Point(83, 68);
             label3.Name = "label3";
-            label3.Size = new Size(100, 28);
+            label3.Size = new Size(106, 28);
             label3.TabIndex = 10;
             label3.Text = "Họ và tên:";
             // 
@@ -271,10 +271,10 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("Segoe UI", 12F);
+            label2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label2.Location = new Point(83, 169);
             label2.Name = "label2";
-            label2.Size = new Size(61, 28);
+            label2.Size = new Size(63, 28);
             label2.TabIndex = 31;
             label2.Text = "Khoa:";
             // 

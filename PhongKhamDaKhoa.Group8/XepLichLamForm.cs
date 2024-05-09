@@ -27,6 +27,11 @@ namespace PhongKhamNhaKhoa
             this.ControlBox = false;
         }
 
+        private void txt_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = true;
+        }
+
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
         private extern static void ReleaseCapture();
 

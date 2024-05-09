@@ -41,7 +41,7 @@ namespace Services
 
         public List<Hosobenhan> SearchByMaBN(string id)
         {
-            return _repo.GetAll().Where(x => x.MaBn.ToLower().Equals(id.ToLower())).ToList();
+            return _repo.GetAll().Where(x => x.MaBn.ToLower().Contains(id.ToLower())).ToList();
         }
     }
 }

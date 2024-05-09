@@ -51,8 +51,8 @@
             // 
             // btnSaveBS
             // 
-            btnSaveBS.BackColor = SystemColors.ControlLight;
-            btnSaveBS.BackgroundColor = SystemColors.ControlLight;
+            btnSaveBS.BackColor = Color.Transparent;
+            btnSaveBS.BackgroundColor = Color.Transparent;
             btnSaveBS.BorderColor = Color.FromArgb(27, 117, 188);
             btnSaveBS.BorderRadius = 10;
             btnSaveBS.BorderSize = 1;
@@ -160,50 +160,50 @@
             // label12
             // 
             label12.AutoSize = true;
-            label12.Font = new Font("Segoe UI", 12F);
+            label12.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label12.Location = new Point(51, 460);
             label12.Name = "label12";
-            label12.Size = new Size(132, 28);
+            label12.Size = new Size(138, 28);
             label12.TabIndex = 31;
             label12.Text = "Số điện thoại:";
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 12F);
+            label1.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label1.Location = new Point(51, 556);
             label1.Name = "label1";
-            label1.Size = new Size(176, 28);
+            label1.Size = new Size(182, 28);
             label1.TabIndex = 32;
             label1.Text = "Ngày vào làm việc:";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Font = new Font("Segoe UI", 12F);
+            label4.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label4.Location = new Point(51, 371);
             label4.Name = "label4";
-            label4.Size = new Size(91, 28);
+            label4.Size = new Size(95, 28);
             label4.TabIndex = 33;
             label4.Text = "Giới tính:";
             // 
             // label7
             // 
             label7.AutoSize = true;
-            label7.Font = new Font("Segoe UI", 12F);
+            label7.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label7.Location = new Point(51, 263);
             label7.Name = "label7";
-            label7.Size = new Size(103, 28);
+            label7.Size = new Size(108, 28);
             label7.TabIndex = 34;
             label7.Text = "Ngày sinh:";
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Font = new Font("Segoe UI", 12F);
+            label3.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label3.Location = new Point(51, 68);
             label3.Name = "label3";
-            label3.Size = new Size(100, 28);
+            label3.Size = new Size(106, 28);
             label3.TabIndex = 35;
             label3.Text = "Họ và tên:";
             // 
@@ -224,7 +224,7 @@
             // 
             // panelTitleBar
             // 
-            panelTitleBar.BackColor = Color.Transparent;
+            panelTitleBar.BackColor = Color.WhiteSmoke;
             panelTitleBar.Controls.Add(lblTitle);
             panelTitleBar.Controls.Add(btnThoat);
             panelTitleBar.Dock = DockStyle.Top;
@@ -272,10 +272,10 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("Segoe UI", 12F);
+            label2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label2.Location = new Point(54, 166);
             label2.Name = "label2";
-            label2.Size = new Size(61, 28);
+            label2.Size = new Size(63, 28);
             label2.TabIndex = 44;
             label2.Text = "Khoa:";
             // 
@@ -283,6 +283,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.White;
             ClientSize = new Size(423, 732);
             Controls.Add(txtKhoa);
             Controls.Add(label2);

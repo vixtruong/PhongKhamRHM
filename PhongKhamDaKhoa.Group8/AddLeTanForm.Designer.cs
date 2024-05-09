@@ -232,7 +232,7 @@
             // 
             // panelTitleBar
             // 
-            panelTitleBar.BackColor = Color.Transparent;
+            panelTitleBar.BackColor = Color.WhiteSmoke;
             panelTitleBar.Controls.Add(lblTitle);
             panelTitleBar.Controls.Add(btnThoat);
             panelTitleBar.Dock = DockStyle.Top;
@@ -247,7 +247,7 @@
             lblTitle.Anchor = AnchorStyles.Top;
             lblTitle.AutoSize = true;
             lblTitle.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 163);
-            lblTitle.Location = new Point(96, 20);
+            lblTitle.Location = new Point(96, 16);
             lblTitle.Margin = new Padding(2, 0, 2, 0);
             lblTitle.Name = "lblTitle";
             lblTitle.Size = new Size(209, 32);

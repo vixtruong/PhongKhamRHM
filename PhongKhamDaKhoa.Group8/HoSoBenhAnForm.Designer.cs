@@ -29,6 +29,9 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(HoSoBenhAnForm));
+            DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
+            DataGridViewCellStyle dataGridViewCellStyle3 = new DataGridViewCellStyle();
             txtHoten = new CustomControls.RJControls.RJTextBox();
             label33 = new Label();
             label34 = new Label();
@@ -59,6 +62,7 @@
             label6 = new Label();
             pictureBox3 = new PictureBox();
             panel1 = new Panel();
+            label27 = new Label();
             label25 = new Label();
             label18 = new Label();
             label26 = new Label();
@@ -134,20 +138,20 @@
             // label33
             // 
             label33.AutoSize = true;
-            label33.Font = new Font("Segoe UI", 12F);
+            label33.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label33.Location = new Point(27, 263);
             label33.Name = "label33";
-            label33.Size = new Size(103, 28);
+            label33.Size = new Size(108, 28);
             label33.TabIndex = 70;
             label33.Text = "Ngày sinh:";
             // 
             // label34
             // 
             label34.AutoSize = true;
-            label34.Font = new Font("Segoe UI", 12F);
+            label34.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label34.Location = new Point(27, 159);
             label34.Name = "label34";
-            label34.Size = new Size(100, 28);
+            label34.Size = new Size(106, 28);
             label34.TabIndex = 71;
             label34.Text = "Họ và tên:";
             // 
@@ -171,20 +175,20 @@
             // label30
             // 
             label30.AutoSize = true;
-            label30.Font = new Font("Segoe UI", 12F);
+            label30.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label30.Location = new Point(25, 224);
             label30.Name = "label30";
-            label30.Size = new Size(154, 28);
+            label30.Size = new Size(164, 28);
             label30.TabIndex = 67;
             label30.Text = "Tình trạng bệnh:";
             // 
             // label31
             // 
             label31.AutoSize = true;
-            label31.Font = new Font("Segoe UI", 12F);
+            label31.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label31.Location = new Point(27, 565);
             label31.Name = "label31";
-            label31.Size = new Size(116, 28);
+            label31.Size = new Size(121, 28);
             label31.TabIndex = 68;
             label31.Text = "Ngày khám:";
             // 
@@ -248,7 +252,7 @@
             // 
             // panel3
             // 
-            panel3.BackColor = SystemColors.ControlLight;
+            panel3.BackColor = Color.WhiteSmoke;
             panel3.Controls.Add(btnThoat);
             panel3.Controls.Add(pictureBox2);
             panel3.Controls.Add(label21);
@@ -491,7 +495,8 @@
             // 
             // panel1
             // 
-            panel1.BackColor = SystemColors.ControlLight;
+            panel1.BackColor = Color.WhiteSmoke;
+            panel1.Controls.Add(label27);
             panel1.Controls.Add(label25);
             panel1.Controls.Add(label18);
             panel1.Controls.Add(label26);
@@ -517,6 +522,18 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(1078, 32);
             panel1.TabIndex = 78;
+            // 
+            // label27
+            // 
+            label27.Anchor = AnchorStyles.Bottom;
+            label27.AutoSize = true;
+            label27.Font = new Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 163);
+            label27.ForeColor = Color.Black;
+            label27.Location = new Point(404, 5);
+            label27.Name = "label27";
+            label27.Size = new Size(79, 23);
+            label27.TabIndex = 91;
+            label27.Text = "Nhân Đỗ";
             // 
             // label25
             // 
@@ -558,7 +575,7 @@
             // 
             pictureBox11.Anchor = AnchorStyles.Bottom;
             pictureBox11.Image = (Image)resources.GetObject("pictureBox11.Image");
-            pictureBox11.Location = new Point(624, 0);
+            pictureBox11.Location = new Point(513, 0);
             pictureBox11.Margin = new Padding(3, 4, 3, 4);
             pictureBox11.Name = "pictureBox11";
             pictureBox11.Size = new Size(30, 29);
@@ -584,7 +601,7 @@
             label19.AutoSize = true;
             label19.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 163);
             label19.ForeColor = Color.Black;
-            label19.Location = new Point(656, 5);
+            label19.Location = new Point(545, 5);
             label19.Name = "label19";
             label19.Size = new Size(171, 20);
             label19.TabIndex = 82;
@@ -630,7 +647,7 @@
             // 
             pictureBox12.Anchor = AnchorStyles.Bottom;
             pictureBox12.Image = (Image)resources.GetObject("pictureBox12.Image");
-            pictureBox12.Location = new Point(482, 1);
+            pictureBox12.Location = new Point(371, 1);
             pictureBox12.Margin = new Padding(3, 4, 3, 4);
             pictureBox12.Name = "pictureBox12";
             pictureBox12.Size = new Size(30, 29);
@@ -756,7 +773,7 @@
             btnUpdateLT.Cursor = Cursors.Hand;
             btnUpdateLT.FlatAppearance.BorderSize = 0;
             btnUpdateLT.FlatStyle = FlatStyle.Flat;
-            btnUpdateLT.Font = new Font("Segoe UI", 9.75F);
+            btnUpdateLT.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
             btnUpdateLT.ForeColor = Color.White;
             btnUpdateLT.Location = new Point(274, 477);
             btnUpdateLT.Margin = new Padding(3, 4, 3, 4);
@@ -778,7 +795,7 @@
             btnAddLT.Cursor = Cursors.Hand;
             btnAddLT.FlatAppearance.BorderSize = 0;
             btnAddLT.FlatStyle = FlatStyle.Flat;
-            btnAddLT.Font = new Font("Segoe UI", 9.75F);
+            btnAddLT.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnAddLT.ForeColor = Color.White;
             btnAddLT.Location = new Point(101, 477);
             btnAddLT.Margin = new Padding(3, 4, 3, 4);
@@ -794,9 +811,33 @@
             // 
             dgvListBA.BackgroundColor = SystemColors.ControlLightLight;
             dgvListBA.BorderStyle = BorderStyle.Fixed3D;
+            dataGridViewCellStyle1.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = SystemColors.Control;
+            dataGridViewCellStyle1.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            dataGridViewCellStyle1.ForeColor = SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = DataGridViewTriState.True;
+            dgvListBA.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             dgvListBA.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = SystemColors.Window;
+            dataGridViewCellStyle2.Font = new Font("Segoe UI", 10.2F);
+            dataGridViewCellStyle2.ForeColor = SystemColors.ControlText;
+            dataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = DataGridViewTriState.False;
+            dgvListBA.DefaultCellStyle = dataGridViewCellStyle2;
             dgvListBA.Location = new Point(11, 32);
             dgvListBA.Name = "dgvListBA";
+            dataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = SystemColors.Control;
+            dataGridViewCellStyle3.Font = new Font("Segoe UI", 10.2F);
+            dataGridViewCellStyle3.ForeColor = SystemColors.WindowText;
+            dataGridViewCellStyle3.SelectionBackColor = SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = DataGridViewTriState.True;
+            dgvListBA.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
             dgvListBA.RowHeadersVisible = false;
             dgvListBA.RowHeadersWidth = 51;
             dgvListBA.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
@@ -807,10 +848,10 @@
             // label24
             // 
             label24.AutoSize = true;
-            label24.Font = new Font("Segoe UI", 12F);
+            label24.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label24.Location = new Point(395, 91);
             label24.Name = "label24";
-            label24.Size = new Size(141, 28);
+            label24.Size = new Size(150, 28);
             label24.TabIndex = 83;
             label24.Text = "Mã bệnh nhân:";
             // 
@@ -853,7 +894,7 @@
             groupBox1.Controls.Add(dgvListBA);
             groupBox1.Controls.Add(btnUpdateLT);
             groupBox1.Controls.Add(btnAddLT);
-            groupBox1.Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            groupBox1.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             groupBox1.Location = new Point(391, 133);
             groupBox1.Name = "groupBox1";
             groupBox1.Size = new Size(673, 523);
@@ -871,7 +912,7 @@
             btnXoa.Cursor = Cursors.Hand;
             btnXoa.FlatAppearance.BorderSize = 0;
             btnXoa.FlatStyle = FlatStyle.Flat;
-            btnXoa.Font = new Font("Segoe UI", 9.75F);
+            btnXoa.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
             btnXoa.ForeColor = Color.White;
             btnXoa.Location = new Point(442, 477);
             btnXoa.Margin = new Padding(3, 4, 3, 4);
@@ -886,20 +927,20 @@
             // label14
             // 
             label14.AutoSize = true;
-            label14.Font = new Font("Segoe UI", 12F);
+            label14.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label14.Location = new Point(27, 91);
             label14.Name = "label14";
-            label14.Size = new Size(64, 28);
+            label14.Size = new Size(68, 28);
             label14.TabIndex = 87;
             label14.Text = "Bác sĩ:";
             // 
             // lbHoten
             // 
             lbHoten.AutoSize = true;
-            lbHoten.Font = new Font("Segoe UI", 12F);
+            lbHoten.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             lbHoten.Location = new Point(90, 91);
             lbHoten.Name = "lbHoten";
-            lbHoten.Size = new Size(96, 28);
+            lbHoten.Size = new Size(101, 28);
             lbHoten.TabIndex = 88;
             lbHoten.Text = "Họ và tên";
             // 
@@ -908,6 +949,7 @@
             AcceptButton = btnSearch;
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.White;
             ClientSize = new Size(1078, 699);
             Controls.Add(lbHoten);
             Controls.Add(label14);
@@ -1016,5 +1058,6 @@
         private Label lbHoten;
         private Label label25;
         private Label label26;
+        private Label label27;
     }
 }

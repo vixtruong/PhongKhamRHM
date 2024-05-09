@@ -260,6 +260,7 @@
             btnXoa.Cursor = Cursors.Hand;
             btnXoa.FlatAppearance.BorderSize = 0;
             btnXoa.FlatStyle = FlatStyle.Flat;
+            btnXoa.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
             btnXoa.ForeColor = Color.White;
             btnXoa.Location = new Point(767, 9);
             btnXoa.Margin = new Padding(3, 4, 3, 4);
@@ -281,6 +282,7 @@
             btnThem.Cursor = Cursors.Hand;
             btnThem.FlatAppearance.BorderSize = 0;
             btnThem.FlatStyle = FlatStyle.Flat;
+            btnThem.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold);
             btnThem.ForeColor = Color.White;
             btnThem.Location = new Point(659, 9);
             btnThem.Margin = new Padding(3, 4, 3, 4);
@@ -349,20 +351,20 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Font = new Font("Segoe UI", 12F);
+            label5.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label5.Location = new Point(481, 16);
             label5.Name = "label5";
-            label5.Size = new Size(100, 28);
+            label5.Size = new Size(104, 28);
             label5.TabIndex = 23;
             label5.Text = "Số Lượng:";
             // 
             // label12
             // 
             label12.AutoSize = true;
-            label12.Font = new Font("Segoe UI", 12F);
+            label12.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label12.Location = new Point(15, 17);
             label12.Name = "label12";
-            label12.Size = new Size(110, 28);
+            label12.Size = new Size(116, 28);
             label12.TabIndex = 14;
             label12.Text = "Loại Thuốc:";
             label12.TextAlign = ContentAlignment.MiddleCenter;
@@ -393,30 +395,30 @@
             // lbTenBS
             // 
             lbTenBS.AutoSize = true;
-            lbTenBS.Font = new Font("Segoe UI", 12F);
+            lbTenBS.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             lbTenBS.Location = new Point(517, 29);
             lbTenBS.Name = "lbTenBS";
-            lbTenBS.Size = new Size(96, 28);
+            lbTenBS.Size = new Size(101, 28);
             lbTenBS.TabIndex = 44;
             lbTenBS.Text = "Họ và tên";
             // 
             // label9
             // 
             label9.AutoSize = true;
-            label9.Font = new Font("Segoe UI", 12F);
+            label9.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label9.Location = new Point(480, 29);
             label9.Name = "label9";
-            label9.Size = new Size(38, 28);
+            label9.Size = new Size(40, 28);
             label9.TabIndex = 43;
             label9.Text = "BS:";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Font = new Font("Segoe UI", 12F);
+            label4.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
             label4.Location = new Point(14, 29);
             label4.Name = "label4";
-            label4.Size = new Size(50, 28);
+            label4.Size = new Size(53, 28);
             label4.TabIndex = 25;
             label4.Text = "PKB:";
             // 
@@ -457,7 +459,7 @@
             // 
             // panel3
             // 
-            panel3.BackColor = SystemColors.ControlLight;
+            panel3.BackColor = Color.WhiteSmoke;
             panel3.Controls.Add(label1);
             panel3.Controls.Add(label19);
             panel3.Controls.Add(pictureBox8);

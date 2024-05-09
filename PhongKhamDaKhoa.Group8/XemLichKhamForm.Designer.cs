@@ -121,6 +121,7 @@
             txtTenBN.TabIndex = 26;
             txtTenBN.Texts = "";
             txtTenBN.UnderlinedStyle = false;
+            txtTenBN.KeyPress += txt_KeyPress;
             // 
             // txtSDT
             // 
@@ -141,6 +142,7 @@
             txtSDT.TabIndex = 25;
             txtSDT.Texts = "";
             txtSDT.UnderlinedStyle = false;
+            txtSDT.KeyPress += txt_KeyPress;
             // 
             // txtLoaiBN
             // 
@@ -161,6 +163,7 @@
             txtLoaiBN.TabIndex = 24;
             txtLoaiBN.Texts = "";
             txtLoaiBN.UnderlinedStyle = false;
+            txtLoaiBN.KeyPress += txt_KeyPress;
             // 
             // txtKhoa
             // 
@@ -181,6 +184,7 @@
             txtKhoa.TabIndex = 23;
             txtKhoa.Texts = "";
             txtKhoa.UnderlinedStyle = false;
+            txtKhoa.KeyPress += txt_KeyPress;
             // 
             // txtTenBS
             // 
@@ -201,6 +205,7 @@
             txtTenBS.TabIndex = 22;
             txtTenBS.Texts = "";
             txtTenBS.UnderlinedStyle = false;
+            txtTenBS.KeyPress += txt_KeyPress;
             // 
             // txtNhuCauKham
             // 
@@ -221,6 +226,7 @@
             txtNhuCauKham.TabIndex = 21;
             txtNhuCauKham.Texts = "";
             txtNhuCauKham.UnderlinedStyle = false;
+            txtNhuCauKham.KeyPress += txt_KeyPress;
             // 
             // label9
             // 
@@ -273,6 +279,7 @@
             txtMaLH.TabIndex = 20;
             txtMaLH.Texts = "";
             txtMaLH.UnderlinedStyle = false;
+            txtMaLH.KeyPress += txt_KeyPress;
             // 
             // label7
             // 
@@ -535,7 +542,7 @@
             btnDelete.BorderSize = 0;
             btnDelete.FlatAppearance.BorderSize = 0;
             btnDelete.FlatStyle = FlatStyle.Flat;
-            btnDelete.Font = new Font("Segoe UI Semibold", 9.75F, FontStyle.Bold);
+            btnDelete.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
             btnDelete.ForeColor = Color.White;
             btnDelete.Location = new Point(1130, 665);
             btnDelete.Margin = new Padding(3, 4, 3, 4);
@@ -556,7 +563,7 @@
             btnUpdate.BorderSize = 0;
             btnUpdate.FlatAppearance.BorderSize = 0;
             btnUpdate.FlatStyle = FlatStyle.Flat;
-            btnUpdate.Font = new Font("Segoe UI Semibold", 9.75F, FontStyle.Bold);
+            btnUpdate.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
             btnUpdate.ForeColor = Color.White;
             btnUpdate.Location = new Point(994, 665);
             btnUpdate.Margin = new Padding(3, 4, 3, 4);
@@ -577,7 +584,7 @@
             btnAdd.BorderSize = 0;
             btnAdd.FlatAppearance.BorderSize = 0;
             btnAdd.FlatStyle = FlatStyle.Flat;
-            btnAdd.Font = new Font("Segoe UI Semibold", 9.75F, FontStyle.Bold);
+            btnAdd.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold);
             btnAdd.ForeColor = Color.White;
             btnAdd.Location = new Point(863, 665);
             btnAdd.Margin = new Padding(3, 4, 3, 4);

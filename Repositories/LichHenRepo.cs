@@ -11,7 +11,7 @@ namespace Repositories
     {
         private PhongkhamrhmContext db = new();
 
-        public List<Lichhen> GetAll()
+        public List<Lichhen>? GetAll()
         {
             return db.Lichhens.ToList();
         }

@@ -151,7 +151,7 @@
             // 
             // panelTitleBar
             // 
-            panelTitleBar.BackColor = Color.Transparent;
+            panelTitleBar.BackColor = Color.WhiteSmoke;
             panelTitleBar.Controls.Add(lblTitle);
             panelTitleBar.Controls.Add(btnThoat);
             panelTitleBar.Dock = DockStyle.Top;

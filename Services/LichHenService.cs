@@ -12,7 +12,8 @@ namespace Services
     {
 
         private LichHenRepo _repo = new();
-        public List<Lichhen> GetAll()
+
+        public List<Lichhen>? GetAll()
         {
             return _repo.GetAll();
         }

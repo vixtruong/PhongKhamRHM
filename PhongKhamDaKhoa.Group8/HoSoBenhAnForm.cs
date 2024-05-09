@@ -71,7 +71,7 @@ namespace PhongKhamDaKhoa.Group8
         private void btnSearch_Click(object sender, EventArgs e)
         {
             string maBN = txtMaBN.Texts;
-            if (hsService.GetByMaBN(maBN) == null)
+            if (hsService.SearchByMaBN(maBN).Count == 0)
             {
                 MessageBox.Show("Bệnh nhân không tồn tại hoặc chưa có hồ sơ bệnh án nào!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
@@ -104,6 +104,7 @@ namespace PhongKhamDaKhoa.Group8
             dgvListBA.Columns["MaBn"].HeaderText = "Mã BN";
             dgvListBA.Columns["Solankham"].HeaderText = "Lần khám";
             dgvListBA.Columns["Tinhtrang"].HeaderText = "Tình trạng";
+            dgvListBA.Columns["NgayKham"].HeaderText = "Ngày khám";
         }
 
         private void dgvListBA_SelectionChanged(object sender, EventArgs e)
