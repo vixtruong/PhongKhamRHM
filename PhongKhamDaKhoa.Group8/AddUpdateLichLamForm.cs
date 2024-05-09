@@ -73,7 +73,7 @@ namespace PhongKhamNhaKhoa
                     Ngay = DateOnly.FromDateTime(dtpNgayLamViec.Value),
                 };
                 _CaLamService.Add(caLam);
-                MessageBox.Show("Thêm ca làm  mới thành công!!!", "Successfully", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Thêm ca làm mới thành công!!!", "Successfully", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {
