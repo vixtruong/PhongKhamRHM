@@ -107,7 +107,7 @@
             btnExportExcel.ForeColor = Color.Black;
             btnExportExcel.Image = (Image)resources.GetObject("btnExportExcel.Image");
             btnExportExcel.ImageAlign = ContentAlignment.TopCenter;
-            btnExportExcel.Location = new Point(38, 209);
+            btnExportExcel.Location = new Point(48, 209);
             btnExportExcel.Margin = new Padding(3, 4, 3, 4);
             btnExportExcel.Name = "btnExportExcel";
             btnExportExcel.Size = new Size(175, 183);
@@ -156,7 +156,7 @@
             btnXuatBieuDo.FlatStyle = FlatStyle.Flat;
             btnXuatBieuDo.ForeColor = Color.Black;
             btnXuatBieuDo.Image = (Image)resources.GetObject("btnXuatBieuDo.Image");
-            btnXuatBieuDo.Location = new Point(222, 209);
+            btnXuatBieuDo.Location = new Point(232, 209);
             btnXuatBieuDo.Margin = new Padding(3, 4, 3, 4);
             btnXuatBieuDo.Name = "btnXuatBieuDo";
             btnXuatBieuDo.Size = new Size(176, 183);
