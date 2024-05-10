@@ -3133,23 +3133,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Users\\HUY\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\HUY\\source\\repos\\PhongKhamRHM\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\Services\\Services.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\Services\\obj\\",
+      "projectPath": "C:\\Users\\HUY\\source\\repos\\PhongKhamRHM\\Services\\Services.csproj",
+      "packagesPath": "C:\\Users\\HUY\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HUY\\Source\\Repos\\PhongKhamRHM\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HUY\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3164,8 +3164,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\Repositories\\Repositories.csproj": {
-              "projectPath": "D:\\User\\Desktop\\CNPM\\CK\\Final\\PhongKhamDaKhoa\\Repositories\\Repositories.csproj"
+            "C:\\Users\\HUY\\source\\repos\\PhongKhamRHM\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\HUY\\source\\repos\\PhongKhamRHM\\Repositories\\Repositories.csproj"
             }
           }
         }
@@ -3200,7 +3200,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

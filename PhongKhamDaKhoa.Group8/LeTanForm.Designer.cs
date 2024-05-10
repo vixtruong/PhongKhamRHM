@@ -80,11 +80,10 @@
             btnXepLichKham.ForeColor = Color.Black;
             btnXepLichKham.Image = (Image)resources.GetObject("btnXepLichKham.Image");
             btnXepLichKham.ImageAlign = ContentAlignment.TopCenter;
-            btnXepLichKham.Location = new Point(322, 83);
-            btnXepLichKham.Margin = new Padding(3, 4, 3, 4);
+            btnXepLichKham.Location = new Point(282, 62);
             btnXepLichKham.Name = "btnXepLichKham";
             btnXepLichKham.RightToLeft = RightToLeft.No;
-            btnXepLichKham.Size = new Size(158, 179);
+            btnXepLichKham.Size = new Size(138, 134);
             btnXepLichKham.TabIndex = 1;
             btnXepLichKham.Text = "Xem Lịch Khám";
             btnXepLichKham.TextAlign = ContentAlignment.BottomCenter;
@@ -108,7 +107,7 @@
             panel1.Location = new Point(0, 0);
             panel1.Margin = new Padding(1);
             panel1.Name = "panel1";
-            panel1.Size = new Size(259, 577);
+            panel1.Size = new Size(227, 433);
             panel1.TabIndex = 19;
             // 
             // dtpNgayKham
@@ -117,10 +116,11 @@
             dtpNgayKham.BorderSize = 0;
             dtpNgayKham.Enabled = false;
             dtpNgayKham.Font = new Font("Segoe UI", 9.5F);
-            dtpNgayKham.Location = new Point(16, 121);
+            dtpNgayKham.Location = new Point(14, 91);
+            dtpNgayKham.Margin = new Padding(3, 2, 3, 2);
             dtpNgayKham.MinimumSize = new Size(4, 35);
             dtpNgayKham.Name = "dtpNgayKham";
-            dtpNgayKham.Size = new Size(228, 35);
+            dtpNgayKham.Size = new Size(200, 35);
             dtpNgayKham.SkinColor = Color.White;
             dtpNgayKham.TabIndex = 1;
             dtpNgayKham.TextColor = Color.Black;
@@ -128,17 +128,17 @@
             // label3
             // 
             label3.BackColor = Color.FromArgb(27, 117, 188);
-            label3.Location = new Point(27, 101);
+            label3.Location = new Point(24, 76);
             label3.Name = "label3";
-            label3.Size = new Size(209, 3);
+            label3.Size = new Size(183, 2);
             label3.TabIndex = 7;
             // 
             // line
             // 
             line.BackColor = Color.FromArgb(27, 117, 188);
-            line.Location = new Point(27, 459);
+            line.Location = new Point(24, 344);
             line.Name = "line";
-            line.Size = new Size(209, 3);
+            line.Size = new Size(183, 2);
             line.TabIndex = 7;
             // 
             // dgvLichKham
@@ -146,13 +146,12 @@
             dgvLichKham.BackgroundColor = SystemColors.ControlLightLight;
             dgvLichKham.BorderStyle = BorderStyle.Fixed3D;
             dgvLichKham.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvLichKham.Location = new Point(16, 169);
-            dgvLichKham.Margin = new Padding(3, 4, 3, 4);
+            dgvLichKham.Location = new Point(14, 129);
             dgvLichKham.Name = "dgvLichKham";
             dgvLichKham.RowHeadersVisible = false;
             dgvLichKham.RowHeadersWidth = 62;
             dgvLichKham.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dgvLichKham.Size = new Size(229, 276);
+            dgvLichKham.Size = new Size(200, 207);
             dgvLichKham.TabIndex = 0;
             // 
             // label1
@@ -161,9 +160,9 @@
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 9.75F, FontStyle.Italic, GraphicsUnit.Point, 163);
             label1.ForeColor = Color.Black;
-            label1.Location = new Point(67, 472);
+            label1.Location = new Point(59, 354);
             label1.Name = "label1";
-            label1.Size = new Size(144, 23);
+            label1.Size = new Size(110, 17);
             label1.TabIndex = 6;
             label1.Text = "Contact For Work:";
             // 
@@ -173,9 +172,9 @@
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 163);
             label2.ForeColor = Color.Black;
-            label2.Location = new Point(111, 505);
+            label2.Location = new Point(97, 379);
             label2.Name = "label2";
-            label2.Size = new Size(79, 23);
+            label2.Size = new Size(60, 17);
             label2.TabIndex = 6;
             label2.Text = "Nhân Đỗ";
             // 
@@ -183,10 +182,9 @@
             // 
             pictureBox5.Anchor = AnchorStyles.Bottom;
             pictureBox5.Image = (Image)resources.GetObject("pictureBox5.Image");
-            pictureBox5.Location = new Point(41, 537);
-            pictureBox5.Margin = new Padding(3, 4, 3, 4);
+            pictureBox5.Location = new Point(36, 403);
             pictureBox5.Name = "pictureBox5";
-            pictureBox5.Size = new Size(30, 29);
+            pictureBox5.Size = new Size(26, 22);
             pictureBox5.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox5.TabIndex = 3;
             pictureBox5.TabStop = false;
@@ -195,10 +193,9 @@
             // 
             pictureBox4.Anchor = AnchorStyles.Bottom;
             pictureBox4.Image = (Image)resources.GetObject("pictureBox4.Image");
-            pictureBox4.Location = new Point(77, 503);
-            pictureBox4.Margin = new Padding(3, 4, 3, 4);
+            pictureBox4.Location = new Point(67, 377);
             pictureBox4.Name = "pictureBox4";
-            pictureBox4.Size = new Size(30, 29);
+            pictureBox4.Size = new Size(26, 22);
             pictureBox4.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox4.TabIndex = 3;
             pictureBox4.TabStop = false;
@@ -209,9 +206,9 @@
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 163);
             label4.ForeColor = Color.Black;
-            label4.Location = new Point(73, 541);
+            label4.Location = new Point(64, 406);
             label4.Name = "label4";
-            label4.Size = new Size(171, 20);
+            label4.Size = new Size(137, 15);
             label4.TabIndex = 5;
             label4.Text = "drnhan1211@gmail.com";
             // 
@@ -224,11 +221,10 @@
             btnThoat.Font = new Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 163);
             btnThoat.ForeColor = Color.Black;
             btnThoat.Image = (Image)resources.GetObject("btnThoat.Image");
-            btnThoat.Location = new Point(560, 15);
-            btnThoat.Margin = new Padding(3, 4, 3, 4);
+            btnThoat.Location = new Point(490, 11);
             btnThoat.Name = "btnThoat";
             btnThoat.Padding = new Padding(1, 0, 0, 0);
-            btnThoat.Size = new Size(38, 39);
+            btnThoat.Size = new Size(33, 29);
             btnThoat.TabIndex = 0;
             btnThoat.TextAlign = ContentAlignment.MiddleRight;
             btnThoat.UseVisualStyleBackColor = false;
@@ -243,9 +239,8 @@
             panel3.Controls.Add(label6);
             panel3.Controls.Add(pictureBox3);
             panel3.Location = new Point(0, 0);
-            panel3.Margin = new Padding(3, 4, 3, 4);
             panel3.Name = "panel3";
-            panel3.Size = new Size(259, 97);
+            panel3.Size = new Size(227, 73);
             panel3.TabIndex = 6;
             panel3.MouseDown += panelTitleBar_MouseDown;
             // 
@@ -254,9 +249,9 @@
             label7.AutoSize = true;
             label7.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 163);
             label7.ForeColor = Color.FromArgb(27, 117, 188);
-            label7.Location = new Point(101, 53);
+            label7.Location = new Point(88, 40);
             label7.Name = "label7";
-            label7.Size = new Size(146, 23);
+            label7.Size = new Size(110, 17);
             label7.TabIndex = 5;
             label7.Text = "RĂNG HÀM MẶT";
             // 
@@ -265,9 +260,9 @@
             label6.AutoSize = true;
             label6.Font = new Font("Segoe UI", 12.75F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 163);
             label6.ForeColor = Color.FromArgb(27, 117, 188);
-            label6.Location = new Point(91, 13);
+            label6.Location = new Point(80, 10);
             label6.Name = "label6";
-            label6.Size = new Size(166, 30);
+            label6.Size = new Size(129, 23);
             label6.TabIndex = 4;
             label6.Text = "PHÒNG KHÁM";
             // 
@@ -275,9 +270,8 @@
             // 
             pictureBox3.Image = (Image)resources.GetObject("pictureBox3.Image");
             pictureBox3.Location = new Point(3, 1);
-            pictureBox3.Margin = new Padding(3, 4, 3, 4);
             pictureBox3.Name = "pictureBox3";
-            pictureBox3.Size = new Size(89, 96);
+            pictureBox3.Size = new Size(78, 72);
             pictureBox3.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox3.TabIndex = 3;
             pictureBox3.TabStop = false;
@@ -296,10 +290,9 @@
             btnXepLichLam.ForeColor = Color.Black;
             btnXepLichLam.Image = (Image)resources.GetObject("btnXepLichLam.Image");
             btnXepLichLam.ImageAlign = ContentAlignment.TopCenter;
-            btnXepLichLam.Location = new Point(503, 83);
-            btnXepLichLam.Margin = new Padding(3, 4, 3, 4);
+            btnXepLichLam.Location = new Point(440, 62);
             btnXepLichLam.Name = "btnXepLichLam";
-            btnXepLichLam.Size = new Size(158, 179);
+            btnXepLichLam.Size = new Size(138, 134);
             btnXepLichLam.TabIndex = 2;
             btnXepLichLam.Text = "Xếp Lịch Làm Việc";
             btnXepLichLam.TextAlign = ContentAlignment.BottomCenter;
@@ -321,10 +314,9 @@
             btnXemThongKe.ForeColor = Color.Black;
             btnXemThongKe.Image = (Image)resources.GetObject("btnXemThongKe.Image");
             btnXemThongKe.ImageAlign = ContentAlignment.TopCenter;
-            btnXemThongKe.Location = new Point(678, 83);
-            btnXemThongKe.Margin = new Padding(3, 4, 3, 4);
+            btnXemThongKe.Location = new Point(593, 62);
             btnXemThongKe.Name = "btnXemThongKe";
-            btnXemThongKe.Size = new Size(158, 179);
+            btnXemThongKe.Size = new Size(138, 134);
             btnXemThongKe.TabIndex = 3;
             btnXemThongKe.Text = "Xem Thống Kê";
             btnXemThongKe.TextAlign = ContentAlignment.BottomCenter;
@@ -346,10 +338,9 @@
             btnXemTonKho.ForeColor = Color.Black;
             btnXemTonKho.Image = (Image)resources.GetObject("btnXemTonKho.Image");
             btnXemTonKho.ImageAlign = ContentAlignment.TopCenter;
-            btnXemTonKho.Location = new Point(503, 283);
-            btnXemTonKho.Margin = new Padding(3, 4, 3, 4);
+            btnXemTonKho.Location = new Point(440, 212);
             btnXemTonKho.Name = "btnXemTonKho";
-            btnXemTonKho.Size = new Size(158, 179);
+            btnXemTonKho.Size = new Size(138, 134);
             btnXemTonKho.TabIndex = 4;
             btnXemTonKho.Text = "Quản Lý Kho";
             btnXemTonKho.TextAlign = ContentAlignment.BottomCenter;
@@ -371,10 +362,9 @@
             btnThanhToan.ForeColor = Color.Black;
             btnThanhToan.Image = (Image)resources.GetObject("btnThanhToan.Image");
             btnThanhToan.ImageAlign = ContentAlignment.TopCenter;
-            btnThanhToan.Location = new Point(322, 283);
-            btnThanhToan.Margin = new Padding(3, 4, 3, 4);
+            btnThanhToan.Location = new Point(282, 212);
             btnThanhToan.Name = "btnThanhToan";
-            btnThanhToan.Size = new Size(158, 179);
+            btnThanhToan.Size = new Size(138, 134);
             btnThanhToan.TabIndex = 5;
             btnThanhToan.Text = "Thanh Toán";
             btnThanhToan.TextAlign = ContentAlignment.BottomCenter;
@@ -396,10 +386,9 @@
             btnThongTinNV.ForeColor = Color.Black;
             btnThongTinNV.Image = (Image)resources.GetObject("btnThongTinNV.Image");
             btnThongTinNV.ImageAlign = ContentAlignment.TopCenter;
-            btnThongTinNV.Location = new Point(678, 283);
-            btnThongTinNV.Margin = new Padding(3, 4, 3, 4);
+            btnThongTinNV.Location = new Point(593, 212);
             btnThongTinNV.Name = "btnThongTinNV";
-            btnThongTinNV.Size = new Size(158, 179);
+            btnThongTinNV.Size = new Size(138, 134);
             btnThongTinNV.TabIndex = 6;
             btnThongTinNV.Text = "Quản Lý Nhân Sự";
             btnThongTinNV.TextAlign = ContentAlignment.BottomCenter;
@@ -414,10 +403,9 @@
             panel2.Controls.Add(pictureBox1);
             panel2.Dock = DockStyle.Bottom;
             panel2.ForeColor = Color.Black;
-            panel2.Location = new Point(259, 505);
-            panel2.Margin = new Padding(3, 4, 3, 4);
+            panel2.Location = new Point(227, 379);
             panel2.Name = "panel2";
-            panel2.Size = new Size(612, 72);
+            panel2.Size = new Size(535, 54);
             panel2.TabIndex = 20;
             // 
             // pictureBox2
@@ -425,10 +413,10 @@
             pictureBox2.BackColor = Color.Transparent;
             pictureBox2.BorderStyle = BorderStyle.FixedSingle;
             pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new Point(325, 3);
+            pictureBox2.Location = new Point(284, 2);
             pictureBox2.Margin = new Padding(0);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(61, 66);
+            pictureBox2.Size = new Size(54, 50);
             pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox2.TabIndex = 8;
             pictureBox2.TabStop = false;
@@ -438,10 +426,10 @@
             pictureBox1.BackColor = Color.Transparent;
             pictureBox1.BorderStyle = BorderStyle.FixedSingle;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(262, 3);
+            pictureBox1.Location = new Point(229, 2);
             pictureBox1.Margin = new Padding(0);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(63, 66);
+            pictureBox1.Size = new Size(55, 50);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 3;
             pictureBox1.TabStop = false;
@@ -450,19 +438,18 @@
             // 
             panelTitleBar.BackColor = Color.White;
             panelTitleBar.Controls.Add(btnThoat);
-            panelTitleBar.Location = new Point(259, 0);
-            panelTitleBar.Margin = new Padding(3, 4, 3, 4);
+            panelTitleBar.Location = new Point(227, 0);
             panelTitleBar.Name = "panelTitleBar";
-            panelTitleBar.Size = new Size(613, 69);
+            panelTitleBar.Size = new Size(536, 52);
             panelTitleBar.TabIndex = 21;
             panelTitleBar.MouseDown += panelTitleBar_MouseDown;
             // 
             // LeTanForm
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(871, 577);
+            ClientSize = new Size(762, 433);
             Controls.Add(panelTitleBar);
             Controls.Add(panel3);
             Controls.Add(panel2);
@@ -474,7 +461,6 @@
             Controls.Add(btnXemTonKho);
             Controls.Add(btnXepLichKham);
             Icon = (Icon)resources.GetObject("$this.Icon");
-            Margin = new Padding(3, 4, 3, 4);
             MaximizeBox = false;
             Name = "LeTanForm";
             StartPosition = FormStartPosition.CenterScreen;

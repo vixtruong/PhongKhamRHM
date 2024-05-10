@@ -442,6 +442,7 @@
             Controls.Add(panel1);
             Name = "ChuPhongKham";
             Text = "Chủ Phòng Khám";
+            FormClosed += ChuPhongKhamForm_FormClosed;
             Resize += ChuPhongKham_Resize;
             ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
             ((System.ComponentModel.ISupportInitialize)dgvLichKham).EndInit();

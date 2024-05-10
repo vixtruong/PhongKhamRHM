@@ -25,6 +25,9 @@
     <Compile Update="BacSiForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ChuPhongKham.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="DangKyForm.cs">
       <SubType>Form</SubType>
     </Compile>

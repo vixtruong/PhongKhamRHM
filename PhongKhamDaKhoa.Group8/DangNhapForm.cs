@@ -79,6 +79,11 @@ namespace WinFormsApp4
                 bacSiForm.sdt = username;
                 bacSiForm.Show();
             }
+            else if (account.Chucvu == "CPK")
+            {
+                ChuPhongKham chuPhongKhamForm = new ChuPhongKham();
+                chuPhongKhamForm.Show();
+            }
             else
             {
                 return;
@@ -122,8 +127,9 @@ namespace WinFormsApp4
             Application.Exit();
         }
 
-        private const int MaxWidth = 776;
-        private const int MaxHeight = 642;
+        private const int MaxWidth = 679;
+        private const int MaxHeight = 485;
+
 
         private void DangNhapForm_Resize(object sender, EventArgs e)
         {
